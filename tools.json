@@ -1,0 +1,2121 @@
+[
+  {
+    "id": "fd29a96d-ecfc-4e79-81da-d4e257625c16",
+    "name": "Photopea",
+    "url": "https://www.photopea.com",
+    "logo": "https://www.photopea.com/promo/icon512.png",
+    "about": "Free browser-based Photoshop clone, no install needed",
+    "description": "Photopea is a free, advanced image editor that runs entirely in the browser and supports native PSD, XD, Sketch, and Figma files alongside its own editing tools. It replicates most of Photoshop's core workflow — layers, masks, filters — making it a strong option for anyone who needs occasional PSD editing without a Creative Cloud subscription.",
+    "category": "website",
+    "tags": [
+      "photo-editing",
+      "image-editing",
+      "graphic-design",
+      "design",
+      "designer",
+      "no-signup",
+      "browser-only",
+      "photoshop-alternative"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "4cb46cb0-3ff7-49fa-b237-1f779b02d087",
+    "name": "The Useless Web",
+    "url": "https://theuselessweb.com",
+    "logo": "https://theuselessweb.com/img/favicon.png",
+    "about": "One button sends you to a random weird or funny website",
+    "description": "The Useless Web is a novelty site built around a single button that teleports you to a random, often bizarre or pointless corner of the internet. It has no functional purpose beyond entertainment and rediscovering the internet's weirder, more chaotic side.",
+    "category": "website",
+    "tags": [
+      "random",
+      "entertainment",
+      "no-signup",
+      "browser-only",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "f70f5746-6b39-44c4-ad47-be5106e19b95",
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "logo": "https://unsplash.com/favicon-32x32.png",
+    "about": "Free high-resolution stock photos, no attribution required",
+    "description": "Unsplash is a massive library of free, high-resolution stock photography contributed by photographers worldwide. Images can be used for personal or commercial projects without mandatory attribution, making it a go-to source for designers, marketers, and developers needing quality visuals fast.",
+    "category": "website",
+    "tags": [
+      "stock-photos",
+      "design",
+      "graphic-design",
+      "designer",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "63f33ea1-1f40-4451-837c-6e6ccde31594",
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com",
+    "logo": "https://www.virustotal.com/gui/images/favicon.png",
+    "about": "Scans files and URLs against 70+ antivirus engines at once",
+    "description": "VirusTotal aggregates dozens of antivirus engines and website scanners to check whether a file or URL is malicious. Security researchers, IT admins, and cautious users upload suspicious files or links to get a consolidated verdict rather than relying on a single antivirus product.",
+    "category": "website",
+    "tags": [
+      "malware-scan",
+      "url-scan",
+      "security",
+      "system-admin",
+      "researcher",
+      "developer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "5ecbe69b-4c70-4566-b050-c207fd8c8850",
+    "name": "Windy",
+    "url": "https://www.windy.com",
+    "logo": "https://www.windy.com/favicon.ico",
+    "about": "Interactive weather map with wind, rain, and wave layers",
+    "description": "Windy is a highly visual, interactive weather forecasting map that layers wind patterns, precipitation, waves, temperature, and more onto a zoomable globe. It's popular with pilots, sailors, and outdoor enthusiasts who need more granular, visual weather data than a standard forecast app provides.",
+    "category": "website",
+    "tags": [
+      "weather-map",
+      "research",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "86ed8786-b75d-42b2-9bdd-3d103208e743",
+    "name": "WolframAlpha",
+    "url": "https://www.wolframalpha.com",
+    "logo": "https://www.wolframalpha.com/favicon.ico",
+    "about": "Computational engine that answers by computing, not searching",
+    "description": "WolframAlpha is a computational knowledge engine that solves math problems, analyzes data, and answers factual queries by computing answers from curated data and algorithms rather than searching indexed web pages. It's widely used by students and researchers for step-by-step math solutions and quick scientific or statistical lookups.",
+    "category": "ai-tool",
+    "tags": [
+      "computation",
+      "knowledge-engine",
+      "research",
+      "student",
+      "researcher",
+      "developer",
+      "wolfram",
+      "browser-only"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "41429273-b237-46de-8b41-b2b7ce93dea2",
+    "name": "PairDrop",
+    "url": "https://pairdrop.net",
+    "logo": "https://pairdrop.net/images/favicon96.png",
+    "about": "Browser-to-browser local file transfer, no cloud upload",
+    "description": "PairDrop lets devices on the same local network transfer files directly browser-to-browser without uploading to any cloud service, similar to AirDrop but working across Windows, Android, Linux, and more. It's open source, requires no signup, and keeps transfers private since data never leaves the local network.",
+    "category": "website",
+    "tags": [
+      "file-transfer",
+      "networking",
+      "peer-to-peer",
+      "cross-platform",
+      "open-source",
+      "self-hosted",
+      "no-signup",
+      "browser-only",
+      "airdrop-alternative"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "89aea0fc-4909-4450-a64c-91dd91ac6f60",
+    "name": "Ninite",
+    "url": "https://ninite.com",
+    "logo": "https://ninite.com/apple-touch-icon.png",
+    "about": "Pick apps, get one clean installer, no bloatware or toolbars",
+    "description": "Ninite generates a single installer for a batch of chosen apps, installing them silently in the background without extra toolbars, bundled bloatware, or browser hijackers. It's a fast way to set up a fresh Windows machine or keep existing software updated with minimal manual work.",
+    "category": "website",
+    "tags": [
+      "app-installer",
+      "productivity",
+      "system-admin",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "windows"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "483357df-2686-4805-87f7-f8884df6bf24",
+    "name": "CamelCamelCamel",
+    "url": "https://camelcamelcamel.com",
+    "logo": "https://camelcamelcamel.com/favicon.ico",
+    "about": "Amazon price history tracker with drop alerts",
+    "description": "CamelCamelCamel tracks price history for millions of Amazon products and sends alerts when a price drops to a target threshold. It helps shoppers avoid overpaying by showing whether a current price is actually a good deal relative to historical lows and highs.",
+    "category": "website",
+    "tags": [
+      "price-tracking",
+      "shopping",
+      "finance",
+      "shopper",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "c43a3010-66c0-41a1-b422-92f935bb4fa1",
+    "name": "AlternativeTo",
+    "url": "https://alternativeto.net",
+    "logo": "https://alternativeto.net/favicon.ico",
+    "about": "Crowd-sourced database of software alternatives, filterable by platform and license",
+    "description": "AlternativeTo is a crowd-sourced platform where users discover alternatives to software and apps they already know, filterable by platform, license type, and pricing model. It's especially useful for finding open-source or free replacements for paid mainstream software.",
+    "category": "website",
+    "tags": [
+      "software-discovery",
+      "dev-tools",
+      "productivity",
+      "developer",
+      "general-consumer",
+      "no-signup",
+      "google-alternative-finder"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "2fad43d2-306c-4947-b5d9-70f5772c1d20",
+    "name": "MapCrunch",
+    "url": "https://mapcrunch.com",
+    "logo": "https://mapcrunch.com/favicon.ico",
+    "about": "Teleports you to a random Google Street View location",
+    "description": "MapCrunch drops you into a random spot on Google Street View anywhere in the world, letting you explore streets, landscapes, and towns you'd never otherwise stumble on. It's a virtual-travel novelty tool often used for casual exploration or as a geo-guessing game.",
+    "category": "website",
+    "tags": [
+      "random",
+      "travel",
+      "geolocation",
+      "entertainment",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "25be5852-f6e9-4f0e-a078-ca3ffb518f2d",
+    "name": "Wayback Machine",
+    "url": "https://web.archive.org",
+    "logo": "https://web.archive.org/_static/images/archive.ico",
+    "about": "View archived snapshots of almost any webpage across time",
+    "description": "The Wayback Machine, run by the Internet Archive, has archived hundreds of billions of webpages since the 1990s and lets anyone view how a site looked on a given date. It's essential for research, journalism, verifying claims, and recovering content from dead or changed websites.",
+    "category": "website",
+    "tags": [
+      "web-archive",
+      "research",
+      "researcher",
+      "developer",
+      "general-consumer",
+      "no-signup",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "e3071d1c-d705-4c4a-ae0f-364bc1dffe9b",
+    "name": "WindowSwap",
+    "url": "https://window-swap.com",
+    "logo": "https://window-swap.com/favicon.ico",
+    "about": "Watch a live-style video of the view from a stranger's window",
+    "description": "WindowSwap shows a video of the view from someone's window somewhere in the world, swapped randomly on each visit. It's a quiet, meditative novelty site built around shared perspective rather than utility.",
+    "category": "website",
+    "tags": [
+      "random",
+      "entertainment",
+      "webcam",
+      "travel",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "71a060cc-5993-490d-9db2-10045d858d34",
+    "name": "This Person Does Not Exist",
+    "url": "https://thispersondoesnotexist.com",
+    "logo": "https://thispersondoesnotexist.com/favicon.ico",
+    "about": "Generates a new AI face of a person who doesn't exist, every refresh",
+    "description": "This Person Does Not Exist uses a generative adversarial network (StyleGAN) to produce a photorealistic human face that isn't a real person, generating a new one on every page load. It's a widely cited demo of generative AI's image capabilities and is used in design, research, and privacy-related mockups.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "image-generation",
+      "research",
+      "developer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "0fe5b904-1e2e-4aa0-9a97-cc2d58f78f02",
+    "name": "TinyWow",
+    "url": "https://tinywow.com",
+    "logo": "https://tinywow.com/favicon.ico",
+    "about": "Free bundle of PDF, image, video, and AI mini-tools",
+    "description": "TinyWow offers a large collection of free single-purpose tools for converting, compressing, and editing PDFs, images, and videos, alongside a growing set of AI writing and generation tools. It's a practical swiss-army-knife site for quick one-off file tasks without installing software.",
+    "category": "website",
+    "tags": [
+      "pdf-tools",
+      "image-editing",
+      "video-editing",
+      "ai-powered",
+      "productivity",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "84a34777-ca86-490f-a0cd-4a3a66d0a4b7",
+    "name": "Radiooooo",
+    "url": "https://radiooooo.com",
+    "logo": "https://radiooooo.com/favicon.ico",
+    "about": "Pick a decade and country, hear music from that era and place",
+    "description": "Radiooooo is a musical time machine: pick a country on a map and a decade, and it plays curated music from that place and period. It's built for musical discovery and exploration rather than mainstream streaming.",
+    "category": "website",
+    "tags": [
+      "music",
+      "travel",
+      "entertainment",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "2a5d1de1-e92c-451b-92f7-dcbc1e2de768",
+    "name": "Library Genesis (LibGen)",
+    "url": "https://libgen.is",
+    "logo": "",
+    "about": "Shadow library offering free downloads of books and papers",
+    "description": "Library Genesis is a shadow library providing free access to millions of books, academic papers, and articles, many of which are under copyright. Its legality varies by jurisdiction and it operates in a legal gray area regarding copyright infringement — include and use with that risk understood.",
+    "category": "website",
+    "tags": [
+      "piracy-risk",
+      "academic",
+      "research",
+      "researcher",
+      "student",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "61012c75-e98e-44a5-be6f-208292d9ca2f",
+    "name": "GeoSpy",
+    "url": "https://geospy.ai",
+    "logo": "",
+    "about": "AI tool that geolocates photos from visual clues",
+    "description": "GeoSpy uses AI to analyze visual clues in a photograph — landscape, architecture, signage — and estimate where it was taken. It's used in OSINT investigations, journalism verification, and security research, and carries the usual dual-use privacy considerations of geolocation tools.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "geolocation",
+      "osint",
+      "researcher",
+      "security"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "876c81cb-4b29-4342-a4e9-8bec7babbd57",
+    "name": "SpaceHey",
+    "url": "https://spacehey.com",
+    "logo": "https://spacehey.com/favicon.ico",
+    "about": "MySpace-style retro social network revival",
+    "description": "SpaceHey recreates the look and feel of mid-2000s MySpace, letting users build customizable profile pages and connect with friends in a nostalgic, retro social network format. It's aimed at users who want an alternative to modern algorithm-driven social platforms.",
+    "category": "website",
+    "tags": [
+      "social-network",
+      "retro",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "447c961c-6138-4853-9a4e-90ea26fa40f3",
+    "name": "Are.na",
+    "url": "https://are.na",
+    "logo": "https://are.na/favicon.ico",
+    "about": "Visual bookmarking and moodboard tool for collaborative research",
+    "description": "Are.na is a platform for collecting, organizing, and connecting images, links, and text into visual blocks and channels, designed for research, moodboarding, and collaborative idea development. It's popular with designers, artists, and researchers who think visually.",
+    "category": "website",
+    "tags": [
+      "design",
+      "research",
+      "designer",
+      "researcher",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "e7ad404e-6dc5-4ebf-bf29-711ba7595772",
+    "name": "Auphonic",
+    "url": "https://auphonic.com",
+    "logo": "https://auphonic.com/favicon.ico",
+    "about": "Automated audio post-production for podcasts and voice recordings",
+    "description": "Auphonic automates audio post-production tasks like leveling, noise reduction, and loudness normalization, primarily for podcasters and voice recording creators. It removes the need for manual audio engineering knowledge to get broadcast-quality sound.",
+    "category": "ai-tool",
+    "tags": [
+      "podcasting",
+      "audio-editing",
+      "ai-powered",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "e5db5ffb-875a-4a1f-bfd9-bdaf106d1716",
+    "name": "FutureMe",
+    "url": "https://futureme.org",
+    "logo": "https://futureme.org/favicon.ico",
+    "about": "Write an email to yourself, delivered on a future date you choose",
+    "description": "FutureMe lets users write a letter or email addressed to their future self, scheduled for delivery on a chosen future date, from months to years ahead. It's used for goal-setting, reflection, and personal time-capsule style journaling.",
+    "category": "website",
+    "tags": [
+      "writing",
+      "productivity",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "c29ad6bf-b4e2-43d2-b6a5-3563d072881c",
+    "name": "Shodan",
+    "url": "https://shodan.io",
+    "logo": "https://shodan.io/favicon.ico",
+    "about": "Search engine for internet-connected devices and IoT infrastructure",
+    "description": "Shodan is a search engine that indexes internet-connected devices — servers, webcams, industrial control systems, routers — rather than webpages, based on banner data collected via scanning. It's a core OSINT and security research tool for finding exposed systems, and carries dual-use risk if misused against unauthorized targets.",
+    "category": "website",
+    "tags": [
+      "osint",
+      "iot",
+      "security",
+      "search-engine",
+      "researcher",
+      "system-admin"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "f6225178-0d6c-40cf-99b6-1a156198b586",
+    "name": "Atlas Obscura",
+    "url": "https://atlasobscura.com",
+    "logo": "https://atlasobscura.com/favicon.ico",
+    "about": "Curated database of obscure and unusual travel destinations",
+    "description": "Atlas Obscura catalogs offbeat, hidden, and unusual places worldwide — from abandoned sites to strange museums — curated by a community of contributors. It's built for travelers seeking destinations off the typical tourist path.",
+    "category": "website",
+    "tags": [
+      "travel",
+      "research",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "a19d91d9-107e-4376-8e99-f7359c362b8b",
+    "name": "EarthCam",
+    "url": "https://earthcam.com",
+    "logo": "https://earthcam.com/favicon.ico",
+    "about": "Live public webcams from locations around the world",
+    "description": "EarthCam aggregates live public webcam feeds from tourist landmarks, cities, and scenic locations globally, letting anyone watch a live view of places in real time. It's used for virtual tourism, event viewing, and casual browsing.",
+    "category": "website",
+    "tags": [
+      "webcam",
+      "travel",
+      "entertainment",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "5c18b7c0-590b-47c1-a68f-e9e458d966c4",
+    "name": "Perplexity AI",
+    "url": "https://perplexity.ai",
+    "logo": "https://perplexity.ai/favicon.ico",
+    "about": "AI answer engine that searches and cites sources",
+    "description": "Perplexity AI combines real-time web search with an AI language model to produce direct, cited answers to queries instead of a list of links. It positions itself as an alternative to traditional search for research and fact-finding tasks.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "search-engine",
+      "research",
+      "researcher",
+      "student",
+      "developer"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "2e366ba8-8626-410e-9eb7-cb44e9e14cb7",
+    "name": "Opus Clip",
+    "url": "https://opus.pro",
+    "logo": "https://opus.pro/favicon.ico",
+    "about": "AI tool that auto-clips long videos into short-form highlights",
+    "description": "Opus Clip uses AI to analyze long-form video and automatically generate short, highlight-worthy clips optimized for platforms like TikTok, Reels, and Shorts. It's built for content creators who want to repurpose long content without manual editing.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "video-ai",
+      "video-editing",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "8d6d3a6a-b23d-47bc-8c42-12a305bd09d6",
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "logo": "https://elevenlabs.io/favicon.ico",
+    "about": "AI voice generation and cloning, text-to-speech",
+    "description": "ElevenLabs generates highly realistic AI voices from text and can clone specific voices from short audio samples, supporting multiple languages and emotional tones. It's widely used for audiobooks, video narration, dubbing, and voice-based product features.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "voice-ai",
+      "audio-editing",
+      "developer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "4f474de5-0799-404c-9807-b2528be62186",
+    "name": "Radio Garden",
+    "url": "https://radio.garden",
+    "logo": "https://radio.garden/favicon.ico",
+    "about": "Spin a 3D globe and listen to live radio stations worldwide",
+    "description": "Radio Garden lets users spin an interactive globe and tune into live radio broadcasts from thousands of stations around the world in real time. Unlike Radiooooo's curated-by-era approach, it streams actual live radio by geographic location.",
+    "category": "website",
+    "tags": [
+      "music",
+      "travel",
+      "entertainment",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "e95cc91a-ad09-4204-a5be-b75611d9243c",
+    "name": "Remove.bg",
+    "url": "https://remove.bg",
+    "logo": "https://remove.bg/favicon.ico",
+    "about": "One-click AI background removal from images",
+    "description": "Remove.bg uses AI to automatically detect and remove the background from an uploaded image in seconds, producing a clean cutout without manual masking. It's widely used by e-commerce sellers, designers, and anyone needing quick transparent-background images.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "background-removal",
+      "image-editing",
+      "designer",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "2c37f130-4965-48e5-8128-628ccb5d9819",
+    "name": "Canva",
+    "url": "https://canva.com",
+    "logo": "https://canva.com/favicon.ico",
+    "about": "Drag-and-drop design tool with templates for social, print, and presentations",
+    "description": "Canva is a template-driven design platform that lets non-designers create social media graphics, presentations, print materials, and videos through a simple drag-and-drop editor. It's the go-to tool for fast, template-based design versus Photopea's pro-editor approach.",
+    "category": "website",
+    "tags": [
+      "graphic-design",
+      "design",
+      "designer",
+      "general-consumer",
+      "productivity"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "7d2dc7b5-071b-4e3d-bf60-54f3cca88031",
+    "name": "AnswerThePublic",
+    "url": "https://answerthepublic.com",
+    "logo": "https://answerthepublic.com/favicon.ico",
+    "about": "Visualizes the questions people search around a keyword",
+    "description": "AnswerThePublic pulls autocomplete search-query data and visualizes it as a map of questions, prepositions, and comparisons people search around a given keyword. It's used by marketers and content creators for SEO research and content ideation.",
+    "category": "website",
+    "tags": [
+      "seo",
+      "research",
+      "dev-tools",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "d1b15ee1-5dc1-4b8f-9f58-ee6970071e50",
+    "name": "The FBI Vault",
+    "url": "https://vault.fbi.gov",
+    "logo": "https://vault.fbi.gov/favicon.ico",
+    "about": "FBI's public reading room of declassified and FOIA-released documents",
+    "description": "The FBI Vault is the Bureau's official electronic reading room, hosting declassified files, FOIA-released documents, and historical records on cases, individuals, and events. It's a primary-source research tool for journalists, historians, and the curious public.",
+    "category": "website",
+    "tags": [
+      "public-records",
+      "research",
+      "researcher",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "7ce6bda2-f255-4ef2-abdd-434609b2d7d2",
+    "name": "ImportYeti",
+    "url": "https://importyeti.com",
+    "logo": "https://importyeti.com/favicon.ico",
+    "about": "Searches US customs records to find suppliers and importers by product",
+    "description": "ImportYeti searches US customs bills of lading to reveal which companies import specific products and who their suppliers are. It's used for supply chain research, competitor analysis, and sourcing new manufacturers.",
+    "category": "website",
+    "tags": [
+      "corporate-data",
+      "research",
+      "dev-tools",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "b6d550d7-eafe-4c6e-b15e-2a2b39b74776",
+    "name": "OpenCorporates",
+    "url": "https://opencorporates.com",
+    "logo": "https://opencorporates.com/favicon.ico",
+    "about": "Largest open database of company and corporate registry data",
+    "description": "OpenCorporates aggregates official company registry data from jurisdictions worldwide into a single searchable open database, covering millions of legal entities. It's used for due diligence, corporate research, and investigative journalism.",
+    "category": "website",
+    "tags": [
+      "corporate-data",
+      "public-records",
+      "research",
+      "researcher",
+      "no-signup",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "681ca0cc-5c33-41b9-8b27-8d4a34a26fae",
+    "name": "Wigle",
+    "url": "https://wigle.net",
+    "logo": "https://wigle.net/favicon.ico",
+    "about": "Crowd-sourced WiFi network and geolocation database",
+    "description": "Wigle is a crowd-sourced database mapping WiFi networks and cell towers worldwide, built from user-submitted wardriving data, letting anyone look up the physical location tied to a WiFi SSID or BSSID. It's a well-known OSINT and security research tool with the usual dual-use privacy considerations.",
+    "category": "website",
+    "tags": [
+      "osint",
+      "wifi",
+      "geolocation",
+      "security",
+      "researcher",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "df924c09-5a70-47f3-bc6b-ef9c546c2893",
+    "name": "Futurepedia",
+    "url": "https://futurepedia.io",
+    "logo": "https://futurepedia.io/favicon.ico",
+    "about": "Directory of AI tools, catalogued and reviewed",
+    "description": "Futurepedia is a directory site cataloging and reviewing new AI tools across categories like writing, image, video, and productivity. It functions like AlternativeTo but scoped specifically to the fast-moving AI tools space.",
+    "category": "website",
+    "tags": [
+      "tool-directory",
+      "ai-powered",
+      "dev-tools",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "a42561a5-5c66-4172-a64f-19ad15cf3497",
+    "name": "Connected Papers",
+    "url": "https://connectedpapers.com",
+    "logo": "https://connectedpapers.com/favicon.ico",
+    "about": "Visual graph of academic papers related by citation",
+    "description": "Connected Papers builds a visual graph of academic papers connected by shared citations, helping researchers discover related work and trace a field's key papers from a single starting point. It's popular among students and academics for literature review and research discovery.",
+    "category": "website",
+    "tags": [
+      "academic",
+      "citation-graph",
+      "research",
+      "researcher",
+      "student",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "0d7d6381-42a9-4900-8365-6f31a5f648b6",
+    "name": "Privacy.com",
+    "url": "https://privacy.com",
+    "logo": "https://privacy.com/favicon.ico",
+    "about": "Virtual card numbers for safer online payments",
+    "description": "Privacy.com generates virtual, single-use or merchant-locked card numbers linked to a real bank account, letting users shop online without exposing their actual card details. It's used to prevent recurring charges, limit fraud exposure, and control subscription spending.",
+    "category": "website",
+    "tags": [
+      "payments",
+      "security",
+      "finance",
+      "general-consumer"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "f3e5e403-6fb2-4003-b2b0-9fe90735d614",
+    "name": "PublicWWW",
+    "url": "https://publicwww.com",
+    "logo": "https://publicwww.com/favicon.ico",
+    "about": "Search engine for source code across public websites",
+    "description": "PublicWWW indexes the source code of millions of websites, letting users search for specific code snippets, tracking scripts, or embedded widgets to find every site using them. It's used for competitive research, tracking adoption of scripts, and OSINT investigations.",
+    "category": "website",
+    "tags": [
+      "source-code-search",
+      "search-engine",
+      "osint",
+      "developer",
+      "researcher"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "c4df7302-60f9-41f9-81a5-e358be8b6873",
+    "name": "The True Size Of",
+    "url": "https://thetruesize.com",
+    "logo": "https://thetruesize.com/favicon.ico",
+    "about": "Drag countries around a map to see their true relative size",
+    "description": "The True Size Of lets you drag any country over the map to compare its actual land area against others, correcting for the size distortion caused by the standard Mercator projection. It's a simple, effective educational tool for understanding real geographic scale.",
+    "category": "website",
+    "tags": [
+      "mapping",
+      "data-visualization",
+      "research",
+      "student",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "f16606ae-16fb-4ac1-918e-508d79c49630",
+    "name": "Cleanup.pictures",
+    "url": "https://cleanup.pictures",
+    "logo": "https://cleanup.pictures/favicon.ico",
+    "about": "AI tool that removes unwanted objects or people from photos",
+    "description": "Cleanup.pictures uses AI to let users paint over unwanted objects, people, text, or watermarks in a photo and automatically fills in the background naturally. It pairs well with background-removal tools for full photo cleanup without needing Photoshop skills.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "image-editing",
+      "photo-editing",
+      "designer",
+      "general-consumer",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "20eae40a-1628-478f-bb1e-a97df7424661",
+    "name": "LittleSis.org",
+    "url": "https://littlesis.org",
+    "logo": "https://littlesis.org/favicon.ico",
+    "about": "Crowd-sourced database mapping relationships between powerful people and organizations",
+    "description": "LittleSis is a free, crowd-sourced database that maps connections between politicians, executives, corporations, and organizations, exposing relationships not disclosed in official records. It's a power-mapping and investigative research tool used by journalists and researchers.",
+    "category": "website",
+    "tags": [
+      "power-mapping",
+      "public-records",
+      "corporate-data",
+      "osint",
+      "research",
+      "researcher",
+      "no-signup",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "49a71bee-8d84-4d36-880d-b779f698be69",
+    "name": "FlightRadar24",
+    "url": "https://flightradar24.com",
+    "logo": "https://flightradar24.com/favicon.ico",
+    "about": "Real-time global flight tracking map",
+    "description": "FlightRadar24 tracks tens of thousands of aircraft in real time on an interactive world map, showing flight paths, altitude, speed, and aircraft details sourced from ADS-B receivers worldwide. It's used by travelers, aviation enthusiasts, and anyone tracking a specific flight.",
+    "category": "website",
+    "tags": [
+      "flight-tracking",
+      "mapping",
+      "travel",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "b206ff78-6890-4989-9363-8fee58d3e840",
+    "name": "NUKEMAP",
+    "url": "https://nuclearsecrecy.com/nukemap",
+    "logo": "https://nuclearsecrecy.com/favicon.ico",
+    "about": "Simulates nuclear detonation blast effects on any map location",
+    "description": "NUKEMAP lets users simulate the blast radius, fallout, and casualty estimates of a nuclear detonation at any chosen location on a real map, using historical and modern weapon yields. It's an educational visualization tool built for public understanding of nuclear weapons effects, not a how-to resource.",
+    "category": "website",
+    "tags": [
+      "simulation",
+      "data-visualization",
+      "mapping",
+      "research",
+      "student",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "904cb37d-eda6-4ccb-b863-c22aa3fb3d91",
+    "name": "Skiplagged",
+    "url": "https://skiplagged.com",
+    "logo": "https://skiplagged.com/favicon.ico",
+    "about": "Finds cheaper flights via hidden-city ticketing",
+    "description": "Skiplagged searches for cheaper airfare using hidden-city ticketing — booking a connecting flight and skipping the final leg — a practice that can save significant money but violates most airlines' terms of service and can lead to penalties like frequent-flyer account suspension. Use with that risk understood.",
+    "category": "website",
+    "tags": [
+      "travel",
+      "shopping",
+      "shopper",
+      "piracy-risk",
+      "no-signup"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "e0535da7-3594-43b1-a9e6-909dc0927649",
+    "name": "Sci-Hub",
+    "url": "https://sci-hub.se",
+    "logo": "",
+    "about": "Shadow library providing free access to paywalled academic papers",
+    "description": "Sci-Hub bypasses academic publisher paywalls to provide free access to millions of research papers, operating in direct legal conflict with copyright holders in most jurisdictions and facing ongoing takedown litigation. Include and use with that legal risk understood.",
+    "category": "website",
+    "tags": [
+      "piracy-risk",
+      "academic",
+      "research",
+      "researcher",
+      "student",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "c140e978-aab9-4996-bb5d-f5ff6cce7193",
+    "name": "PimEyes",
+    "url": "https://pimeyes.com",
+    "logo": "https://pimeyes.com/favicon.ico",
+    "about": "Reverse image search engine specifically for faces",
+    "description": "PimEyes performs facial-recognition-based reverse image search, finding other photos of a matched face across the indexed web. It carries significant privacy and stalking misuse potential — meaningfully higher risk than infrastructure-focused OSINT tools — and should be used only for legitimate, authorized purposes such as checking your own online exposure.",
+    "category": "ai-tool",
+    "tags": [
+      "facial-recognition",
+      "osint",
+      "privacy-risk",
+      "ai-powered",
+      "researcher"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "049962b9-d25c-402b-bbba-3c9aa5812a20",
+    "name": "OSINT Framework",
+    "url": "https://osintframework.com",
+    "logo": "https://osintframework.com/favicon.ico",
+    "about": "Directory of OSINT tools and resources organized by category",
+    "description": "OSINT Framework is a curated directory linking out to hundreds of open-source intelligence tools and resources, organized into a browsable category tree covering usernames, emails, social media, geolocation, and more. It's a starting point for security researchers and investigators mapping what tools exist for a given task.",
+    "category": "website",
+    "tags": [
+      "osint",
+      "tool-directory",
+      "security",
+      "researcher",
+      "developer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "28f77afe-0712-489e-9486-007084fec14a",
+    "name": "MyNoise.net",
+    "url": "https://mynoise.net",
+    "logo": "https://mynoise.net/favicon.ico",
+    "about": "Customizable ambient and background noise generator",
+    "description": "MyNoise.net offers a large library of finely tunable ambient soundscapes — rain, white noise, nature sounds — with detailed sliders to shape the exact sound profile. It's used for focus, relaxation, sleep, and masking distracting background noise.",
+    "category": "website",
+    "tags": [
+      "sound-generator",
+      "focus",
+      "productivity",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "ecca236b-13c1-45fb-a03a-a423d8abe273",
+    "name": "Supercook",
+    "url": "https://supercook.com",
+    "logo": "https://supercook.com/favicon.ico",
+    "about": "Enter ingredients you have, get matching recipes",
+    "description": "Supercook lets users list ingredients currently on hand and returns recipes that can be made with them, minimizing extra grocery trips. It's a practical kitchen tool for reducing food waste and simplifying meal planning.",
+    "category": "website",
+    "tags": [
+      "recipe",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "23c727ea-8d8a-44a9-9ef0-c8306707c791",
+    "name": "Hemingway Editor",
+    "url": "https://hemingwayapp.com",
+    "logo": "https://hemingwayapp.com/favicon.ico",
+    "about": "Writing tool that flags complex sentences and readability issues",
+    "description": "Hemingway Editor analyzes text and highlights overly complex sentences, passive voice, adverb overuse, and readability grade level, helping writers produce clearer, punchier prose. It's popular with bloggers, marketers, and students editing drafts.",
+    "category": "website",
+    "tags": [
+      "writing-editor",
+      "writing",
+      "productivity",
+      "student",
+      "general-consumer",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "f99d6a36-f9e4-4b0d-97fc-62ded968359e",
+    "name": "JustWatch",
+    "url": "https://justwatch.com",
+    "logo": "https://justwatch.com/favicon.ico",
+    "about": "Search where to stream a movie or show across all platforms",
+    "description": "JustWatch aggregates streaming availability across Netflix, Prime Video, Disney+, and dozens of other platforms, letting users search a title and instantly see where it's available to stream, rent, or buy. It's the go-to tool for avoiding subscription-hopping guesswork.",
+    "category": "website",
+    "tags": [
+      "streaming-guide",
+      "entertainment",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "c05265b0-6ddc-4444-86d6-4a786650ee07",
+    "name": "draw.io",
+    "url": "https://draw.io",
+    "logo": "https://draw.io/favicon.ico",
+    "about": "Free browser-based diagramming and flowchart tool",
+    "description": "draw.io (also known as diagrams.net) is a free, open-source diagramming tool for creating flowcharts, org charts, network diagrams, and UML, with integrations for Google Drive, Confluence, and local file storage. It's a staple for developers and technical writers documenting systems.",
+    "category": "website",
+    "tags": [
+      "diagramming",
+      "dev-tools",
+      "productivity",
+      "developer",
+      "no-signup",
+      "browser-only",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "a03f44ad-9c57-4a65-ad98-7d459a7c9b3b",
+    "name": "Bitwarden",
+    "url": "https://bitwarden.com",
+    "logo": "https://bitwarden.com/favicon.ico",
+    "about": "Open-source password manager",
+    "description": "Bitwarden is an open-source password manager that stores and syncs credentials, generates strong passwords, and supports self-hosting for users who want full control over their data. It's a widely trusted, audited alternative to closed-source password managers.",
+    "category": "software",
+    "tags": [
+      "password-manager",
+      "security",
+      "open-source",
+      "self-hosted",
+      "cross-platform",
+      "developer",
+      "general-consumer"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "58c6f13e-177e-46a9-98b2-f5f31def6323",
+    "name": "Scribe",
+    "url": "https://scribehow.com",
+    "logo": "https://scribehow.com/favicon.ico",
+    "about": "Auto-generates step-by-step how-to guides by recording your screen actions",
+    "description": "Scribe records a user's clicks and actions in the browser or desktop and automatically turns them into a step-by-step how-to guide with screenshots and instructions. It's used by teams to quickly document processes and onboarding without manual screenshotting and writing.",
+    "category": "software",
+    "tags": [
+      "documentation",
+      "productivity",
+      "dev-tools",
+      "developer"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "7f0f6fcd-c3e9-4cf9-9102-741f2956b2a0",
+    "name": "AirForShare",
+    "url": "https://airforshare.com",
+    "logo": "",
+    "about": "Cross-platform local file sharing between devices, AirDrop-style",
+    "description": "AirForShare enables local file sharing between devices across different platforms without needing a cloud upload, similar in spirit to PairDrop and Apple's AirDrop. Verify the current URL and product details before publishing — could not confidently confirm this entry against an authoritative source.",
+    "category": "website",
+    "tags": [
+      "file-transfer",
+      "cross-platform",
+      "peer-to-peer",
+      "airdrop-alternative",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "fc245af0-25f5-402c-a43b-8e4a9f7494ba",
+    "name": "iLovePDF",
+    "url": "https://ilovepdf.com",
+    "logo": "https://ilovepdf.com/favicon.ico",
+    "about": "PDF toolkit for merging, splitting, compressing, and converting",
+    "description": "iLovePDF offers a focused set of PDF tools — merge, split, compress, convert to/from Word or images, and more — through a simple browser interface. It's a specialist alternative to broader multi-format sites like TinyWow, favored for PDF-specific workflows.",
+    "category": "website",
+    "tags": [
+      "pdf-tools",
+      "productivity",
+      "general-consumer",
+      "developer",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "b3b6d0e0-c8b0-4dfa-8d44-cf06a7f6a6ba",
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "logo": "https://excalidraw.com/favicon.ico",
+    "about": "Hand-drawn style whiteboard and diagramming tool",
+    "description": "Excalidraw is an open-source virtual whiteboard for sketching diagrams, wireframes, and ideas with a distinctive hand-drawn visual style. It's popular for quick collaborative brainstorming and technical sketches where a formal diagramming tool feels too rigid.",
+    "category": "website",
+    "tags": [
+      "whiteboard",
+      "diagramming",
+      "design",
+      "developer",
+      "designer",
+      "no-signup",
+      "browser-only",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "144fee67-a1fd-4d17-8765-7edb5c8690af",
+    "name": "Squoosh",
+    "url": "https://squoosh.app",
+    "logo": "https://squoosh.app/favicon.ico",
+    "about": "Browser-based image compression tool with before/after comparison",
+    "description": "Squoosh, built by Google, compresses images directly in the browser using multiple codecs, with a live before/after slider to compare quality and file size. It runs entirely client-side, so images never leave the user's device.",
+    "category": "website",
+    "tags": [
+      "image-compression",
+      "image-editing",
+      "developer",
+      "designer",
+      "no-signup",
+      "browser-only",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "d04c8f57-a5e0-4fd7-a0e1-4fa94e9124b0",
+    "name": "Have I Been Pwned",
+    "url": "https://haveibeenpwned.com",
+    "logo": "https://haveibeenpwned.com/favicon.ico",
+    "about": "Checks if your email or password appeared in known data breaches",
+    "description": "Have I Been Pwned lets users check whether their email address or password has appeared in a known data breach, aggregating breach data from thousands of incidents. It's an essential first step for assessing personal security exposure and pairs naturally with password managers.",
+    "category": "website",
+    "tags": [
+      "data-breach",
+      "security",
+      "general-consumer",
+      "developer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "56b8e7eb-fba3-4765-a598-a27f658e88c3",
+    "name": "A Soft Murmur",
+    "url": "https://asoftmurmur.com",
+    "logo": "https://asoftmurmur.com/favicon.ico",
+    "about": "Mix ambient sounds like rain, wind, and fire into your own soundscape",
+    "description": "A Soft Murmur lets you blend multiple ambient sound layers — rain, thunder, wind, fire, and more — each with its own volume slider, to build a custom background soundscape. It's used for focus, relaxation, sleep, and masking distracting noise.",
+    "category": "website",
+    "tags": [
+      "sound-generator",
+      "focus",
+      "productivity",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "2d9678f0-7d1f-406d-9f8e-cff0e1d239c3",
+    "name": "AutoDraw",
+    "url": "https://www.autodraw.com",
+    "logo": "https://www.autodraw.com/favicon.ico",
+    "about": "Doodle something rough, AI guesses it and offers clean icon replacements",
+    "description": "AutoDraw, a Google experiment, uses machine learning to recognize what you're sketching and suggests polished icon-style replacements you can drop straight in. It's built for people who can't draw but want a clean visual fast, no artistic skill required.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "drawing",
+      "design",
+      "google",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "5963ee8b-74a2-4d72-94e1-c61cdf66cbda",
+    "name": "Behance",
+    "url": "https://www.behance.net",
+    "logo": "https://www.behance.net/favicon.ico",
+    "about": "Adobe's portfolio platform for showcasing creative work",
+    "description": "Behance is Adobe's platform for creatives to publish and discover portfolios spanning illustration, photography, UI/UX, branding, and more. It's a standard destination for hiring, inspiration, and building a public creative body of work.",
+    "category": "website",
+    "tags": [
+      "portfolio",
+      "design",
+      "graphic-design",
+      "designer",
+      "general-consumer",
+      "adobe"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "e3512151-1825-4f89-a973-d83449250890",
+    "name": "How a Car Works",
+    "url": "https://www.howacarworks.com",
+    "logo": "https://www.howacarworks.com/favicon.ico",
+    "about": "Illustrated encyclopedia explaining how every car system works",
+    "description": "How a Car Works is an illustrated online guide breaking down engines, transmissions, brakes, electrics, and every other major car system into clear diagrams and plain-language explanations. It's aimed at owners, students, and hobbyists who want to actually understand their vehicle rather than just look up a repair step.",
+    "category": "website",
+    "tags": [
+      "education",
+      "research",
+      "student",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "c025a195-64d9-4b64-9df3-23f8c26f0301",
+    "name": "iPiccy",
+    "url": "https://ipiccy.com",
+    "logo": "https://ipiccy.com/favicon.ico",
+    "about": "Free browser photo editor with filters, effects, and collage tools",
+    "description": "iPiccy is a free browser-based photo editor covering filters, retouching, effects, and collage-making in a simple, casual interface. It's aimed at quick everyday photo edits rather than the deeper pro-level editing Photopea offers.",
+    "category": "website",
+    "tags": [
+      "photo-editing",
+      "image-editing",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "b2752429-9d0a-4a53-9ba0-c8e768fec365",
+    "name": "OMFGDOGS",
+    "url": "https://www.omfgdogs.com",
+    "logo": "",
+    "about": "A spinning dog gif and nothing else, internet-culture novelty relic",
+    "description": "OMFGDOGS is a single-page novelty site from early internet meme culture — a spinning dog gif set to music, with zero other function. It exists purely as a nostalgic, absurdist novelty in the same vein as The Useless Web.",
+    "category": "website",
+    "tags": [
+      "random",
+      "entertainment",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "0cbdea8b-0cf2-4b31-864f-3b48aad6263e",
+    "name": "Oyster",
+    "url": "https://www.oyster.com",
+    "logo": "https://www.oyster.com/favicon.ico",
+    "about": "Hotel reviews backed by unbiased photos from paid on-site inspectors",
+    "description": "Oyster sends professional photographers and writers to hotels to shoot unretouched photos and write independent reviews, countering the curated marketing photos hotels typically publish themselves. It's used by travelers who want an honest look at a property before booking.",
+    "category": "website",
+    "tags": [
+      "travel-booking",
+      "travel",
+      "shopper",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "44612d06-0ef8-4c36-a60b-91872cce32a8",
+    "name": "PCPartPicker",
+    "url": "https://pcpartpicker.com",
+    "logo": "https://pcpartpicker.com/favicon.ico",
+    "about": "Build a PC part list with automatic compatibility checks and price comparison",
+    "description": "PCPartPicker lets you assemble a custom PC build from a component database that flags compatibility issues — socket mismatches, wattage shortfalls, clearance conflicts — and compares live prices across retailers. It's the standard tool for both first-time builders and enthusiasts planning a rig.",
+    "category": "website",
+    "tags": [
+      "price-tracking",
+      "shopping",
+      "dev-tools",
+      "shopper",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "c0637a57-147a-4f83-b5e5-9e708940ef42",
+    "name": "PDFescape",
+    "url": "https://www.pdfescape.com",
+    "logo": "https://www.pdfescape.com/favicon.ico",
+    "about": "Browser-based PDF editor for filling forms and annotating documents",
+    "description": "PDFescape lets you edit, annotate, and fill forms directly on a PDF in the browser, without needing Acrobat. Its focus on in-place editing and form-filling sets it apart from convert/merge/split-oriented tools like iLovePDF.",
+    "category": "website",
+    "tags": [
+      "pdf-tools",
+      "productivity",
+      "general-consumer",
+      "developer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "c9f6f972-2574-48ef-984f-242448a19ac9",
+    "name": "Python for Everybody",
+    "url": "https://www.py4e.com",
+    "logo": "https://www.py4e.com/favicon.ico",
+    "about": "Free, university-affiliated introductory Python course",
+    "description": "Python for Everybody (py4e) is a free, widely-used introductory Python programming course created by Dr. Charles Severance, covering fundamentals through data structures and basic web/data work. It's a common starting point for self-taught programmers and students with no prior coding background.",
+    "category": "website",
+    "tags": [
+      "education",
+      "dev-tools",
+      "student",
+      "developer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "7c1cb2dd-a0e6-4f31-932d-4e4d26602e68",
+    "name": "Quick, Draw!",
+    "url": "https://quickdraw.withgoogle.com",
+    "logo": "https://quickdraw.withgoogle.com/favicon.ico",
+    "about": "Google's AI doodle-guessing game that learns from your drawings",
+    "description": "Quick, Draw! is a Google AI experiment where you sketch a prompted object and a neural network tries to guess it in real time, with every drawing contributed back into a public dataset used to train recognition models. It's AutoDraw's sister experiment — game and data-collection rather than a practical drawing tool.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "drawing",
+      "game",
+      "google",
+      "entertainment",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "7321347b-1c9a-4edd-ac9c-c67ca227feea",
+    "name": "Silex",
+    "url": "https://www.silex.me",
+    "logo": "https://www.silex.me/favicon.ico",
+    "about": "Open-source no-code website builder that exports clean HTML/CSS",
+    "description": "Silex is an open-source, browser-based website builder with free-form visual editing that exports clean, portable HTML/CSS instead of locking you into a proprietary platform. It's aimed at designers and developers who want no-code building without giving up ownership of the output.",
+    "category": "website",
+    "tags": [
+      "website-builder",
+      "no-code",
+      "design",
+      "dev-tools",
+      "developer",
+      "designer",
+      "open-source",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "0deaad73-39cd-4ac5-9922-d2b921b71596",
+    "name": "MyHeritage Deep Nostalgia",
+    "url": "https://www.myheritage.com/deep-nostalgia",
+    "logo": "https://www.myheritage.com/favicon.ico",
+    "about": "AI animates old still photos with subtle lifelike movement",
+    "description": "Deep Nostalgia, a MyHeritage feature, uses AI to animate a still photo with subtle head movement, blinking, and smiling, most often used to bring old family photos of relatives to life. It's built around genealogy and nostalgia rather than general-purpose photo editing.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "photo-animation",
+      "general-consumer"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "996f7ede-7b57-4b30-b261-c4c2fbddf694",
+    "name": "RoomGPT",
+    "url": "https://www.roomgpt.io",
+    "logo": "https://www.roomgpt.io/favicon.ico",
+    "about": "Upload a room photo, AI generates a redesigned version in seconds",
+    "description": "RoomGPT uses AI to redesign a photo of any room into different styles — modern, minimalist, industrial, and more — giving an instant visual concept without hiring a designer. It's used for renovation inspiration and quick interior-design mockups.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "interior-design",
+      "design",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "bc694de2-91aa-42a5-92ef-6fb2060ca9e0",
+    "name": "Animated Drawings",
+    "url": "https://sketch.metademolab.com",
+    "logo": "https://sketch.metademolab.com/favicon.ico",
+    "about": "Upload a drawn character, Meta AI rigs and animates it moving",
+    "description": "Animated Drawings, a Meta AI research demo, takes a photo of a hand-drawn character — often a kid's drawing — and automatically rigs and animates it so it walks and moves. It's built as a fun, accessible way to bring drawings to life without any animation skill.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "drawing",
+      "meta",
+      "entertainment",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "335f8ac6-2a72-4901-afab-ee46e13e9ad2",
+    "name": "Google Lens",
+    "url": "https://lens.google.com",
+    "logo": "https://lens.google.com/favicon.ico",
+    "about": "Point your camera at anything to search, translate, or identify it",
+    "description": "Google Lens uses visual search to identify objects, plants, and landmarks, extract and translate text, and find shopping matches directly from a photo or camera view. It's built into Google's app and Chrome rather than a standalone site, but its web entry point makes it usable from any browser.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "search-engine",
+      "google",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "67172985-1e98-4abc-92ee-c7bf97dc1014",
+    "name": "DishGen",
+    "url": "https://www.dishgen.com",
+    "logo": "https://www.dishgen.com/favicon.ico",
+    "about": "AI generates a novel recipe from ingredients or a craving",
+    "description": "DishGen generates original recipes on demand from a list of ingredients, a cuisine, or a described craving, rather than matching against an existing recipe database like Supercook does. It's aimed at people wanting inspiration beyond what's already been written down.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "recipe",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "9f435dab-b177-4f1a-b071-5508528843bd",
+    "name": "Adobe Podcast Enhance Speech",
+    "url": "https://podcast.adobe.com/enhance",
+    "logo": "https://podcast.adobe.com/favicon.ico",
+    "about": "Free AI tool that cleans noisy, echoey audio to studio quality",
+    "description": "Adobe Podcast's Enhance Speech tool uses AI to strip background noise, echo, and room reverb from a recording, turning phone or laptop-mic audio into near-studio quality. It's free and widely used by podcasters and creators who recorded audio outside a proper studio setup, distinct from Auphonic's leveling/loudness focus.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "audio-editing",
+      "podcasting",
+      "adobe",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "4b2f41d7-59d6-41b2-96a4-e2d02fefd088",
+    "name": "Microsoft Math Solver",
+    "url": "https://math.microsoft.com",
+    "logo": "https://math.microsoft.com/favicon.ico",
+    "about": "Photo or type a math problem, get a free step-by-step solution",
+    "description": "Microsoft Math Solver reads a handwritten, typed, or photographed math problem and returns a free step-by-step solution with explanations, covering algebra through calculus. Its step-by-step tutoring focus is free where WolframAlpha paywalls that depth, making it a strong companion for students.",
+    "category": "ai-tool",
+    "tags": [
+      "computation",
+      "education",
+      "microsoft",
+      "student",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "6d10bab1-9ea4-4b89-9088-89452871da46",
+    "name": "NotebookLM",
+    "url": "https://notebooklm.google.com",
+    "logo": "https://notebooklm.google.com/favicon.ico",
+    "about": "Upload your documents, get an AI notebook with summaries, Q&A, and audio overviews",
+    "description": "NotebookLM is Google's AI research assistant that grounds its answers entirely in documents you upload, generating summaries, answering questions, and producing an audio-overview \"podcast\" discussing your sources. Unlike Perplexity's open web search, it stays scoped to exactly what you feed it, making it well-suited for research, study, and document synthesis.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "research",
+      "productivity",
+      "google",
+      "student",
+      "researcher",
+      "developer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "e7b26514-d1e5-495e-9924-8066e4411262",
+    "name": "Colorize.cc",
+    "url": "https://colorize.cc",
+    "logo": "https://colorize.cc/favicon.ico",
+    "about": "AI colorizes black and white photos automatically",
+    "description": "Colorize.cc uses AI to add realistic color to black-and-white photos automatically, useful for restoring old family photos or historical images. It's a focused single-purpose tool alongside the rest of the photo-editing cluster.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "photo-restoration",
+      "image-editing",
+      "general-consumer",
+      "no-signup",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "c9d96536-fd84-4c03-8595-09de3153121d",
+    "name": "Suno",
+    "url": "https://suno.com",
+    "logo": "https://suno.com/favicon.ico",
+    "about": "Generate a full song with music and vocals from a text prompt",
+    "description": "Suno generates complete songs — instrumentals and vocals — from a text prompt describing genre, mood, and lyrics, turning a short description into a finished track in under a minute. Its training data and output have drawn copyright controversy from the music industry; use with that legal risk understood.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "music",
+      "text-generation",
+      "general-consumer"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "d467e81d-94fe-4ccd-b9ab-116590bb6ee1",
+    "name": "Elicit",
+    "url": "https://elicit.com",
+    "logo": "https://framerusercontent.com/images/GWXKVhGBLC34aTLlmLIMsRVb4.png",
+    "about": "AI research assistant that searches papers and extracts cited findings",
+    "description": "Elicit searches a corpus of over a hundred million academic papers, pulls findings into structured tables, and generates research reports with sentence-level citations. Unlike Connected Papers' citation graph or Perplexity's open-web answers, it stays scoped to the scientific literature and is built for systematic reviews and evidence synthesis.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "academic",
+      "research",
+      "researcher",
+      "student"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "d0f2132a-bf6e-433d-aaf0-37c5347e405d",
+    "name": "Google AI Studio",
+    "url": "https://aistudio.google.com",
+    "logo": "https://www.gstatic.com/images/branding/productlogos/ai_studio/v1/web-512dp/logo_ai_studio_color_1x_web_512dp.png",
+    "about": "Web playground for Gemini and other Google models, with an API key built in",
+    "description": "Google AI Studio is the browser playground for Gemini, Veo, Nano Banana, and related Google models — prompt, compare outputs, and mint an API key without standing up Cloud infrastructure. It is the developer-facing counterpart to NotebookLM: experiment with models here, ground answers in your own documents there.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "google",
+      "developer",
+      "dev-tools",
+      "text-generation"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "79e4edcc-085f-4a98-aea4-6e4962e5f130",
+    "name": "Napkin AI",
+    "url": "https://www.napkin.ai",
+    "logo": "https://www.napkin.ai/favicon.ico",
+    "about": "Turns pasted text into editable diagrams, flowcharts, and infographics",
+    "description": "Napkin AI generates diagrams, flowcharts, mind maps, and infographics from writing you paste or import, then lets you restyle and export to PPT, PNG, PDF, or SVG. Where draw.io and Excalidraw start from a blank canvas, Napkin builds the first visual from the text itself.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "diagramming",
+      "design",
+      "productivity",
+      "designer",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "7c671aa3-0c32-4b1c-97a7-7af7b8a91a5a",
+    "name": "Gling",
+    "url": "https://gling.ai",
+    "logo": "https://cdn.prod.website-files.com/661e4b87a937b4e02f561ea5/698899d5d4e95cafcc5111bd_256.png",
+    "about": "AI editor that cuts silences, filler words, and bad takes from talking-head video",
+    "description": "Gling transcribes a recording, auto-removes silences, filler words, and bad takes, and exports to MP4 or as XML into Final Cut, Premiere, and DaVinci Resolve. Opus Clip is for turning long videos into short-form clips; Gling is for cleaning the long-form cut.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "video-ai",
+      "video-editing",
+      "productivity"
+    ],
+    "platform": [
+      "windows",
+      "mac"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "45dfbdc3-b375-4a21-9cb3-4d14a9a497f5",
+    "name": "Cursor",
+    "url": "https://cursor.com",
+    "logo": "https://cursor.com/favicon.ico",
+    "about": "AI-native code editor with inline autocomplete and repo-wide agents",
+    "description": "Cursor is an AI-native code editor (a VS Code fork) with tab autocomplete, multi-file agents, and optional cloud agents that build and demo features in parallel. It is the IDE-shaped counterpart to terminal coding agents like Claude Code, and it runs on a free Hobby tier with paid upgrades for heavier agent use.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "dev-tools",
+      "developer",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux",
+      "ios"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "958224d3-e715-4a52-8dc7-ec6b2da6963e",
+    "name": "Claude Code",
+    "url": "https://code.claude.com",
+    "logo": "https://claude.com/favicon.ico",
+    "about": "Anthropic's coding agent for the terminal, IDE, and GitHub",
+    "description": "Claude Code is Anthropic's coding agent that works in the terminal, IDE, browser, and GitHub — reading the repo, editing files, running commands, and opening PRs. It requires a paid Claude plan (Pro and up) rather than a free tier, and it is the CLI-first counterpart to Cursor's editor.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "dev-tools",
+      "developer",
+      "anthropic",
+      "cli",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "622b8e0d-0115-45fc-afc4-5d3ea7900ad8",
+    "name": "Runway",
+    "url": "https://runwayml.com",
+    "logo": "https://runwayml.com/icon.png",
+    "about": "AI creative suite for generating and editing video, images, and audio",
+    "description": "Runway is a browser-based creative suite for generating and editing video, images, and audio around their Gen video models. It is aimed at filmmakers and teams who want generation inside a full editing workspace rather than a single-shot prompt box.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "video-ai",
+      "video-generation",
+      "image-generation",
+      "designer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "1f65608d-f704-469b-be75-776aed47848d",
+    "name": "Koe",
+    "url": "https://koe.sh",
+    "logo": "https://koe.sh/favicon.ico",
+    "about": "Prompt-to-video generator with a music-video workflow",
+    "description": "Koe generates videos from a text prompt or script, with a music-video mode that pairs well with a generated track. Compared with Runway's broader creative suite, it is a more focused prompt-to-video tool with a free starting plan.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "video-ai",
+      "video-generation",
+      "music",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "70b25679-bb96-41b1-81ee-edd54e205012",
+    "name": "Zapier",
+    "url": "https://zapier.com",
+    "logo": "https://zapier.com/favicon.ico",
+    "about": "Connects thousands of apps with automated no-code workflows",
+    "description": "Zapier is a hosted automation platform that wires 9,000+ apps together with trigger-action workflows, so a form response can create a task, ping Slack, or update a spreadsheet without custom code. n8n covers the same job as a self-hosted, code-friendly alternative.",
+    "category": "website",
+    "tags": [
+      "workflow-automation",
+      "no-code",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "a02fbb03-5d98-476e-8cb9-5b319ff62cd5",
+    "name": "n8n",
+    "url": "https://n8n.io",
+    "logo": "https://n8n.io/favicon.ico",
+    "about": "Open-source workflow automation you can self-host",
+    "description": "n8n is an open-source workflow automation tool with a node-based editor, optional JavaScript or Python in any step, and a self-hosted option so data stays on your infrastructure. It is the Zapier alternative for technical teams who want the visual builder without sending every integration through a third-party cloud.",
+    "category": "software",
+    "tags": [
+      "workflow-automation",
+      "no-code",
+      "productivity",
+      "open-source",
+      "self-hosted",
+      "developer",
+      "zapier-alternative"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "89c1bc2b-fad3-4e12-af8a-f01e30752708",
+    "name": "ClickUp",
+    "url": "https://clickup.com",
+    "logo": "https://clickup.com/favicons/apple-touch-icon.png",
+    "about": "All-in-one workspace for tasks, docs, chat, and AI agents",
+    "description": "ClickUp is a workspace that combines projects, docs, chat, whiteboards, and AI agents in one product, aiming to replace a pile of separate tools. Where Asana stays focused on work tracking, ClickUp is the kitchen-sink suite.",
+    "category": "software",
+    "tags": [
+      "project-management",
+      "productivity"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "f124ff73-ccf8-40b2-a734-2f028d0abee5",
+    "name": "Asana",
+    "url": "https://asana.com",
+    "logo": "https://asana.com/favicon.ico",
+    "about": "Work management for tasks, projects, and team workflows",
+    "description": "Asana is work-management software for assigning tasks, mapping projects, and tracking who is doing what by when, with optional AI teammates inside those workflows. It is leaner than ClickUp's all-in-one workspace — project tracking first, not a replacement for every app.",
+    "category": "software",
+    "tags": [
+      "project-management",
+      "productivity"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "ada92718-fb96-4618-9fca-f74220bec9bb",
+    "name": "Otter.ai",
+    "url": "https://otter.ai",
+    "logo": "https://cdn.prod.website-files.com/618e9316785b3582a5178502/618e943a80919a98b5e9bf69_apple-icon.png",
+    "about": "AI meeting notetaker that transcribes, summarizes, and captures action items",
+    "description": "Otter.ai joins or records meetings, produces live transcripts with speaker labels, and turns the conversation into summaries and action items you can search later. It is a meeting-knowledge tool, not a general voice generator like ElevenLabs.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "transcription",
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  }
+]
