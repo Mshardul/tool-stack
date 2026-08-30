@@ -2,7 +2,8 @@
   "categories": [
     "website",
     "software",
-    "ai-tool"
+    "ai-tool",
+    "skill"
   ],
   "platforms": [
     "web",
@@ -140,6 +141,27 @@
     "photo-restoration",
     "photo-animation",
     "meta",
-    "microsoft"
+    "microsoft",
+
+    "note-taking",
+    "wiki",
+    "database",
+    "photo-backup",
+    "video-backup",
+    "e-signature",
+    "scheduling",
+    "email-marketing",
+    "newsletter",
+    "link-shortener",
+    "analytics",
+    "remote-desktop",
+    "voice-dictation",
+
+    "agent-skill",
+    "skill-pack",
+    "marketplace",
+    "mcp",
+    "library",
+    "prompt-library"
   ]
 }

@@ -5,7 +5,7 @@
     "url": "https://www.photopea.com",
     "logo": "https://www.photopea.com/promo/icon512.png",
     "about": "Free browser-based Photoshop clone, no install needed",
-    "description": "Photopea is a free, advanced image editor that runs entirely in the browser and supports native PSD, XD, Sketch, and Figma files alongside its own editing tools. It replicates most of Photoshop's core workflow — layers, masks, filters — making it a strong option for anyone who needs occasional PSD editing without a Creative Cloud subscription.",
+    "description": "Photopea is a free, advanced image editor that runs entirely in the browser and supports native PSD, XD, Sketch, and Figma files alongside its own editing tools. It replicates most of Photoshop's core workflow \u2014 layers, masks, filters \u2014 making it a strong option for anyone who needs occasional PSD editing without a Creative Cloud subscription.",
     "category": "website",
     "tags": [
       "photo-editing",
@@ -372,7 +372,7 @@
     "url": "https://libgen.is",
     "logo": "",
     "about": "Shadow library offering free downloads of books and papers",
-    "description": "Library Genesis is a shadow library providing free access to millions of books, academic papers, and articles, many of which are under copyright. Its legality varies by jurisdiction and it operates in a legal gray area regarding copyright infringement — include and use with that risk understood.",
+    "description": "Library Genesis is a shadow library providing free access to millions of books, academic papers, and articles, many of which are under copyright. Its legality varies by jurisdiction and it operates in a legal gray area regarding copyright infringement \u2014 include and use with that risk understood.",
     "category": "website",
     "tags": [
       "piracy-risk",
@@ -395,7 +395,7 @@
     "url": "https://geospy.ai",
     "logo": "",
     "about": "AI tool that geolocates photos from visual clues",
-    "description": "GeoSpy uses AI to analyze visual clues in a photograph — landscape, architecture, signage — and estimate where it was taken. It's used in OSINT investigations, journalism verification, and security research, and carries the usual dual-use privacy considerations of geolocation tools.",
+    "description": "GeoSpy uses AI to analyze visual clues in a photograph \u2014 landscape, architecture, signage \u2014 and estimate where it was taken. It's used in OSINT investigations, journalism verification, and security research, and carries the usual dual-use privacy considerations of geolocation tools.",
     "category": "ai-tool",
     "tags": [
       "ai-powered",
@@ -496,7 +496,7 @@
     "url": "https://shodan.io",
     "logo": "https://shodan.io/favicon.ico",
     "about": "Search engine for internet-connected devices and IoT infrastructure",
-    "description": "Shodan is a search engine that indexes internet-connected devices — servers, webcams, industrial control systems, routers — rather than webpages, based on banner data collected via scanning. It's a core OSINT and security research tool for finding exposed systems, and carries dual-use risk if misused against unauthorized targets.",
+    "description": "Shodan is a search engine that indexes internet-connected devices \u2014 servers, webcams, industrial control systems, routers \u2014 rather than webpages, based on banner data collected via scanning. It's a core OSINT and security research tool for finding exposed systems, and carries dual-use risk if misused against unauthorized targets.",
     "category": "website",
     "tags": [
       "osint",
@@ -518,7 +518,7 @@
     "url": "https://atlasobscura.com",
     "logo": "https://atlasobscura.com/favicon.ico",
     "about": "Curated database of obscure and unusual travel destinations",
-    "description": "Atlas Obscura catalogs offbeat, hidden, and unusual places worldwide — from abandoned sites to strange museums — curated by a community of contributors. It's built for travelers seeking destinations off the typical tourist path.",
+    "description": "Atlas Obscura catalogs offbeat, hidden, and unusual places worldwide \u2014 from abandoned sites to strange museums \u2014 curated by a community of contributors. It's built for travelers seeking destinations off the typical tourist path.",
     "category": "website",
     "tags": [
       "travel",
@@ -992,7 +992,7 @@
     "url": "https://skiplagged.com",
     "logo": "https://skiplagged.com/favicon.ico",
     "about": "Finds cheaper flights via hidden-city ticketing",
-    "description": "Skiplagged searches for cheaper airfare using hidden-city ticketing — booking a connecting flight and skipping the final leg — a practice that can save significant money but violates most airlines' terms of service and can lead to penalties like frequent-flyer account suspension. Use with that risk understood.",
+    "description": "Skiplagged searches for cheaper airfare using hidden-city ticketing \u2014 booking a connecting flight and skipping the final leg \u2014 a practice that can save significant money but violates most airlines' terms of service and can lead to penalties like frequent-flyer account suspension. Use with that risk understood.",
     "category": "website",
     "tags": [
       "travel",
@@ -1037,7 +1037,7 @@
     "url": "https://pimeyes.com",
     "logo": "https://pimeyes.com/favicon.ico",
     "about": "Reverse image search engine specifically for faces",
-    "description": "PimEyes performs facial-recognition-based reverse image search, finding other photos of a matched face across the indexed web. It carries significant privacy and stalking misuse potential — meaningfully higher risk than infrastructure-focused OSINT tools — and should be used only for legitimate, authorized purposes such as checking your own online exposure.",
+    "description": "PimEyes performs facial-recognition-based reverse image search, finding other photos of a matched face across the indexed web. It carries significant privacy and stalking misuse potential \u2014 meaningfully higher risk than infrastructure-focused OSINT tools \u2014 and should be used only for legitimate, authorized purposes such as checking your own online exposure.",
     "category": "ai-tool",
     "tags": [
       "facial-recognition",
@@ -1080,7 +1080,7 @@
     "url": "https://mynoise.net",
     "logo": "https://mynoise.net/favicon.ico",
     "about": "Customizable ambient and background noise generator",
-    "description": "MyNoise.net offers a large library of finely tunable ambient soundscapes — rain, white noise, nature sounds — with detailed sliders to shape the exact sound profile. It's used for focus, relaxation, sleep, and masking distracting background noise.",
+    "description": "MyNoise.net offers a large library of finely tunable ambient soundscapes \u2014 rain, white noise, nature sounds \u2014 with detailed sliders to shape the exact sound profile. It's used for focus, relaxation, sleep, and masking distracting background noise.",
     "category": "website",
     "tags": [
       "sound-generator",
@@ -1237,7 +1237,7 @@
     "url": "https://airforshare.com",
     "logo": "",
     "about": "Cross-platform local file sharing between devices, AirDrop-style",
-    "description": "AirForShare enables local file sharing between devices across different platforms without needing a cloud upload, similar in spirit to PairDrop and Apple's AirDrop. Verify the current URL and product details before publishing — could not confidently confirm this entry against an authoritative source.",
+    "description": "AirForShare enables local file sharing between devices across different platforms without needing a cloud upload, similar in spirit to PairDrop and Apple's AirDrop. Verify the current URL and product details before publishing \u2014 could not confidently confirm this entry against an authoritative source.",
     "category": "website",
     "tags": [
       "file-transfer",
@@ -1258,7 +1258,7 @@
     "url": "https://ilovepdf.com",
     "logo": "https://ilovepdf.com/favicon.ico",
     "about": "PDF toolkit for merging, splitting, compressing, and converting",
-    "description": "iLovePDF offers a focused set of PDF tools — merge, split, compress, convert to/from Word or images, and more — through a simple browser interface. It's a specialist alternative to broader multi-format sites like TinyWow, favored for PDF-specific workflows.",
+    "description": "iLovePDF offers a focused set of PDF tools \u2014 merge, split, compress, convert to/from Word or images, and more \u2014 through a simple browser interface. It's a specialist alternative to broader multi-format sites like TinyWow, favored for PDF-specific workflows.",
     "category": "website",
     "tags": [
       "pdf-tools",
@@ -1347,7 +1347,7 @@
     "url": "https://asoftmurmur.com",
     "logo": "https://asoftmurmur.com/favicon.ico",
     "about": "Mix ambient sounds like rain, wind, and fire into your own soundscape",
-    "description": "A Soft Murmur lets you blend multiple ambient sound layers — rain, thunder, wind, fire, and more — each with its own volume slider, to build a custom background soundscape. It's used for focus, relaxation, sleep, and masking distracting noise.",
+    "description": "A Soft Murmur lets you blend multiple ambient sound layers \u2014 rain, thunder, wind, fire, and more \u2014 each with its own volume slider, to build a custom background soundscape. It's used for focus, relaxation, sleep, and masking distracting noise.",
     "category": "website",
     "tags": [
       "sound-generator",
@@ -1459,7 +1459,7 @@
     "url": "https://www.omfgdogs.com",
     "logo": "",
     "about": "A spinning dog gif and nothing else, internet-culture novelty relic",
-    "description": "OMFGDOGS is a single-page novelty site from early internet meme culture — a spinning dog gif set to music, with zero other function. It exists purely as a nostalgic, absurdist novelty in the same vein as The Useless Web.",
+    "description": "OMFGDOGS is a single-page novelty site from early internet meme culture \u2014 a spinning dog gif set to music, with zero other function. It exists purely as a nostalgic, absurdist novelty in the same vein as The Useless Web.",
     "category": "website",
     "tags": [
       "random",
@@ -1500,7 +1500,7 @@
     "url": "https://pcpartpicker.com",
     "logo": "https://pcpartpicker.com/favicon.ico",
     "about": "Build a PC part list with automatic compatibility checks and price comparison",
-    "description": "PCPartPicker lets you assemble a custom PC build from a component database that flags compatibility issues — socket mismatches, wattage shortfalls, clearance conflicts — and compares live prices across retailers. It's the standard tool for both first-time builders and enthusiasts planning a rig.",
+    "description": "PCPartPicker lets you assemble a custom PC build from a component database that flags compatibility issues \u2014 socket mismatches, wattage shortfalls, clearance conflicts \u2014 and compares live prices across retailers. It's the standard tool for both first-time builders and enthusiasts planning a rig.",
     "category": "website",
     "tags": [
       "price-tracking",
@@ -1565,7 +1565,7 @@
     "url": "https://quickdraw.withgoogle.com",
     "logo": "https://quickdraw.withgoogle.com/favicon.ico",
     "about": "Google's AI doodle-guessing game that learns from your drawings",
-    "description": "Quick, Draw! is a Google AI experiment where you sketch a prompted object and a neural network tries to guess it in real time, with every drawing contributed back into a public dataset used to train recognition models. It's AutoDraw's sister experiment — game and data-collection rather than a practical drawing tool.",
+    "description": "Quick, Draw! is a Google AI experiment where you sketch a prompted object and a neural network tries to guess it in real time, with every drawing contributed back into a public dataset used to train recognition models. It's AutoDraw's sister experiment \u2014 game and data-collection rather than a practical drawing tool.",
     "category": "ai-tool",
     "tags": [
       "ai-powered",
@@ -1634,7 +1634,7 @@
     "url": "https://www.roomgpt.io",
     "logo": "https://www.roomgpt.io/favicon.ico",
     "about": "Upload a room photo, AI generates a redesigned version in seconds",
-    "description": "RoomGPT uses AI to redesign a photo of any room into different styles — modern, minimalist, industrial, and more — giving an instant visual concept without hiring a designer. It's used for renovation inspiration and quick interior-design mockups.",
+    "description": "RoomGPT uses AI to redesign a photo of any room into different styles \u2014 modern, minimalist, industrial, and more \u2014 giving an instant visual concept without hiring a designer. It's used for renovation inspiration and quick interior-design mockups.",
     "category": "ai-tool",
     "tags": [
       "ai-powered",
@@ -1655,7 +1655,7 @@
     "url": "https://sketch.metademolab.com",
     "logo": "https://sketch.metademolab.com/favicon.ico",
     "about": "Upload a drawn character, Meta AI rigs and animates it moving",
-    "description": "Animated Drawings, a Meta AI research demo, takes a photo of a hand-drawn character — often a kid's drawing — and automatically rigs and animates it so it walks and moves. It's built as a fun, accessible way to bring drawings to life without any animation skill.",
+    "description": "Animated Drawings, a Meta AI research demo, takes a photo of a hand-drawn character \u2014 often a kid's drawing \u2014 and automatically rigs and animates it so it walks and moves. It's built as a fun, accessible way to bring drawings to life without any animation skill.",
     "category": "ai-tool",
     "tags": [
       "ai-powered",
@@ -1812,7 +1812,7 @@
     "url": "https://suno.com",
     "logo": "https://suno.com/favicon.ico",
     "about": "Generate a full song with music and vocals from a text prompt",
-    "description": "Suno generates complete songs — instrumentals and vocals — from a text prompt describing genre, mood, and lyrics, turning a short description into a finished track in under a minute. Its training data and output have drawn copyright controversy from the music industry; use with that legal risk understood.",
+    "description": "Suno generates complete songs \u2014 instrumentals and vocals \u2014 from a text prompt describing genre, mood, and lyrics, turning a short description into a finished track in under a minute. Its training data and output have drawn copyright controversy from the music industry; use with that legal risk understood.",
     "category": "ai-tool",
     "tags": [
       "ai-powered",
@@ -1855,7 +1855,7 @@
     "url": "https://aistudio.google.com",
     "logo": "https://www.gstatic.com/images/branding/productlogos/ai_studio/v1/web-512dp/logo_ai_studio_color_1x_web_512dp.png",
     "about": "Web playground for Gemini and other Google models, with an API key built in",
-    "description": "Google AI Studio is the browser playground for Gemini, Veo, Nano Banana, and related Google models — prompt, compare outputs, and mint an API key without standing up Cloud infrastructure. It is the developer-facing counterpart to NotebookLM: experiment with models here, ground answers in your own documents there.",
+    "description": "Google AI Studio is the browser playground for Gemini, Veo, Nano Banana, and related Google models \u2014 prompt, compare outputs, and mint an API key without standing up Cloud infrastructure. It is the developer-facing counterpart to NotebookLM: experiment with models here, ground answers in your own documents there.",
     "category": "ai-tool",
     "tags": [
       "ai-powered",
@@ -1943,7 +1943,7 @@
     "url": "https://code.claude.com",
     "logo": "https://claude.com/favicon.ico",
     "about": "Anthropic's coding agent for the terminal, IDE, and GitHub",
-    "description": "Claude Code is Anthropic's coding agent that works in the terminal, IDE, browser, and GitHub — reading the repo, editing files, running commands, and opening PRs. It requires a paid Claude plan (Pro and up) rather than a free tier, and it is the CLI-first counterpart to Cursor's editor.",
+    "description": "Claude Code is Anthropic's coding agent that works in the terminal, IDE, browser, and GitHub \u2014 reading the repo, editing files, running commands, and opening PRs. It requires a paid Claude plan (Pro and up) rather than a free tier, and it is the CLI-first counterpart to Cursor's editor.",
     "category": "ai-tool",
     "tags": [
       "ai-powered",
@@ -2080,7 +2080,7 @@
     "url": "https://asana.com",
     "logo": "https://asana.com/favicon.ico",
     "about": "Work management for tasks, projects, and team workflows",
-    "description": "Asana is work-management software for assigning tasks, mapping projects, and tracking who is doing what by when, with optional AI teammates inside those workflows. It is leaner than ClickUp's all-in-one workspace — project tracking first, not a replacement for every app.",
+    "description": "Asana is work-management software for assigning tasks, mapping projects, and tracking who is doing what by when, with optional AI teammates inside those workflows. It is leaner than ClickUp's all-in-one workspace \u2014 project tracking first, not a replacement for every app.",
     "category": "software",
     "tags": [
       "project-management",
@@ -2117,5 +2117,1893 @@
     ],
     "pricing": "freemium",
     "open_source": false
+  },
+  {
+    "id": "72508ed9-a138-4bcd-abe0-6c4a95fa428f",
+    "name": "AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "logo": "https://appflowy.io/favicon.ico",
+    "about": "Open-source Notion alternative for notes, docs, and databases",
+    "description": "AppFlowy is a self-hostable workspace app combining notes, wikis, and databases with a Notion-like editing experience. It's aimed at teams and individuals who want full data ownership instead of a cloud-only SaaS notetaking tool.",
+    "category": "software",
+    "tags": [
+      "note-taking",
+      "wiki",
+      "database",
+      "productivity",
+      "open-source",
+      "self-hosted",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "34f0135c-4d8b-42ac-859e-5ea3ee0be98e",
+    "name": "Immich",
+    "url": "https://github.com/immich-app/immich",
+    "logo": "https://immich.app/favicon.ico",
+    "about": "Self-hosted photo and video backup, a Google Photos alternative",
+    "description": "Immich is an open-source, self-hosted platform for backing up and managing photos and videos from phones and computers, with mobile apps, facial recognition, and timeline browsing similar to Google Photos.",
+    "category": "software",
+    "tags": [
+      "photo-backup",
+      "video-backup",
+      "facial-recognition",
+      "open-source",
+      "self-hosted",
+      "cross-platform",
+      "general-consumer"
+    ],
+    "platform": [
+      "web",
+      "ios",
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "a7c2607b-921e-4b26-9b04-0ee150e5ef83",
+    "name": "Documenso",
+    "url": "https://github.com/documenso/documenso",
+    "logo": "https://documenso.com/favicon.ico",
+    "about": "Open-source e-signature platform, a DocuSign alternative",
+    "description": "Documenso lets you upload, sign, and send documents for e-signature, with a self-hostable open-source backend as an alternative to closed SaaS tools like DocuSign.",
+    "category": "software",
+    "tags": [
+      "e-signature",
+      "open-source",
+      "self-hosted",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "bdcb020a-4d66-426c-889a-23480c0c4069",
+    "name": "Penpot",
+    "url": "https://github.com/penpot/penpot",
+    "logo": "https://penpot.app/favicon.ico",
+    "about": "Open-source design and prototyping tool, a Figma alternative",
+    "description": "Penpot is a self-hostable, browser-based design and prototyping tool built on open web standards, used by designers and developers as an open-source alternative to Figma.",
+    "category": "software",
+    "tags": [
+      "design",
+      "graphic-design",
+      "designer",
+      "open-source",
+      "self-hosted",
+      "browser-only"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "0c2dda80-a00e-4e30-a08e-a039f892fbff",
+    "name": "Cal.DIY",
+    "url": "https://github.com/calcom/cal.diy",
+    "logo": "https://cal.com/favicon.ico",
+    "about": "Self-hosted scheduling and booking tool, a Cal.com/Calendly alternative",
+    "description": "Cal.DIY is a self-hostable scheduling tool for booking meetings and managing availability, offering an open-source alternative to hosted scheduling SaaS like Calendly.",
+    "category": "software",
+    "tags": [
+      "scheduling",
+      "productivity",
+      "open-source",
+      "self-hosted"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "1678239a-f1fd-4c3b-90c6-0897c9c85bf4",
+    "name": "ListMonk",
+    "url": "https://github.com/knadh/listmonk",
+    "logo": "https://listmonk.app/favicon.ico",
+    "about": "Self-hosted newsletter and mailing list manager",
+    "description": "ListMonk is a high-performance, self-hostable newsletter and bulk mailing list manager, used as an open-source alternative to hosted email marketing platforms like Mailchimp.",
+    "category": "software",
+    "tags": [
+      "email-marketing",
+      "newsletter",
+      "open-source",
+      "self-hosted",
+      "system-admin"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "3c8de7b6-3aff-462c-a895-ac074b8191b3",
+    "name": "Dub",
+    "url": "https://github.com/dubinc/dub",
+    "logo": "https://dub.co/favicon.ico",
+    "about": "Open-source link shortener with analytics, a Bitly alternative",
+    "description": "Dub is an open-source link management platform offering short links, click analytics, and branded domains, positioned as a modern alternative to Bitly.",
+    "category": "software",
+    "tags": [
+      "link-shortener",
+      "analytics",
+      "open-source",
+      "seo",
+      "developer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "6af86cb4-6cc3-43a7-a8a5-233923d0b937",
+    "name": "RustDesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "logo": "https://rustdesk.com/favicon.ico",
+    "about": "Open-source remote desktop software, a TeamViewer/AnyDesk alternative",
+    "description": "RustDesk is a self-hostable, open-source remote desktop application for accessing and controlling computers remotely, built as a privacy-respecting alternative to TeamViewer and AnyDesk.",
+    "category": "software",
+    "tags": [
+      "remote-desktop",
+      "open-source",
+      "self-hosted",
+      "security",
+      "system-admin",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "338cd596-583a-4fd8-9e2b-d239856b1d58",
+    "name": "FluidVoice",
+    "url": "https://github.com/altic-dev/FluidVoice",
+    "logo": "",
+    "about": "Local voice dictation tool for hands-free text input",
+    "description": "FluidVoice is a voice dictation app that transcribes speech to text locally on-device, letting users dictate into any app without sending audio to the cloud.",
+    "category": "software",
+    "tags": [
+      "voice-dictation",
+      "voice-ai",
+      "open-source",
+      "offline-capable",
+      "productivity"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "392316fe-f9e5-4ffc-8291-d6cd9cc0d6c4",
+    "name": "Ollama",
+    "url": "https://github.com/ollama/ollama",
+    "logo": "https://ollama.com/public/ollama.png",
+    "about": "Local LLM runtime with a Docker-like CLI and local API",
+    "description": "Ollama lets you pull and run open-weight language models on your own machine through a simple CLI and a local HTTP API. It is the standard way developers run Llama, Mistral, and similar models offline without wiring up raw inference servers.",
+    "category": "software",
+    "tags": [
+      "ai-powered",
+      "text-generation",
+      "open-source",
+      "self-hosted",
+      "cli",
+      "developer",
+      "cross-platform",
+      "offline-capable"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "053d5780-586f-4f6e-b509-218746964029",
+    "name": "Open WebUI",
+    "url": "https://github.com/open-webui/open-webui",
+    "logo": "https://openwebui.com/favicon.png",
+    "about": "Self-hosted ChatGPT-style UI for Ollama and OpenAI-compatible APIs",
+    "description": "Open WebUI is a browser-based chat interface you self-host on top of Ollama or any OpenAI-compatible endpoint. It gives local models a polished multi-user UI with history, RAG hooks, and admin controls instead of curling a raw API.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "text-generation",
+      "open-source",
+      "self-hosted",
+      "developer",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ba33991c-a33c-4913-ad04-81b00ecd6db1",
+    "name": "OpenAI Codex",
+    "url": "https://github.com/openai/codex",
+    "logo": "https://openai.com/favicon.ico",
+    "about": "OpenAI's open-source terminal coding agent (Apache 2.0)",
+    "description": "OpenAI Codex is Anthropic Claude Code's counterpart from OpenAI: an open-source CLI agent that reads repos, edits files, runs commands, and ships changes. The client is free to use; model access goes through your OpenAI subscription or API key.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "dev-tools",
+      "developer",
+      "open-source",
+      "cli",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "paid",
+    "open_source": true
+  },
+  {
+    "id": "95834495-6388-47fb-97f7-87592f06f4e6",
+    "name": "SearXNG",
+    "url": "https://github.com/searxng/searxng",
+    "logo": "https://searxng.org/img/favicon.png",
+    "about": "Privacy metasearch that aggregates engines without tracking",
+    "description": "SearXNG is a self-hostable metasearch engine that queries many search providers and returns merged results without profiling you. Privacy researchers and OSINT users run it as a Google alternative that does not build a behavioral profile.",
+    "category": "software",
+    "tags": [
+      "search-engine",
+      "osint",
+      "open-source",
+      "self-hosted",
+      "developer",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "634230b2-bba7-4e8a-ab0c-a9868304c390",
+    "name": "Perplexica",
+    "url": "https://github.com/ItzCrazyKns/Perplexica",
+    "logo": "",
+    "about": "Self-hosted Perplexity-style answer engine with citations",
+    "description": "Perplexica (rebranding to Vane) is a self-hostable AI search app that answers questions with cited sources, similar to Perplexity but on your own hardware. It fits the same self-hosted-alternative pattern as Immich or AppFlowy for people who want answer engines without a SaaS account.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "search-engine",
+      "research",
+      "open-source",
+      "self-hosted",
+      "developer"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "cbddbd8e-d48c-4198-b469-d0e4fac2a798",
+    "name": "Khoj",
+    "url": "https://github.com/khoj-ai/khoj",
+    "logo": "https://khoj.dev/favicon.ico",
+    "about": "Self-hosted AI second brain over your documents and notes",
+    "description": "Khoj indexes your files and notes so you can chat with your own knowledge base, optionally augmented with web search. It is a self-hostable personal research assistant in the same lane as NotebookLM, aimed at people who want their data on their own server.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "research",
+      "note-taking",
+      "open-source",
+      "self-hosted",
+      "developer",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "5ec051c7-c98e-4b67-9d69-d35eb16a83ec",
+    "name": "LibreTranslate",
+    "url": "https://github.com/LibreTranslate/LibreTranslate",
+    "logo": "https://libretranslate.com/favicon.ico",
+    "about": "Self-hosted machine translation API with no cloud dependency",
+    "description": "LibreTranslate is an open-source translation server you can run locally or on your own infrastructure, exposing a simple REST API for text translation. It is for teams that need translation without sending content to Google or DeepL.",
+    "category": "software",
+    "tags": [
+      "open-source",
+      "self-hosted",
+      "developer",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ee87a56c-d307-49aa-9c72-49bc52a43132",
+    "name": "Tesseract OCR",
+    "url": "https://github.com/tesseract-ocr/tesseract",
+    "logo": "",
+    "about": "Classic open-source optical character recognition engine",
+    "description": "Tesseract is the long-standing open-source OCR engine maintained by Google, used to extract text from scanned documents and images. It underpins countless PDF, scan, and accessibility pipelines and remains the default self-hosted OCR choice.",
+    "category": "software",
+    "tags": [
+      "pdf-tools",
+      "open-source",
+      "cli",
+      "developer",
+      "cross-platform",
+      "offline-capable"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "0c831a9c-b22c-4f7e-9d99-f3dfed4d3838",
+    "name": "Marker",
+    "url": "https://github.com/VikParuchuri/marker",
+    "logo": "",
+    "about": "Local PDF and document converter to clean markdown or JSON",
+    "description": "Marker converts PDFs, slides, and scans into high-quality markdown, JSON, or HTML using local models tuned for layout preservation. It is popular in RAG and research workflows where you need structured text from messy documents without a cloud upload step.",
+    "category": "software",
+    "tags": [
+      "pdf-tools",
+      "ai-powered",
+      "open-source",
+      "cli",
+      "developer",
+      "research",
+      "offline-capable"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "98f20623-a589-48c3-886e-2d3198c4fd21",
+    "name": "Scriberr",
+    "url": "https://github.com/rishikanthc/Scriberr",
+    "logo": "",
+    "about": "Self-hosted offline transcription with chat over your recordings",
+    "description": "Scriberr is a self-hostable app that transcribes audio and video locally with Whisper or Parakeet, then lets you search and chat with the transcript. It is the full meeting-archive alternative to cloud tools like Otter.ai for people who want recordings to stay on their own server.",
+    "category": "software",
+    "tags": [
+      "transcription",
+      "voice-ai",
+      "open-source",
+      "self-hosted",
+      "offline-capable",
+      "productivity"
+    ],
+    "platform": [
+      "web",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "f5bce537-174f-4325-855f-15c5205c69b7",
+    "name": "Quill",
+    "url": "https://github.com/digimata/quill",
+    "logo": "",
+    "about": "Ultra-minimal local macOS meeting recorder with on-device transcription",
+    "description": "Quill is a tiny macOS app that records meetings and transcribes them entirely on-device with no account or cloud upload. It sits between FluidVoice-style dictation and Otter-style cloud meeting notes for users who want meeting capture without leaving the Mac.",
+    "category": "software",
+    "tags": [
+      "transcription",
+      "voice-ai",
+      "open-source",
+      "offline-capable",
+      "productivity"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ff63b93e-5e31-4c13-93ff-002cf8bd582f",
+    "name": "OpenLogi",
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "logo": "",
+    "about": "Native local-first Logitech Options+ alternative, no account required",
+    "description": "OpenLogi is a Rust desktop app that configures Logitech mice and keyboards over HID++ without Logitech's cloud account or Options+ bloat. It appeals to privacy-minded users who want full device control locally on macOS and Linux.",
+    "category": "software",
+    "tags": [
+      "open-source",
+      "cross-platform",
+      "general-consumer",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "c7b536e9-8319-45fb-be3e-e2dc87fba6c6",
+    "name": "Bento",
+    "url": "https://github.com/nyblnet/bento",
+    "logo": "",
+    "about": "PowerPoint alternative shipped as a single self-contained HTML file",
+    "description": "Bento is presentation software that runs entirely from one HTML file you can email, host, or open offline. There is no install step and no server \u2014 the deck is the software, which makes it unusually portable for talks and demos.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "open-source",
+      "browser-only",
+      "no-signup",
+      "offline-capable"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "0fe0f8f1-b63d-49fe-8080-6bfe8f5dfcc2",
+    "name": "DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "logo": "",
+    "about": "Agent-native personalized AI tutor and learning workspace",
+    "description": "DeepTutor from HKUDS is an AI learning workspace that adapts explanations, drills, and study plans around what you are trying to learn. It targets students and lifelong learners who want a tutor-shaped agent rather than a generic chat box.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "education",
+      "student",
+      "open-source",
+      "research"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "e112c157-6e73-4553-ba7e-9100f969c8d3",
+    "name": "Holehe",
+    "url": "https://github.com/megadose/holehe",
+    "logo": "",
+    "about": "OSINT CLI that checks if an email is registered on 120+ sites",
+    "description": "Holehe is a Python CLI that tests whether an email address has accounts on hundreds of websites without alerting the target. Investigators pair it with OSINT Framework and Have I Been Pwned when mapping someone's online footprint from an email alone.",
+    "category": "software",
+    "tags": [
+      "osint",
+      "security",
+      "cli",
+      "open-source",
+      "researcher",
+      "developer"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "69e4b988-071c-4920-a011-0893eefacd6b",
+    "name": "DeepSec",
+    "url": "https://github.com/vercel-labs/deepsec",
+    "logo": "",
+    "about": "Agent-powered vulnerability scanner for large codebases",
+    "description": "DeepSec from Vercel Labs uses coding agents to hunt security issues across big repositories, going deeper than a single-file linter pass. Security-minded teams run it when they want AI-assisted review that can follow call chains and config across a monorepo.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "security",
+      "dev-tools",
+      "developer",
+      "open-source",
+      "cli"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "6a85cc1f-6374-4af3-820b-8f345ce67c3d",
+    "name": "Securo",
+    "url": "https://github.com/securo-finance/securo",
+    "logo": "",
+    "about": "Self-hosted personal finance manager",
+    "description": "Securo is an open-source personal finance app you self-host to track accounts, budgets, and spending without handing financial data to a SaaS. It fills the budget-app gap next to Privacy.com, which handles virtual cards rather than full money management.",
+    "category": "software",
+    "tags": [
+      "finance",
+      "open-source",
+      "self-hosted",
+      "general-consumer",
+      "privacy-risk"
+    ],
+    "platform": [
+      "web",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ca0c0267-f759-4c71-aa87-e4a49e7f6147",
+    "name": "Langfuse",
+    "url": "https://github.com/langfuse/langfuse",
+    "logo": "https://langfuse.com/favicon.ico",
+    "about": "Open-source LLM observability and tracing you can self-host",
+    "description": "Langfuse records traces, costs, and quality metrics for LLM applications so teams can debug prompts and monitor production agents. It is the open-source alternative to hosted LLM ops dashboards, with a UI teams actually run day to day.",
+    "category": "software",
+    "tags": [
+      "analytics",
+      "dev-tools",
+      "ai-powered",
+      "open-source",
+      "self-hosted",
+      "developer"
+    ],
+    "platform": [
+      "web",
+      "linux"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "4c74e5b4-422f-47b4-9286-0bc632f49cd4",
+    "name": "LiteLLM",
+    "url": "https://github.com/BerriAI/litellm",
+    "logo": "",
+    "about": "OpenAI-compatible gateway to 100+ LLM providers with a proxy UI",
+    "description": "LiteLLM exposes one OpenAI-shaped API in front of Anthropic, Gemini, Bedrock, and dozens of other providers, with optional routing, budgets, and a management UI. Teams deploy it as the central LLM gateway instead of hard-coding every vendor SDK.",
+    "category": "software",
+    "tags": [
+      "dev-tools",
+      "ai-powered",
+      "open-source",
+      "self-hosted",
+      "developer"
+    ],
+    "platform": [
+      "web",
+      "linux"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "05fc6da0-3a15-4068-aee5-d5e16de13c39",
+    "name": "Qdrant",
+    "url": "https://github.com/qdrant/qdrant",
+    "logo": "https://qdrant.tech/favicon.ico",
+    "about": "Rust vector database for similarity search, OSS and cloud",
+    "description": "Qdrant is a vector database optimized for semantic search, recommendations, and RAG retrieval at scale. Developers choose it when embeddings need a fast, filter-rich store with both a self-hosted OSS path and a managed cloud option.",
+    "category": "software",
+    "tags": [
+      "database",
+      "dev-tools",
+      "open-source",
+      "self-hosted",
+      "developer",
+      "ai-powered"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "e3e6695f-23b4-404f-b8ad-c25decf34cc6",
+    "name": "OpenHands",
+    "url": "https://github.com/All-Hands-AI/OpenHands",
+    "logo": "https://all-hands.dev/favicon.ico",
+    "about": "Open-source platform for AI software-engineering agents",
+    "description": "OpenHands is a self-hostable agent platform with GUI, CLI, and SDK surfaces for letting models read repos, run commands, and open pull requests. It is the open infrastructure play in the coding-agent space, distinct from closed apps like Cursor.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "dev-tools",
+      "developer",
+      "open-source",
+      "self-hosted",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "1e0b0b4f-b633-4e84-9377-eb0cd901ca2d",
+    "name": "Open Interpreter",
+    "url": "https://github.com/OpenInterpreter/open-interpreter",
+    "logo": "",
+    "about": "Terminal coding agent that runs code locally on your machine",
+    "description": "Open Interpreter was an early local computer-use agent: a CLI that executes Python, shell, and browser actions on your machine from natural language. It remains a reference implementation for running models with real system access instead of chat-only replies.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "cli",
+      "developer",
+      "open-source",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "f7f6bc4c-48cb-4fc7-9937-eb3a15624730",
+    "name": "Omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "logo": "",
+    "about": "DHH/Basecamp opinionated Arch + Hyprland Linux desktop distro",
+    "description": "Omarchy is a curated Arch Linux setup from 37signals with Hyprland, a focused app set, and strong defaults for developers who want a polished tiling desktop without assembling dotfiles from scratch. It is a full OS flavor, not a single utility.",
+    "category": "software",
+    "tags": [
+      "open-source",
+      "developer",
+      "productivity"
+    ],
+    "platform": [
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "8903f6e0-5a94-41d6-96bd-daf5a982a703",
+    "name": "Colibri",
+    "url": "https://github.com/JustVugg/colibri",
+    "logo": "",
+    "about": "Pure-C inference engine that streams huge MoE models from disk",
+    "description": "Colibri runs very large mixture-of-experts models on consumer hardware by streaming weights from disk instead of loading everything into RAM. It targets people who want local inference beyond what a typical Ollama pull can fit in memory.",
+    "category": "software",
+    "tags": [
+      "ai-powered",
+      "text-generation",
+      "open-source",
+      "cli",
+      "developer",
+      "offline-capable"
+    ],
+    "platform": [
+      "linux",
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "98775e68-4b41-410e-9fe7-75d2a8cf91df",
+    "name": "Crawl4AI",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "logo": "",
+    "about": "LLM-friendly web crawler that outputs markdown and JSON",
+    "description": "Crawl4AI fetches and cleans web pages into markdown or structured JSON tuned for RAG pipelines and agents. It ships with CLI and Docker surfaces so teams can run it as a crawl service instead of hand-rolling BeautifulSoup scrapers.",
+    "category": "software",
+    "tags": [
+      "dev-tools",
+      "ai-powered",
+      "open-source",
+      "cli",
+      "developer",
+      "self-hosted"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "6281fc64-2905-4c9b-9cf1-3e420e70ded7",
+    "name": "Public APIs",
+    "url": "https://github.com/public-apis/public-apis",
+    "logo": "",
+    "about": "Massive curated directory of free public APIs",
+    "description": "Public APIs is a community-maintained list of free APIs across weather, finance, games, government data, and hundreds of other categories. Developers treat it like a phone book when prototyping integrations without hunting forums for endpoints.",
+    "category": "website",
+    "tags": [
+      "tool-directory",
+      "marketplace",
+      "developer",
+      "open-source",
+      "research"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "b997903e-292b-4be6-9486-26c1e298018a",
+    "name": "CC-Switch",
+    "url": "https://github.com/farion1231/cc-switch",
+    "logo": "",
+    "about": "Desktop app to switch providers for Claude Code, Codex, and similar CLIs",
+    "description": "CC-Switch is a small desktop utility for juggling API keys, endpoints, and profiles across terminal coding agents like Claude Code and OpenAI Codex. It saves people who bounce between providers from hand-editing config files every session.",
+    "category": "software",
+    "tags": [
+      "coding-assistant",
+      "dev-tools",
+      "developer",
+      "open-source",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "8dac0510-bd26-4b00-bfc6-17422009538f",
+    "name": "Buzz",
+    "url": "https://github.com/block/buzz",
+    "logo": "",
+    "about": "Self-hostable workspace where humans and AI agents share rooms",
+    "description": "Buzz from Block is a self-hosted collaboration space built on Nostr where people and agents participate in shared rooms. Teams experiment with it when they want agent coworkers inside a chat-shaped product instead of a solo terminal agent.",
+    "category": "software",
+    "tags": [
+      "ai-powered",
+      "productivity",
+      "open-source",
+      "self-hosted",
+      "developer"
+    ],
+    "platform": [
+      "web",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "e1637d33-1cf1-4fb3-a7b8-5eef362e6af1",
+    "name": "Activepieces",
+    "url": "https://github.com/activepieces/activepieces",
+    "logo": "https://www.activepieces.com/favicon.ico",
+    "about": "Open-source Zapier alternative with a visual workflow builder",
+    "description": "Activepieces is a self-hostable automation platform with a polished visual builder and a growing connector library. It sits beside n8n and Zapier for teams that want no-code workflows with a friendlier UI than n8n's node canvas.",
+    "category": "software",
+    "tags": [
+      "workflow-automation",
+      "no-code",
+      "productivity",
+      "open-source",
+      "self-hosted",
+      "zapier-alternative"
+    ],
+    "platform": [
+      "web",
+      "linux"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "dfca97f8-0959-4aab-beed-eb712476addb",
+    "name": "Modular",
+    "url": "https://github.com/modular/modular",
+    "logo": "https://www.modular.com/favicon.ico",
+    "about": "Mojo language and MAX inference platform from Modular",
+    "description": "Modular is the company behind Mojo, a Python-superset systems language for AI kernels, and MAX, its inference engine stack. It is developer infrastructure for people building high-performance model runtimes, not an end-user chat app.",
+    "category": "software",
+    "tags": [
+      "library",
+      "dev-tools",
+      "developer",
+      "ai-powered",
+      "open-source"
+    ],
+    "platform": [
+      "linux",
+      "mac"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "b548be16-a652-4c5a-bf57-8cbdf33a6582",
+    "name": "SwitchYard",
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "logo": "",
+    "about": "NVIDIA Rust LLM proxy that routes and translates agent API formats",
+    "description": "SwitchYard is an NVIDIA NeMo project that proxies LLM traffic between OpenAI, Anthropic, and local backends so coding agents can speak their native API while the request lands on vLLM, NIM, or Ollama. It overlaps LiteLLM but focuses on agent protocol translation and benchmarking.",
+    "category": "software",
+    "tags": [
+      "dev-tools",
+      "coding-assistant",
+      "ai-powered",
+      "open-source",
+      "developer",
+      "cli"
+    ],
+    "platform": [
+      "linux",
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "24f0a2ed-b3c8-4856-b152-31b9f68e3dd5",
+    "name": "OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "logo": "",
+    "about": "Context database that treats agent memory and skills as a filesystem",
+    "description": "OpenViking from Volcengine is an agent context store that mounts memories, tools, and skills like files so agents can browse and update long-term state. It targets builders who want structured agent memory beyond stuffing everything into a prompt window.",
+    "category": "software",
+    "tags": [
+      "database",
+      "ai-powered",
+      "dev-tools",
+      "open-source",
+      "developer",
+      "self-hosted"
+    ],
+    "platform": [
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ba8933a0-7fa7-4df1-8e0a-2a2578db8333",
+    "name": "Needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "logo": "",
+    "about": "Tiny on-device tool-calling model shipped as a ~14MB binary",
+    "description": "Needle is a 45M-parameter model packaged as a small binary that can call tools on edge hardware without cloud round-trips. It is a research-flavored product for developers experimenting with local agent loops on constrained devices.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "cli",
+      "open-source",
+      "developer",
+      "offline-capable"
+    ],
+    "platform": [
+      "linux",
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "1cb4a304-0e24-4778-bb9c-1ae9ef491560",
+    "name": "MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "logo": "",
+    "about": "Auto-generates short videos from a topic prompt",
+    "description": "MoneyPrinterTurbo chains scripting, voice, footage, and editing steps to produce short-form videos from a single topic prompt. It sits in the automated video lane next to Runway and Opus Clip for creators who want a self-hosted pipeline rather than a studio UI.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "video-generation",
+      "video-ai",
+      "open-source",
+      "self-hosted"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "588fcefe-2d41-485d-aa99-24575a6cdc86",
+    "name": "Scriptc",
+    "url": "https://github.com/vercel-labs/scriptc",
+    "logo": "",
+    "about": "Vercel Labs experimental TypeScript-to-native compiler",
+    "description": "Scriptc from Vercel Labs is an experimental compiler that turns TypeScript into native binaries, exploring a faster path than Node for CLI tools and agents. It is early infrastructure for developers, not a consumer-facing app.",
+    "category": "software",
+    "tags": [
+      "library",
+      "dev-tools",
+      "developer",
+      "open-source",
+      "cli"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "563573e6-f304-45eb-9cd4-55a79e5fe0ba",
+    "name": "Apache Maka",
+    "url": "https://github.com/apache/maka",
+    "logo": "",
+    "about": "Incubating local-first agent workspace with append-only execution logs",
+    "description": "Apache Maka is an incubator project building a local-first workspace where agent runs leave durable, append-only execution logs you can audit and replay. It overlaps coding assistants like Cursor but emphasizes traceable agent sessions on your own machine.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "open-source",
+      "developer",
+      "self-hosted"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "2326b6bc-3b81-421d-861b-4c4ec2014330",
+    "name": "FreeLLMAPI",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "logo": "",
+    "about": "Proxy that aggregates free-tier LLM providers behind one API",
+    "description": "FreeLLMAPI routes requests across multiple providers' free tiers through a single OpenAI-compatible endpoint for personal experimentation. It overlaps LiteLLM but optimizes for zero-cost tinkering, with the tradeoff that free-tier ToS limits still apply upstream.",
+    "category": "software",
+    "tags": [
+      "dev-tools",
+      "ai-powered",
+      "open-source",
+      "developer",
+      "cli"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "debac48f-5943-4fc8-a958-d16b829514b8",
+    "name": "terminal-browser",
+    "url": "https://github.com/zenbu-labs/terminal-browser",
+    "logo": "",
+    "about": "Real Chromium browser that runs inside the terminal",
+    "description": "terminal-browser embeds a full Chromium instance in the terminal so you can browse the modern web from SSH or a TTY without leaving the shell. It is a niche CLI curiosity for remote servers and keyboard-first workflows.",
+    "category": "software",
+    "tags": [
+      "cli",
+      "open-source",
+      "developer",
+      "browser-only"
+    ],
+    "platform": [
+      "linux",
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "873be5a1-fdd3-4a69-bd68-a8be900b1cb0",
+    "name": "AOS-CE",
+    "url": "https://github.com/unicity-aos/aos-ce",
+    "logo": "",
+    "about": "Agent OS with WASM-isolated capsules for safe capability growth",
+    "description": "AOS-CE is an agent operating environment where new capabilities ship as WASM-isolated capsules instead of arbitrary shell access. Builders use it when they want agents that can extend themselves without handing models an unconstrained root shell.",
+    "category": "software",
+    "tags": [
+      "coding-assistant",
+      "dev-tools",
+      "developer",
+      "open-source",
+      "ai-powered"
+    ],
+    "platform": [
+      "linux",
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "6a26dcbf-6ce9-4b2e-844a-92f01bedab9a",
+    "name": "Cumora",
+    "url": "https://github.com/yetone/cumora",
+    "logo": "",
+    "about": "Team chat where AI agents are first-class participants",
+    "description": "Cumora is team chat software that treats AI agents as peers in channels, not bolt-on bots. It competes in the same human-plus-agent workspace lane as Buzz for teams self-hosting collaboration with embedded agents.",
+    "category": "software",
+    "tags": [
+      "ai-powered",
+      "productivity",
+      "open-source",
+      "self-hosted",
+      "developer"
+    ],
+    "platform": [
+      "web",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "0289faeb-9748-4af4-ba94-b59c13150559",
+    "name": "Aura",
+    "url": "https://github.com/CristianOlivera1/Aura",
+    "logo": "",
+    "about": "Gallery of 200+ CSS ambient gradient backgrounds",
+    "description": "Aura is a collection of ready-made CSS gradient backgrounds for ambient UI backdrops and hero sections. Designers grab presets instead of hand-tuning radial and mesh gradients \u2014 unrelated to Aura Code, the separate terminal coding agent.",
+    "category": "website",
+    "tags": [
+      "graphic-design",
+      "design",
+      "designer",
+      "open-source",
+      "browser-only",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "c8ef237f-943d-460f-b72b-05241f8e2dc9",
+    "name": "HQBase",
+    "url": "https://github.com/HQBase/hqbase",
+    "logo": "",
+    "about": "Shared team inbox that runs on your Cloudflare account",
+    "description": "HQBase deploys a shared email inbox on infrastructure you control through Cloudflare, so small teams can collaborate on support or ops mail without Google Workspace. It is early but fills a self-hosted email gap most catalogs skip.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "open-source",
+      "self-hosted",
+      "developer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "227d2d75-0138-40b4-9325-e4a949bea987",
+    "name": "Core Framework",
+    "url": "https://github.com/CoreBunch/Core-Framework",
+    "logo": "",
+    "about": "Visual CSS and design-token builder for web, WordPress, and Figma",
+    "description": "Core Framework is a design-system builder that exports CSS variables and tokens into web projects, WordPress themes, and Figma workflows. It targets designers who want a structured token pipeline instead of one-off style tweaks in Canva or Penpot alone.",
+    "category": "software",
+    "tags": [
+      "design",
+      "website-builder",
+      "graphic-design",
+      "designer",
+      "open-source",
+      "no-code"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "71122d79-7bb3-421c-8023-76a7ce09a2c5",
+    "name": "Halcyon Video",
+    "url": "https://github.com/halcyon-video/halcyon",
+    "logo": "",
+    "about": "Turns a Jellyfin library into a walkable 90s video store",
+    "description": "Halcyon Video is a novelty front-end that renders your Jellyfin movie collection as a nostalgic Blockbuster-style store you can wander through. It is entertainment software for media hoarders, in the same spirit as Radiooooo or The Useless Web.",
+    "category": "software",
+    "tags": [
+      "entertainment",
+      "retro",
+      "open-source",
+      "general-consumer"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "4f940a36-dd35-47cf-8dec-21db42bc6e12",
+    "name": "Pi Agent Harness",
+    "url": "https://github.com/earendil-works/pi",
+    "logo": "",
+    "about": "Minimal extensible terminal coding-agent harness",
+    "description": "Pi is a lightweight harness for building and running terminal coding agents with a small core and plug-in tools. Developers reach for it when they want agent ergonomics without the weight of a full IDE or platform like OpenHands.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "cli",
+      "developer",
+      "open-source",
+      "dev-tools"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "42354e70-d9c5-4527-a5cf-b5799255e205",
+    "name": "nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "logo": "",
+    "about": "Production-grade Rust algo-trading engine with Python strategies",
+    "description": "nautilus_trader is a high-performance algorithmic trading platform with a Rust core and Python strategy layer for backtesting and live execution. Quant developers use it when they need serious event-driven trading infrastructure rather than notebook prototypes.",
+    "category": "software",
+    "tags": [
+      "finance",
+      "library",
+      "developer",
+      "open-source",
+      "cli"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "b2c7b137-6c24-4829-baba-f0efab35afdb",
+    "name": "Instructor",
+    "url": "https://python.useinstructor.com/",
+    "logo": "",
+    "about": "Python library for structured LLM outputs via Pydantic schemas",
+    "description": "Instructor wraps LLM calls so responses validate against Pydantic models instead of loose JSON blobs. It is the go-to library when you need typed, retry-aware structured generation in Python agents and APIs.",
+    "category": "software",
+    "tags": [
+      "library",
+      "dev-tools",
+      "developer",
+      "ai-powered",
+      "open-source"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "acbed938-e0a1-4031-ae8c-899107c0ae34",
+    "name": "Outlines",
+    "url": "https://github.com/dottxt-ai/outlines",
+    "logo": "",
+    "about": "Constrained and structured generation library for LLMs",
+    "description": "Outlines forces language models to emit outputs that match grammars, regexes, or JSON schemas at decode time. Teams pair it with local or API models when free-form prompting is too flaky for production extraction and classification.",
+    "category": "software",
+    "tags": [
+      "library",
+      "dev-tools",
+      "developer",
+      "ai-powered",
+      "open-source"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "c8788daa-2b0e-46bb-ae16-71fc3752407b",
+    "name": "DSPy",
+    "url": "https://github.com/stanfordnlp/dspy",
+    "logo": "",
+    "about": "Stanford framework for programming LLM pipelines instead of prompting",
+    "description": "DSPy from Stanford treats prompts and few-shot examples as optimizable programs rather than hand-written strings. Researchers and engineers use it to compile reliable LLM pipelines with automatic tuning instead of endless prompt tweaking.",
+    "category": "software",
+    "tags": [
+      "library",
+      "research",
+      "developer",
+      "ai-powered",
+      "open-source",
+      "academic"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "147f8e66-23cc-4eed-a400-465510ce4fdb",
+    "name": "Chonkie",
+    "url": "https://github.com/chonkie-ai/chonkie",
+    "logo": "",
+    "about": "RAG text-chunking library for splitting documents intelligently",
+    "description": "Chonkie provides chunking strategies purpose-built for retrieval pipelines \u2014 semantic splits, token-aware boundaries, and helpers RAG engineers reach for instead of naive fixed-size slicing. It is a small library, but a common dependency in document QA stacks.",
+    "category": "software",
+    "tags": [
+      "library",
+      "dev-tools",
+      "developer",
+      "open-source",
+      "ai-powered"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "91e3618a-dbf3-4bef-a0e9-f5b33f507190",
+    "name": "Semantica",
+    "url": "https://github.com/semantica-agi/semantica",
+    "logo": "",
+    "about": "Graph-native context and accountability layer for agent stacks",
+    "description": "Semantica builds knowledge and context graphs with decision provenance so agent outputs can be traced to sources and reasoning steps. It sits under frameworks like LangChain as infrastructure for auditable, graph-grounded agents rather than opaque chat replies.",
+    "category": "software",
+    "tags": [
+      "library",
+      "research",
+      "citation-graph",
+      "ai-powered",
+      "open-source",
+      "developer"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ccee391d-308c-4012-aa90-109b270812fa",
+    "name": "Diagram Design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "logo": "https://cathrynlavery.github.io/diagram-design/favicon.ico",
+    "about": "Agent skill for editorial HTML+SVG diagrams without Mermaid slop",
+    "description": "Diagram Design is a Claude Code, Codex, and Pi skill that renders 39 diagram types as self-contained HTML and SVG with an editorial aesthetic. Install it when you want presentation-quality architecture and flow diagrams from an agent instead of default Mermaid exports.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "diagramming",
+      "design",
+      "designer",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "af65e6a6-e025-4f0a-ba55-0db5c567492a",
+    "name": "Minto Pyramid Skill",
+    "url": "https://github.com/millwright-labs/minto-pyramid-skill",
+    "logo": "",
+    "about": "Agent skill that rewrites prose in Barbara Minto's pyramid style",
+    "description": "This skill teaches coding agents to structure memos and emails answer-first with grouped supporting reasons, following the Minto Pyramid Principle. Consultants and operators install it to stop agents from burying the lede in narrative drafts.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "writing",
+      "productivity",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "f481995a-b4df-43ef-ac84-24c1744444a0",
+    "name": "5-Persona Advisory Board",
+    "url": "https://github.com/harryvondiesel-web/5-persona-advisory-board",
+    "logo": "",
+    "about": "Agent skill that stress-tests decisions through five strategy lenses",
+    "description": "5-Persona Advisory Board is a portable agent skill that walks important decisions through product, capital, scale, offer, and future-self lenses inspired by public business principles. Founders use it as a structured devil's advocate before launches, pricing moves, or pivots.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "productivity",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "865432c9-7ab4-4eb8-8760-8000908ef03c",
+    "name": "img2threejs",
+    "url": "https://github.com/img2threejs/img2threejs",
+    "logo": "",
+    "about": "Agent skill that turns an image into procedural Three.js code",
+    "description": "img2threejs is an agent skill that recreates reference images as procedural Three.js scenes instead of flat textures. Frontend developers install it when they want interactive 3D hero graphics generated inside Claude Code or similar agents.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "developer",
+      "design",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "8846211e-9194-4291-8951-56086746695d",
+    "name": "sloptrim",
+    "url": "https://github.com/seyedehsanhadi/sloptrim",
+    "logo": "",
+    "about": "Agent skill that detects and trims AI-writing patterns in prose",
+    "description": "sloptrim is an offline-oriented skill that flags telltale AI phrasing and helps agents tighten drafts before humans read them. Writers install it when agent-generated copy needs a pass for voice and credibility, not just grammar.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "writing",
+      "writing-editor",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "666b0647-e3aa-46fc-b37a-ffe688e3caad",
+    "name": "macOS Harness",
+    "url": "https://github.com/browser-use/macos-harness",
+    "logo": "",
+    "about": "Agent skill with primitives for controlling a Mac from an LLM",
+    "description": "macOS Harness exposes safe, composable macOS automation primitives so agents can click, type, and navigate the desktop. It is for builders wiring computer-use agents on Apple hardware rather than end users running a standalone app.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "a3d7db0c-19d8-4157-9844-5e71a2dd4865",
+    "name": "Emil Kowalski Skills",
+    "url": "https://github.com/emilkowalski/skills",
+    "logo": "",
+    "about": "Flagship Claude/Cursor skill pack for UI animation and design engineering",
+    "description": "Emil Kowalski's skills teach agents how to implement polished motion, layout, and interaction details the way a design engineer would. It is one of the most-installed design-eng skill packs for Claude Code and Cursor users shipping production UI.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "design",
+      "designer",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "37f69224-254d-41be-80fc-c13ea7e0d0e5",
+    "name": "garden-skills",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "logo": "",
+    "about": "Collection of Claude Code and agent skills",
+    "description": "garden-skills is a curated repo of installable agent skills for Claude Code and compatible assistants. It functions as a small skill garden you clone or add rather than a single-purpose prompt file.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "e6899219-601c-46ac-b751-6517d7b18822",
+    "name": "landing-page-design",
+    "url": "https://github.com/elayadesign/ai-design-skills",
+    "logo": "",
+    "about": "Agent skills for generating landing-page design",
+    "description": "landing-page-design is a skill pack focused on marketing-site layout, typography, and component choices when agents build landing pages. Designers install it to keep codegen output closer to a deliberate marketing design system.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "design",
+      "designer",
+      "website-builder",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "0ee92b8d-d259-4821-9135-ad5c190899aa",
+    "name": "Meng To Skills",
+    "url": "https://github.com/MengTo/Skills",
+    "logo": "",
+    "about": "Design-oriented Claude skills from Meng To",
+    "description": "Meng To Skills packages the Design+Code author's UI craft as agent skills for typography, spacing, and iOS-style polish. It is for designers who already follow Meng To's work and want agents to mirror that visual language.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "design",
+      "designer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "f9b11f50-190c-4dd4-9f02-8a3f3ac838c2",
+    "name": "Jakub Krehel Skills",
+    "url": "https://github.com/jakubkrehel/skills",
+    "logo": "",
+    "about": "Claude skills focused on UI polish and visual refinement",
+    "description": "Jakub Krehel Skills encodes subtle UI polish patterns \u2014 shadows, borders, states, and micro-layout \u2014 for agents implementing interfaces. Frontend developers install it when generated UI needs to look finished, not bootstrapped.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "design",
+      "designer",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ff562970-86ab-4691-9d87-cb482b7745d9",
+    "name": "tastemaker",
+    "url": "https://github.com/codeswithroh/tastemaker",
+    "logo": "",
+    "about": "Agent skills for taste and design direction",
+    "description": "tastemaker is a skill pack that steers agents toward cohesive visual taste \u2014 palette, type pairing, and layout rhythm \u2014 instead of generic template aesthetics. It helps when you care as much about vibe as about working code.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "design",
+      "designer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "16b92bd9-332d-4a4e-a091-ca271a17a1c3",
+    "name": "designer-skills",
+    "url": "https://github.com/Owl-Listener/designer-skills",
+    "logo": "",
+    "about": "Agent skills for design work in Claude and Cursor",
+    "description": "designer-skills collects prompts and procedures for design-centric agent tasks like critique, layout iteration, and asset handoff. It is a general-purpose design skill bundle for people who live in Claude Code or Cursor all day.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "design",
+      "designer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "2716275f-f3bd-4ae0-9d22-ad98c5096c53",
+    "name": "Awesome GPT Image 2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "logo": "",
+    "about": "Prompt-template library and agent skill for image generation",
+    "description": "Awesome GPT Image 2 bundles prompt templates and an installable skill for getting consistent results from GPT image models. Creators use it when they want reusable prompt recipes instead of one-off experimentation in Google AI Studio or ChatGPT.",
+    "category": "skill",
+    "tags": [
+      "prompt-library",
+      "image-generation",
+      "designer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ea55f888-395f-43ad-aaef-9c0fb84c77cd",
+    "name": "Claude Code Plugins",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "logo": "https://claude.com/favicon.ico",
+    "about": "Official Anthropic marketplace of Claude Code plugins",
+    "description": "Claude Code Plugins is Anthropic's official registry of plugins that extend Claude Code with commands, MCP servers, and bundled skills. It is the marketplace layer for an agent already in this catalog, not a separate product.",
+    "category": "website",
+    "tags": [
+      "marketplace",
+      "coding-assistant",
+      "anthropic",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "8629086c-1d0e-4632-ba80-f7278a98d75c",
+    "name": "Shockwave",
+    "url": "https://github.com/stephengpope/shockwave",
+    "logo": "",
+    "about": "Local markdown notes with a baked-in coding agent and GitHub sync",
+    "description": "Shockwave is a desktop notes app where your vault stays plain markdown on disk, syncs through your own GitHub repo, and includes an embedded coding agent. It targets note-takers who want Obsidian-like files plus agent memory without a separate Claude Code window.",
+    "category": "software",
+    "tags": [
+      "note-taking",
+      "coding-assistant",
+      "ai-powered",
+      "open-source",
+      "self-hosted",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "1c2ab18c-2096-4888-bed6-e2cc5ac61527",
+    "name": "Lumina",
+    "url": "https://github.com/Bino5150/lumina",
+    "logo": "",
+    "about": "Local-first agentic desktop companion with personas",
+    "description": "Lumina is a desktop companion app that runs agents locally with switchable personas for different tasks. It is a smaller entrant in the local agent desktop lane for people experimenting beyond browser chat UIs.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "productivity",
+      "open-source",
+      "offline-capable",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "387d30ed-715d-4759-a4b4-432567b5e80c",
+    "name": "Imagine CLI",
+    "url": "https://github.com/AhmedAburady/imagine-cli",
+    "logo": "",
+    "about": "Go CLI for image generation across Gemini, Vertex, and OpenAI",
+    "description": "Imagine CLI is a single-binary command-line tool that generates and edits images through Gemini, Vertex AI, or OpenAI from a YAML config file. It suits developers who want scriptable image gen without opening Google AI Studio or a web UI.",
+    "category": "ai-tool",
+    "tags": [
+      "cli",
+      "image-generation",
+      "developer",
+      "open-source",
+      "ai-powered"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "e1ecc258-d7f5-4975-8ebf-155821b5f05d",
+    "name": "TLDR Radio",
+    "url": "https://github.com/mat-nolen/tldr-radio",
+    "logo": "",
+    "about": "Turns TLDR newsletters into a local podcast without an LLM",
+    "description": "TLDR Radio ingests TLDR tech newsletters and turns them into a personal podcast feed you can listen to offline. It is a quirky audio utility for people who never finish reading newsletter digests but will listen on a walk.",
+    "category": "software",
+    "tags": [
+      "podcasting",
+      "newsletter",
+      "open-source",
+      "cli",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "2dba64b4-2e57-4b2e-9918-2cf491c434c9",
+    "name": "Aura Code",
+    "url": "https://github.com/DusanCar-sudo/aura-code",
+    "logo": "",
+    "about": "Model-agnostic terminal coding agent with memory and Telegram control",
+    "description": "Aura Code is an autonomous coding agent with persistent memory, a terminal UI, and optional Telegram remote control across many LLM providers. It is unrelated to Aura, the CSS gradient gallery \u2014 this is a full agent product in the Claude Code lane.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "cli",
+      "developer",
+      "open-source",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "a8a32628-2c64-440f-993a-6e4a6588ba5b",
+    "name": "Harness Engineering",
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "logo": "",
+    "about": "Playbooks and patterns for shaping effective agent environments",
+    "description": "Harness Engineering is a documentation anthology on how to design repositories, tools, and guardrails so coding agents succeed reliably. It is reference material for agent builders, not a runnable app \u2014 closer to a curated guide than a CLI.",
+    "category": "website",
+    "tags": [
+      "documentation",
+      "coding-assistant",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "438f6a22-1cf5-4408-9b59-cac87790504b",
+    "name": "blobatar",
+    "url": "https://github.com/Alain00/blobatar",
+    "logo": "",
+    "about": "Deterministic geometric avatars generated from any string",
+    "description": "blobatar turns a username or seed string into a consistent geometric avatar without network calls. It is a fun identicon generator in the same spirit as This Person Does Not Exist or AutoDraw \u2014 small, deterministic, and shareable.",
+    "category": "website",
+    "tags": [
+      "graphic-design",
+      "random",
+      "entertainment",
+      "open-source",
+      "browser-only",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "b87777e3-0abc-41ab-ba74-913630f4b554",
+    "name": "NorthCinder",
+    "url": "https://github.com/cinderline/northcinder",
+    "logo": "",
+    "about": "Shopping MCP that compares products and waits for approval before buying",
+    "description": "NorthCinder is a Model Context Protocol server that lets agents research products, compare options, and pause for human approval before any purchase executes. Shoppers install it when they want agent-assisted buying with an explicit checkout gate.",
+    "category": "ai-tool",
+    "tags": [
+      "mcp",
+      "shopping",
+      "ai-powered",
+      "open-source",
+      "developer"
+    ],
+    "platform": [
+      "web",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "fa67f131-ffef-4913-a624-4dfdf21987cc",
+    "name": "dgit",
+    "url": "https://github.com/littledivy/dgit",
+    "logo": "",
+    "about": "Git forge that runs on Cloudflare Durable Objects",
+    "description": "dgit is an experimental git hosting layer built on Cloudflare Durable Objects, aiming for cheap, edge-local repos without a traditional forge VM. Developers try it as infrastructure curiosity when exploring serverless git rather than as a GitHub replacement for teams.",
+    "category": "software",
+    "tags": [
+      "dev-tools",
+      "developer",
+      "open-source",
+      "self-hosted"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
   }
 ]

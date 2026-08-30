@@ -1,10 +1,10 @@
 # tool-stack
 
-Curated directory of useful websites, software, and AI tools — structured as JSON data for a future frontend (search + filter by category/tags/platform/pricing).
+Curated directory of useful websites, software, AI tools, and agent skills — structured as JSON data for a future frontend (search + filter by category/tags/platform/pricing).
 
 ## Files
 
-- `tools.json` — the entries (96 so far). Each has id, name, url, logo, about, description, category, tags, platform, pricing, open_source.
+- `tools.json` — the entries (180 so far). Each has id, name, url, logo, about, description, category, tags, platform, pricing, open_source.
 - `taxonomy.json` — controlled vocabulary: allowed categories, tags, pricing tiers, platforms. Single source of truth — no tag/category may appear in `tools.json` that isn't here first.
 - `RULES.md` — full schema definition, field-by-field rules, tagging layer system, and conventions for adding new entries.
 
