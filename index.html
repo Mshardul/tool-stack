@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>tool-stack</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:wght@500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --paper: #eef0f3;
+      --ink: #12141a;
+      --mute: #5a6270;
+      --rule: #d0d4db;
+      --enamel: #1e4fd7;
+      --stamp: #dce3f5;
+      --focus: #1e4fd7;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+      font-size: 15px;
+      line-height: 1.45;
+    }
+
+    body {
+      min-height: 100vh;
+    }
+
+    .wrap {
+      max-width: 44rem;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 4rem;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: var(--paper);
+      padding: 0.75rem 0 0.9rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .mast {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.85rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-family: "IBM Plex Serif", ui-serif, Georgia, serif;
+      font-size: 1.35rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+
+    .count {
+      color: var(--mute);
+      font-size: 0.85rem;
+      font-variant-numeric: tabular-nums;
+    }
+
+    #q {
+      width: 100%;
+      border: 0;
+      border-bottom: 2px solid var(--ink);
+      background: transparent;
+      color: var(--ink);
+      font: inherit;
+      font-size: 1.35rem;
+      padding: 0.35rem 0 0.45rem;
+      outline: none;
+      border-radius: 0;
+    }
+
+    #q::placeholder { color: #9aa1ab; }
+
+    #q:focus {
+      border-bottom-color: var(--enamel);
+    }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 0.75rem;
+      margin-top: 0.75rem;
+    }
+
+    .filters select {
+      appearance: none;
+      background: transparent;
+      border: 0;
+      border-bottom: 1px solid var(--rule);
+      color: var(--ink);
+      font: inherit;
+      font-size: 0.85rem;
+      padding: 0.2rem 1.1rem 0.2rem 0;
+      border-radius: 0;
+      cursor: pointer;
+    }
+
+    .filters select:focus {
+      outline: 2px solid var(--enamel);
+      outline-offset: 2px;
+    }
+
+    .status {
+      margin: 1rem 0 0.25rem;
+      color: var(--mute);
+      font-size: 0.85rem;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: 2.5rem 1fr;
+      gap: 0.85rem;
+      padding: 0.9rem 0;
+      border-bottom: 1px solid var(--rule);
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .row:hover .name {
+      color: var(--enamel);
+    }
+
+    .row:focus-visible {
+      outline: 2px solid var(--enamel);
+      outline-offset: 4px;
+    }
+
+    .mark {
+      width: 2.5rem;
+      height: 2.5rem;
+      object-fit: contain;
+      background: #fff;
+      border: 1px solid var(--rule);
+    }
+
+    .stamp {
+      width: 2.5rem;
+      height: 2.5rem;
+      display: grid;
+      place-items: center;
+      background: var(--stamp);
+      color: var(--enamel);
+      font-family: "IBM Plex Serif", ui-serif, Georgia, serif;
+      font-weight: 600;
+      font-size: 1.15rem;
+      line-height: 1;
+    }
+
+    .name {
+      font-family: "IBM Plex Serif", ui-serif, Georgia, serif;
+      font-size: 1.12rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+    }
+
+    .about {
+      margin: 0.15rem 0 0.35rem;
+      color: var(--mute);
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem 0.7rem;
+      font-size: 0.78rem;
+      color: var(--mute);
+    }
+
+    .empty {
+      padding: 2rem 0;
+      color: var(--mute);
+    }
+
+    .fail {
+      padding: 1.25rem 0;
+      color: #8a1f1f;
+    }
+
+    @media (max-width: 520px) {
+      .wrap { padding: 1rem 1rem 3rem; }
+      #q { font-size: 1.15rem; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="mast">
+        <h1>tool-stack</h1>
+        <span class="count" id="total"></span>
+      </div>
+      <input id="q" type="search" placeholder="Search tools" autocomplete="off" spellcheck="false" autofocus>
+      <div class="filters">
+        <select id="category" aria-label="Category">
+          <option value="">any category</option>
+        </select>
+        <select id="platform" aria-label="Platform">
+          <option value="">any platform</option>
+        </select>
+        <select id="pricing" aria-label="Pricing">
+          <option value="">any price</option>
+        </select>
+      </div>
+    </header>
+    <p class="status" id="status"></p>
+    <div id="results"></div>
+  </div>
+  <script>
+    const state = { tools: [], query: "", category: "", platform: "", pricing: "" };
+
+    function tokenize(text) {
+      return text.toLowerCase().split(/\s+/).filter(Boolean);
+    }
+
+    function score(entry, terms) {
+      if (!terms.length) return 1;
+      const name = entry.name.toLowerCase();
+      const tags = (entry.tags || []).map((t) => t.toLowerCase());
+      const about = (entry.about || "").toLowerCase();
+      const description = (entry.description || "").toLowerCase();
+      const blob = about + " " + description;
+      let total = 0;
+      for (const term of terms) {
+        if (name === term) total += 100;
+        else if (name.startsWith(term)) total += 40;
+        else if (name.includes(term)) total += 25;
+        if (tags.includes(term)) total += 20;
+        if (about.includes(term)) total += 8;
+        else if (blob.includes(term)) total += 4;
+      }
+      return total;
+    }
+
+    function initial(name) {
+      const ch = (name || "?").replace(/[^A-Za-z0-9]/g, "").charAt(0);
+      return (ch || "?").toUpperCase();
+    }
+
+    function fallbackMark(img) {
+      const stamp = document.createElement("span");
+      stamp.className = "stamp";
+      stamp.setAttribute("aria-hidden", "true");
+      stamp.textContent = img.dataset.initial || "?";
+      img.replaceWith(stamp);
+    }
+
+    function logoHtml(entry) {
+      if (entry.logo) {
+        return `<img class="mark" src="${escapeAttr(entry.logo)}" alt="" width="40" height="40" loading="lazy" data-initial="${escapeAttr(initial(entry.name))}" onerror="fallbackMark(this)">`;
+      }
+      return `<span class="stamp" aria-hidden="true">${escapeHtml(initial(entry.name))}</span>`;
+    }
+
+    function escapeHtml(s) {
+      return String(s)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function escapeAttr(s) {
+      return escapeHtml(s).replace(/'/g, "&#39;");
+    }
+
+    function search() {
+      const terms = tokenize(state.query);
+      const hits = [];
+      for (const entry of state.tools) {
+        if (state.category && entry.category !== state.category) continue;
+        if (state.platform && !(entry.platform || []).includes(state.platform)) continue;
+        if (state.pricing && entry.pricing !== state.pricing) continue;
+        const points = score(entry, terms);
+        if (points > 0) hits.push({ points, entry });
+      }
+      hits.sort((a, b) => b.points - a.points || a.entry.name.localeCompare(b.entry.name));
+      return hits;
+    }
+
+    function render() {
+      const hits = search();
+      const status = document.getElementById("status");
+      const results = document.getElementById("results");
+      if (!hits.length) {
+        status.textContent = "";
+        results.innerHTML = `<p class="empty">No tools match. Try another word, or clear a filter.</p>`;
+        return;
+      }
+      status.textContent = hits.length === state.tools.length
+        ? "Showing all tools"
+        : `${hits.length} match${hits.length === 1 ? "" : "es"}`;
+      results.innerHTML = hits.map(({ entry }) => `
+        <a class="row" href="${escapeAttr(entry.url)}" rel="noopener noreferrer">
+          ${logoHtml(entry)}
+          <div>
+            <div class="name">${escapeHtml(entry.name)}</div>
+            <div class="about">${escapeHtml(entry.about)}</div>
+            <div class="meta">
+              <span>${escapeHtml(entry.category)}</span>
+              <span>${escapeHtml(entry.pricing)}</span>
+              <span>${escapeHtml((entry.platform || []).join(" "))}</span>
+            </div>
+          </div>
+        </a>
+      `).join("");
+    }
+
+    function fillSelect(id, values) {
+      const el = document.getElementById(id);
+      for (const value of values) {
+        const opt = document.createElement("option");
+        opt.value = value;
+        opt.textContent = value;
+        el.appendChild(opt);
+      }
+    }
+
+    async function boot() {
+      try {
+        const res = await fetch("./tools.json", { cache: "no-store" });
+        if (!res.ok) throw new Error(res.status + " " + res.statusText);
+        state.tools = await res.json();
+      } catch (err) {
+        document.getElementById("results").innerHTML =
+          `<p class="fail">Could not load tools.json. Serve the folder over HTTP (python3 -m http.server) instead of opening the file directly. ${escapeHtml(err.message)}</p>`;
+        return;
+      }
+
+      document.getElementById("total").textContent = `${state.tools.length} tools`;
+      fillSelect("category", [...new Set(state.tools.map((t) => t.category))].sort());
+      const platforms = new Set();
+      for (const t of state.tools) for (const p of t.platform || []) platforms.add(p);
+      fillSelect("platform", [...platforms].sort());
+      fillSelect("pricing", [...new Set(state.tools.map((t) => t.pricing))].sort());
+
+      const q = document.getElementById("q");
+      q.addEventListener("input", () => { state.query = q.value; render(); });
+      document.getElementById("category").addEventListener("change", (e) => { state.category = e.target.value; render(); });
+      document.getElementById("platform").addEventListener("change", (e) => { state.platform = e.target.value; render(); });
+      document.getElementById("pricing").addEventListener("change", (e) => { state.pricing = e.target.value; render(); });
+
+      window.addEventListener("keydown", (e) => {
+        if (e.key === "/" && document.activeElement !== q && !e.metaKey && !e.ctrlKey) {
+          e.preventDefault();
+          q.focus();
+        }
+      });
+
+      render();
+    }
+
+    boot();
+  </script>
+</body>
+</html>

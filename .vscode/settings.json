@@ -1,0 +1,12 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["tools.json"],
+      "url": "./schema/tools.schema.json"
+    },
+    {
+      "fileMatch": ["taxonomy.json"],
+      "url": "./schema/taxonomy.schema.json"
+    }
+  ]
+}

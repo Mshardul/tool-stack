@@ -1,6 +1,6 @@
 # Tools Directory — Rules & Conventions
 
-Extensive search corpus, not a short "best of" list. Structured JSON for a future frontend (search + filter by tags, category, platform, pricing).
+Extensive search corpus, not a short "best of" list. Structured JSON for the search UI in `index.html` (keyword search + filter by tags, category, platform, pricing).
 
 ## Files
 
@@ -78,7 +78,7 @@ Tag each entry across as many applicable layers as make sense — not just one:
 
 **Before adding any entry:**
 1. Check every tag/category you want to use against `taxonomy.json`.
-2. New tag needed? Add it to `taxonomy.json` FIRST, then use it in the entry.
+2. New tag needed? Add it to `taxonomy.json` FIRST, then use it in the entry. Run `python3 scripts/write_schema.py` so editor autocomplete stays in sync.
 3. Never write a tag/category into `tools.json` that doesn't exist in `taxonomy.json`. No drift, no near-duplicate tags (e.g. `photo-editing` vs `photo-editor` — pick one, stick to it).
 
 ## Non-Goals (for now)
