@@ -1,17 +1,17 @@
 # tool-stack
 
-Curated directory of useful websites, software, AI tools, and agent skills — structured as JSON data for a future frontend (search + filter by category/tags/platform/pricing).
+Search corpus of tools: websites, installable software, browser extensions, Homebrew casks, Android/iOS apps, AI apps, libraries, and agent skills.
+
+The intended use is keyword search. A query like "grammar checker", "homebrew gui", or "remap android buttons" should return every entry that could answer it. Overlapping products stay in the list; the user picks.
+
+Data is JSON so a frontend can search and filter later (`category`, `tags`, `platform`, `pricing`). There is no app yet.
 
 ## Files
 
-- `tools.json` — the entries (180 so far). Each has id, name, url, logo, about, description, category, tags, platform, pricing, open_source.
-- `taxonomy.json` — controlled vocabulary: allowed categories, tags, pricing tiers, platforms. Single source of truth — no tag/category may appear in `tools.json` that isn't here first.
-- `RULES.md` — full schema definition, field-by-field rules, tagging layer system, and conventions for adding new entries.
-
-## Status
-
-Data-only right now — no frontend yet. Structure is designed so search/filter UI can be built later without reshaping the data.
+- `tools.json` — every entry (id, name, url, logo, about, description, category, tags, platform, pricing, open_source).
+- `taxonomy.json` — allowed categories, tags, pricing tiers, and platforms. Add a tag here before using it in `tools.json`.
+- `RULES.md` — schema, inclusion rules, tagging layers, and what not to add.
 
 ## Adding an entry
 
-See `RULES.md` before adding anything — it covers required fields, tag sourcing rules, and non-goals (no `added_date`, no local logo hosting, no CSV).
+Read `RULES.md` first.

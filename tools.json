@@ -4005,5 +4005,1806 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "id": "4a391d05-adc6-47ff-b3e3-a8108fbf9801",
+    "name": "DeepSeek Harness",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "logo": "https://github.com/deepseek-ai.png",
+    "about": "Plugin-based coding-agent runtime from DeepSeek",
+    "description": "DeepSeek Harness (DSH) is an open agent runtime where every capability is a plugin. Developers use it to run coding agents with a growing plugin ecosystem rather than a fixed toolbelt, closer to an extensible host than a single-vendor CLI.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "cli",
+      "developer",
+      "open-source",
+      "dev-tools",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ad1e6dd5-367d-4141-b736-bad31bdedc69",
+    "name": "Anydoc",
+    "url": "https://github.com/firecrawl/anydoc",
+    "logo": "https://github.com/firecrawl.png",
+    "about": "Converts Word, PPT, Excel, EPUB, and PDF to clean Markdown",
+    "description": "Anydoc is a Rust document converter from the Firecrawl team with Node and Python bindings. It turns office files, EPUBs, and PDFs into clean Markdown for RAG and agent pipelines, covering more formats than PDF-only tools like Marker.",
+    "category": "software",
+    "tags": [
+      "library",
+      "pdf-tools",
+      "documentation",
+      "cli",
+      "developer",
+      "open-source",
+      "cross-platform",
+      "dev-tools"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "c4e2e1d9-4c01-4587-a749-5787e356a93c",
+    "name": "Herdr",
+    "url": "https://github.com/herdrdev/herdr",
+    "logo": "https://github.com/herdrdev.png",
+    "about": "Runtime that local coding agents live on",
+    "description": "Herdr is the host layer coding agents run on: sessions, terminals, and orchestration rather than another IDE or model CLI. Use it when you want Claude Code, Codex, and similar agents sharing one runtime instead of scattered processes.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "cli",
+      "developer",
+      "open-source",
+      "dev-tools"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "4c76de7f-a019-4e93-a727-09c2c43bf032",
+    "name": "Orca",
+    "url": "https://www.onorca.dev",
+    "logo": "https://github.com/stablyai.png",
+    "about": "Agent IDE for running coding agents in parallel worktrees",
+    "description": "Orca is an agent development environment for running Claude Code, Codex, and other coding agents side by side, each in its own worktree, with terminals, diffs, and a browser in one app. It ships on desktop, mobile, and VPS so you can drive a fleet of agents from your own subscriptions.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "developer",
+      "dev-tools",
+      "cross-platform",
+      "open-source"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "13b4ad53-8ea7-4b7c-a92a-7b348d9ec09f",
+    "name": "OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "logo": "https://github.com/calesthio.png",
+    "about": "Open-source agentic video production studio",
+    "description": "OpenMontage is an agentic video production system with pipelines, tools, and skill files that turn a coding assistant into a video studio. Creators use it for scripted, multi-step generation rather than a single text-to-video button.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "video-ai",
+      "video-generation",
+      "video-editing",
+      "skill-pack",
+      "open-source",
+      "developer"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "03fd3944-b7e2-41a5-af6b-8b85cd96c912",
+    "name": "Archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "logo": "https://github.com/tt-a1i.png",
+    "about": "Agent skill for architecture, sequence, and data-flow diagrams",
+    "description": "Archify is an agent skill that produces verifiable architecture, workflow, sequence, and lifecycle diagrams as self-contained HTML with motion and clean export. Install it when you want agents to draw system diagrams instead of dumping Mermaid into a chat.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "diagramming",
+      "developer",
+      "open-source",
+      "documentation"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "cd5e15f6-43cc-410e-9755-3a191323a294",
+    "name": "Morph",
+    "url": "https://morphllm.com",
+    "logo": "",
+    "about": "Fast Apply API that merges coding-agent edits into files",
+    "description": "Morph is a model API for coding agents, best known for Fast Apply: a small model that merges lazy edit snippets into full files at high speed. Agent and IDE builders use it instead of brittle search-replace or full-file rewrites.",
+    "category": "ai-tool",
+    "tags": [
+      "library",
+      "coding-assistant",
+      "ai-powered",
+      "developer",
+      "dev-tools"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "8be905ef-d58d-460b-a3bc-8b87947be4fc",
+    "name": "OpenClaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "logo": "https://github.com/Gitlawb.png",
+    "about": "Open-source Claude Code-shaped agent that runs anywhere",
+    "description": "OpenClaude is an open coding agent meant to run on your machine with whatever models you plug in. It is the OSS counterpart to Claude Code for people who want that CLI workflow without being locked to Anthropic.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "cli",
+      "developer",
+      "open-source",
+      "dev-tools",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "f0acf220-e639-46b2-8b48-fd03cc36b175",
+    "name": "OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "logo": "https://github.com/THU-MAIC.png",
+    "about": "One-click multi-agent interactive classroom",
+    "description": "OpenMAIC (Open Multi-Agent Interactive Classroom) spins up an immersive multi-agent learning session in the browser. Students and teachers use it when they want several AI tutors in one room rather than a single chatbot.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "education",
+      "student",
+      "open-source",
+      "research"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "81a64386-bc70-451a-9fa3-b6f6020e8057",
+    "name": "Scientific Agent Skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "logo": "https://github.com/K-Dense-AI.png",
+    "about": "Skill pack that turns an AI agent into a working scientist",
+    "description": "Scientific Agent Skills is a large library of validated agent skills for biology, chemistry, and related sciences. Researchers install the pack so coding agents can run domain workflows instead of generic web search.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "research",
+      "academic",
+      "researcher",
+      "ai-powered",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "d9b40dc6-1432-4699-b9dc-b2f08d1c7063",
+    "name": "Go Modern Guidelines",
+    "url": "https://github.com/JetBrains/go-modern-guidelines",
+    "logo": "https://github.com/JetBrains.png",
+    "about": "JetBrains guidelines so coding agents write modern Go",
+    "description": "Go Modern Guidelines is a JetBrains pack that teaches AI coding agents current Go style, APIs, and idioms. Drop it into an agent project when you want generated Go to match modern practice instead of outdated tutorials.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "documentation",
+      "coding-assistant",
+      "developer",
+      "open-source",
+      "dev-tools"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "e0c2eb6e-0f82-4091-8bf1-883b4e3746e4",
+    "name": "ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "logo": "https://github.com/comfyanonymous.png",
+    "about": "Local node-based UI for diffusion image and video models",
+    "description": "ComfyUI is a graph/node interface for running Stable Diffusion and other generative models locally, with full control over pipelines. Artists and researchers use it when they need a modular workbench instead of a hosted one-click generator.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "image-generation",
+      "video-generation",
+      "open-source",
+      "self-hosted",
+      "designer",
+      "offline-capable"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ac582150-26ca-4c2e-938e-7873f6d619c6",
+    "name": "Harper",
+    "url": "https://writewithharper.com",
+    "logo": "https://github.com/automattic.png",
+    "about": "Offline, privacy-first grammar checker",
+    "description": "Harper is a free, open-source grammar checker from Automattic that runs on-device. Writers and developers use it when they want grammar help without sending drafts to Grammarly's cloud.",
+    "category": "software",
+    "tags": [
+      "writing",
+      "writing-editor",
+      "grammarly-alternative",
+      "open-source",
+      "offline-capable",
+      "productivity",
+      "extension"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "1a646290-3cbb-40b2-a6f0-f98fdc59e18e",
+    "name": "Cap",
+    "url": "https://cap.so",
+    "logo": "https://github.com/CapSoftware.png",
+    "about": "Open-source screen recorder, a Loom alternative",
+    "description": "Cap is an open-source screen recording and sharing app for quick async video. Teams self-host or use the cloud when they want Loom-style clips without a closed SaaS lock-in.",
+    "category": "software",
+    "tags": [
+      "screen-recording",
+      "video-editing",
+      "loom-alternative",
+      "open-source",
+      "productivity",
+      "self-hosted",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "ac59defd-8d8d-48e9-b269-cd422aee3651",
+    "name": "Stirling PDF",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "logo": "https://github.com/Stirling-Tools.png",
+    "about": "Self-hosted PDF toolkit you run on your own machine",
+    "description": "Stirling PDF is a locally hosted suite for merging, splitting, converting, OCR, and otherwise editing PDFs in the browser. It is the self-hosted alternative to web PDF sites and Acrobat when files should not leave your network.",
+    "category": "software",
+    "tags": [
+      "pdf-tools",
+      "open-source",
+      "self-hosted",
+      "productivity",
+      "cross-platform"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "6962794e-62d3-4bd3-bade-9ad9bf0832c3",
+    "name": "Cline",
+    "url": "https://cline.bot",
+    "logo": "https://github.com/cline.png",
+    "about": "Open-source coding agent for VS Code, JetBrains, and CLI",
+    "description": "Cline is an autonomous coding agent you run as an IDE extension, SDK, or CLI with your own model keys. It is the open VS Code-native counterpart to Cursor for people who want agent edits inside an editor they already use.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "extension",
+      "developer",
+      "open-source",
+      "dev-tools",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "f322dcee-64e7-4b73-9b2c-83a4993c89dd",
+    "name": "Jan",
+    "url": "https://jan.ai",
+    "logo": "https://github.com/janhq.png",
+    "about": "Desktop ChatGPT alternative that runs locally",
+    "description": "Jan is an open-source desktop app for chatting with local or cloud models, aimed at people who want a ChatGPT-style UI without a hosted account. It complements Open WebUI: native app versus self-hosted web.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "text-generation",
+      "chatgpt-alternative",
+      "open-source",
+      "offline-capable",
+      "cross-platform"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "bfc34843-6a52-4aa8-a064-9ec7ca67bb1d",
+    "name": "WhisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "logo": "https://github.com/m-bain.png",
+    "about": "Local Whisper transcription with word-level timestamps",
+    "description": "WhisperX wraps OpenAI Whisper with forced alignment and speaker-aware timestamps for accurate local transcripts. Researchers and tool builders run it when Otter-style SaaS is too closed and vanilla Whisper timestamps are too loose.",
+    "category": "software",
+    "tags": [
+      "transcription",
+      "voice-ai",
+      "audio-editing",
+      "cli",
+      "open-source",
+      "researcher",
+      "offline-capable",
+      "ai-powered"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "77c98e80-4e02-4c7b-b620-cbfde451b50b",
+    "name": "OpnForm",
+    "url": "https://opnform.com",
+    "logo": "https://github.com/OpnForm.png",
+    "about": "Open-source form builder, a Typeform alternative",
+    "description": "OpnForm is a self-hostable form builder for surveys, waitlists, and intake flows. Use the cloud or run it yourself when you want Typeform-style forms without the SaaS tax.",
+    "category": "software",
+    "tags": [
+      "form-builder",
+      "no-code",
+      "typeform-alternative",
+      "open-source",
+      "self-hosted",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "b19ec9a8-0899-4fa7-b368-b89a0d07f19a",
+    "name": "Open SEO",
+    "url": "https://github.com/every-app/open-seo",
+    "logo": "https://github.com/every-app.png",
+    "about": "Open-source alternative to Semrush and Ahrefs",
+    "description": "Open SEO is an open toolkit for keyword research, backlink analysis, and Search Console-style workflows, including agent/MCP hooks. Marketers and developers use it when they want SEO suite features without a Semrush subscription.",
+    "category": "software",
+    "tags": [
+      "seo",
+      "analytics",
+      "mcp",
+      "open-source",
+      "developer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "3907369d-09ef-4bc7-a595-7091257d1564",
+    "name": "Homebrew",
+    "url": "https://brew.sh",
+    "logo": "https://brew.sh/assets/img/homebrew.svg",
+    "about": "Package manager for macOS and Linux",
+    "description": "Homebrew installs command-line tools and desktop apps from the terminal with a single brew command. It is the de facto package manager on Mac, and the closest equivalent to Ninite for Unix machines that live in a shell.",
+    "category": "software",
+    "tags": [
+      "package-manager",
+      "app-installer",
+      "software-discovery",
+      "cli",
+      "developer",
+      "open-source",
+      "no-signup"
+    ],
+    "platform": [
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "fb6175d2-7b30-4750-a25c-6fe4dc55f75f",
+    "name": "Tappie",
+    "url": "https://www.empiricapps.com/tappie",
+    "logo": "",
+    "about": "Native GUI for Homebrew on Mac and Linux",
+    "description": "Tappie is a graphical frontend for Homebrew so you can browse, install, and update formulae and casks without the terminal. It covers the full package set, not just GUI casks, with a native Mac app and a Linux edition.",
+    "category": "software",
+    "tags": [
+      "package-manager",
+      "app-installer",
+      "software-discovery",
+      "productivity",
+      "no-signup"
+    ],
+    "platform": [
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "fd5c23c8-5fd9-455c-b995-ff8b8ed7ff1c",
+    "name": "Mole",
+    "url": "https://github.com/tw93/Mole",
+    "logo": "https://github.com/tw93.png",
+    "about": "Open-source Mac cleaner, uninstaller, and disk analyzer",
+    "description": "Mole is a free Mac maintenance tool for uninstalling apps, clearing junk, and inspecting disk use, with both a CLI and a native app. It is the CleanMyMac-shaped option that stays local and open-source.",
+    "category": "software",
+    "tags": [
+      "system-cleaner",
+      "productivity",
+      "open-source",
+      "cli",
+      "system-admin",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "5687144c-8991-4e1d-86b3-f6a06ce96272",
+    "name": "AltTab",
+    "url": "https://alt-tab-macos.netlify.app",
+    "logo": "",
+    "about": "Windows-style window switcher for macOS",
+    "description": "AltTab brings a thumbnail window switcher to the Mac, closer to Windows Alt-Tab than macOS's app-only Command-Tab. It is the standard fix when you want to jump between windows, not just apps.",
+    "category": "software",
+    "tags": [
+      "window-management",
+      "productivity",
+      "open-source",
+      "offline-capable",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "4dd5ecaf-daa6-47a4-872c-e8b42c4795c2",
+    "name": "NeoHtop",
+    "url": "https://github.com/Abdenasser/neohtop",
+    "logo": "https://github.com/Abdenasser.png",
+    "about": "Modern desktop process monitor, an htop with a real UI",
+    "description": "NeoHtop is a fast, cross-platform system monitor built with Rust and Tauri. It is for people who want Activity Monitor / htop in a cleaner desktop UI instead of a terminal dashboard.",
+    "category": "software",
+    "tags": [
+      "process-monitor",
+      "system-admin",
+      "open-source",
+      "cross-platform",
+      "offline-capable"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "9526c23f-35a0-4d02-9652-e36822f7dcfe",
+    "name": "Maccy",
+    "url": "https://maccy.app",
+    "logo": "",
+    "about": "Lightweight clipboard history for Mac",
+    "description": "Maccy keeps a searchable history of everything you copy and pastes it back with a shortcut. It is the small, open-source clipboard manager Mac users install when the system clipboard is not enough.",
+    "category": "software",
+    "tags": [
+      "clipboard",
+      "productivity",
+      "open-source",
+      "offline-capable",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "b1d86b24-16be-487e-9feb-0dd9ccb95aa6",
+    "name": "Vorssaint",
+    "url": "https://vorssaint.com",
+    "logo": "https://github.com/vorssaint.png",
+    "about": "Modular open-source menu-bar toolkit for Mac",
+    "description": "Vorssaint is a local-first Mac menu-bar app you assemble from modules \u2014 switcher, clipboard, cleaner, and more \u2014 instead of installing a dozen one-trick utilities. Install only the pieces you use.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "open-source",
+      "offline-capable",
+      "general-consumer",
+      "window-management",
+      "clipboard"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "e8585790-8673-4b6c-8de6-aab94a6d9874",
+    "name": "Loop",
+    "url": "https://github.com/MrKai77/Loop",
+    "logo": "https://github.com/MrKai77.png",
+    "about": "Radial window manager for macOS",
+    "description": "Loop is a keyboard-driven Mac window manager with a radial menu for snapping and moving windows. It fills the window-management gap on a catalog that had none.",
+    "category": "software",
+    "tags": [
+      "window-management",
+      "productivity",
+      "open-source",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "52918b19-cd24-4b40-b8d0-097853c33b08",
+    "name": "Hyperkey",
+    "url": "https://hyperkey.app",
+    "logo": "",
+    "about": "Turns Caps Lock into a Hyper modifier key on Mac",
+    "description": "Hyperkey remaps Caps Lock (or another modifier) into the Hyper key \u2014 Control, Option, Command, and Shift together. Power users bind extra shortcuts to it without fighting the built-in modifier set.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "offline-capable",
+      "general-consumer",
+      "no-signup"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "95c4841b-943c-4149-aaee-99445ef69052",
+    "name": "Rascal",
+    "url": "https://tryrascal.org",
+    "logo": "",
+    "about": "Keyboard-first Finder replacement with dual panes and vim keys",
+    "description": "Rascal is a native macOS file manager with dual panes, a command palette, vim keys, and a disk treemap. It is for people who want Finder to keep up with keyboard-driven work.",
+    "category": "software",
+    "tags": [
+      "file-manager",
+      "productivity",
+      "open-source",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "dce8f6be-9455-484d-bb3c-72380129f4be",
+    "name": "Forel",
+    "url": "https://github.com/lab421/forel",
+    "logo": "https://github.com/lab421.png",
+    "about": "Open-source folder automation, a Hazel alternative",
+    "description": "Forel watches folders and runs rules on new files \u2014 sort, rename, convert \u2014 on-device. It is the open-source stand-in for Hazel when you want file automation without a paid license.",
+    "category": "software",
+    "tags": [
+      "file-automation",
+      "workflow-automation",
+      "productivity",
+      "open-source",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "86dc044d-1d2d-4ec4-be05-4087331c3d7e",
+    "name": "Ghostty",
+    "url": "https://ghostty.org",
+    "logo": "",
+    "about": "Fast, native GPU terminal emulator",
+    "description": "Ghostty is a GPU-accelerated terminal from Mitchell Hashimoto that aims to be fast and native on macOS and Linux. Developers install it as a modern terminal that still behaves like a well-mannered OS citizen.",
+    "category": "software",
+    "tags": [
+      "terminal",
+      "developer",
+      "open-source",
+      "cross-platform",
+      "dev-tools",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "f843ef53-547a-4357-81ea-4060b94cf972",
+    "name": "Plash",
+    "url": "https://github.com/sindresorhus/Plash",
+    "logo": "https://github.com/sindresorhus.png",
+    "about": "Puts any website on your Mac desktop as wallpaper",
+    "description": "Plash renders a webpage as your macOS desktop background \u2014 dashboards, clocks, or anything with a URL. It is a tiny utility in the same odd-useful spirit as WindowSwap.",
+    "category": "software",
+    "tags": [
+      "entertainment",
+      "productivity",
+      "open-source",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "93ce965d-a5a3-4bbe-8577-02571b37c0f6",
+    "name": "Droid-ify",
+    "url": "https://github.com/Droid-ify/client",
+    "logo": "https://github.com/Droid-ify.png",
+    "about": "Clean F-Droid client for installing open-source Android apps",
+    "description": "Droid-ify is a material F-Droid client for browsing and updating FOSS Android apps without the stock client's clutter. It is software discovery on Android in the same job as Ninite on Windows.",
+    "category": "software",
+    "tags": [
+      "software-discovery",
+      "app-installer",
+      "open-source",
+      "general-consumer"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "dcac2a9e-9092-4083-a1c2-953212b2ed9d",
+    "name": "aShellYou",
+    "url": "https://github.com/DP-Hridayan/aShellYou",
+    "logo": "https://github.com/DP-Hridayan.png",
+    "about": "Local terminal and ADB shell for Android",
+    "description": "aShellYou is a Material You terminal for running local commands and ADB on Android. Power users use it as the phone-side counterpart to a desktop terminal like Ghostty.",
+    "category": "software",
+    "tags": [
+      "terminal",
+      "cli",
+      "developer",
+      "open-source",
+      "dev-tools"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "959240df-1d84-49d2-8f0f-1769c45035c7",
+    "name": "God's Eye View",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "logo": "https://github.com/bilawalsidhu.png",
+    "about": "Browser globe that shows live open-source satellite and geo intel",
+    "description": "God's Eye View is a photorealistic 3D globe fed with real open spatial data \u2014 a spy-satellite simulator that is not fake. It sits next to FlightRadar24 and Windy as a browsable geo toy that is also a real OSINT viewer.",
+    "category": "website",
+    "tags": [
+      "mapping",
+      "geolocation",
+      "osint",
+      "data-visualization",
+      "simulation",
+      "open-source",
+      "browser-only",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "d4c6512e-6ddd-44a0-8094-bcfe4aabd424",
+    "name": "Notion",
+    "url": "https://www.notion.so",
+    "logo": "https://www.notion.so/images/favicon.ico",
+    "about": "All-in-one workspace for notes, wikis, and databases",
+    "description": "Notion combines documents, wikis, project boards, and databases in one workspace used by individuals and teams. Search for notes, knowledge bases, or a Notion-style wiki and this is the default hit, with AppFlowy and AFFiNE as open alternatives.",
+    "category": "software",
+    "tags": [
+      "note-taking",
+      "wiki",
+      "database",
+      "productivity",
+      "project-management",
+      "no-code"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "2962a0d4-739a-498c-8e11-efdcb5dc9c70",
+    "name": "Midjourney",
+    "url": "https://www.midjourney.com",
+    "logo": "https://www.midjourney.com/favicon.ico",
+    "about": "Hosted AI image generation with a distinctive aesthetic",
+    "description": "Midjourney generates images from text prompts, known for a painterly look and an iterative web workflow. It is the name most people search for in AI image generation; ComfyUI is the local node-based counterpart already in the catalog.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "image-generation",
+      "design",
+      "designer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "a91e18ac-1a92-4766-9e54-1d29273f3df9",
+    "name": "Grammarly",
+    "url": "https://www.grammarly.com",
+    "logo": "https://www.grammarly.com/favicon.ico",
+    "about": "Cloud grammar, spelling, and tone checker",
+    "description": "Grammarly checks grammar, spelling, and tone in the browser, desktop apps, and editors. It is the mainstream writing assistant; Harper is the offline open-source alternative already listed.",
+    "category": "software",
+    "tags": [
+      "writing",
+      "writing-editor",
+      "productivity",
+      "extension",
+      "ai-powered"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "b89aebc4-ed03-4df6-a9b0-2d2158e10222",
+    "name": "Loom",
+    "url": "https://www.loom.com",
+    "logo": "https://www.loom.com/favicon.ico",
+    "about": "Async video messages and screen recordings",
+    "description": "Loom records the screen, camera, and mic into a shareable link for async updates. Search screen recording or video messages and this is the hosted default; Cap is the open-source alternative already in the catalog.",
+    "category": "software",
+    "tags": [
+      "screen-recording",
+      "video-editing",
+      "productivity"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "b61a05f0-c453-4043-abbb-04afcfe2c2e6",
+    "name": "Adobe Acrobat",
+    "url": "https://www.adobe.com/acrobat.html",
+    "logo": "https://www.adobe.com/favicon.ico",
+    "about": "The standard PDF editor, reader, and e-sign suite",
+    "description": "Adobe Acrobat creates, edits, signs, and converts PDFs across desktop, web, and mobile. It is what most people mean by a PDF tool; Stirling PDF, iLovePDF, and PDFescape cover lighter or self-hosted paths.",
+    "category": "software",
+    "tags": [
+      "pdf-tools",
+      "e-signature",
+      "adobe",
+      "productivity"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "7898a938-f97a-433d-8d7f-365c84ca4598",
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "logo": "https://chatgpt.com/favicon.ico",
+    "about": "OpenAI's hosted chat interface for GPT models",
+    "description": "ChatGPT is the consumer chat app for OpenAI models, used for writing, Q&A, coding help, and image generation in the browser and mobile apps. Search chatgpt or ai chat and this is the primary hit; Jan and Open WebUI cover local/self-hosted alternatives.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "text-generation",
+      "openai",
+      "writing",
+      "coding-assistant"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "0e887d98-2942-4402-8220-c0332c304f98",
+    "name": "Typeform",
+    "url": "https://www.typeform.com",
+    "logo": "https://www.typeform.com/favicon.ico",
+    "about": "Hosted conversational forms and surveys",
+    "description": "Typeform builds one-question-at-a-time forms, quizzes, and surveys with a polished hosted editor. It is the usual search result for online forms; OpnForm is the open-source alternative already listed.",
+    "category": "website",
+    "tags": [
+      "form-builder",
+      "no-code",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "bfbb49e2-628c-49e1-b83c-7bdd9b0d6e1f",
+    "name": "Descript",
+    "url": "https://www.descript.com",
+    "logo": "https://www.descript.com/favicon.ico",
+    "about": "AI video and podcast editor that edits like a doc",
+    "description": "Descript transcribes recordings so you edit video and podcasts by editing text, with overdub and filler-word removal. Search podcast editor or edit video as text and this is the product; WhisperX is the local transcription engine already in the catalog.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "video-editing",
+      "audio-editing",
+      "podcasting",
+      "transcription"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "764c22be-b16a-4068-b54d-46269391b854",
+    "name": "CaskHub",
+    "url": "https://github.com/alielsokary/CaskHub",
+    "logo": "https://github.com/alielsokary.png",
+    "about": "Native GUI for Homebrew Casks on Mac",
+    "description": "CaskHub is an open-source Mac app for browsing, installing, and updating Homebrew Casks without the terminal. Use it when you want a GUI for GUI apps from brew; Tappie covers formulae and casks together.",
+    "category": "software",
+    "tags": [
+      "package-manager",
+      "app-installer",
+      "software-discovery",
+      "open-source",
+      "productivity"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "51ba0423-afd0-4edd-86f6-b09239641f99",
+    "name": "Swift Salamander",
+    "url": "https://salamander.codesurfer.ch",
+    "logo": "",
+    "about": "Dual-pane file manager for macOS",
+    "description": "Swift Salamander is a native dual-pane Mac file manager in active development. Search dual-pane Finder or Commander-style browsing on Mac; Rascal is the keyboard/vim-first alternative already listed.",
+    "category": "software",
+    "tags": [
+      "file-manager",
+      "productivity",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "ee109e8f-8abf-4e66-9559-d4266d653199",
+    "name": "AFFiNE",
+    "url": "https://affine.pro",
+    "logo": "https://github.com/toeverything.png",
+    "about": "Open-source notes, docs, and whiteboard in one canvas",
+    "description": "AFFiNE is a local-first workspace that mixes documents with an infinite whiteboard. Search Notion alternative plus canvas and this is the hybrid; AppFlowy stays the closer Notion clone and Excalidraw the dedicated whiteboard.",
+    "category": "software",
+    "tags": [
+      "note-taking",
+      "whiteboard",
+      "wiki",
+      "open-source",
+      "productivity",
+      "self-hosted"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "16b4ef12-3546-472f-84e4-5274daebe437",
+    "name": "GrandPerspective",
+    "url": "https://grandperspectiv.sourceforge.net",
+    "logo": "",
+    "about": "Mac disk-usage treemap to find what is eating space",
+    "description": "GrandPerspective draws a treemap of files and folders so large space hogs jump out visually. Search disk usage Mac or storage treemap; Mole handles cleanup and Rascal includes a treemap inside a file manager.",
+    "category": "software",
+    "tags": [
+      "system-cleaner",
+      "data-visualization",
+      "open-source",
+      "offline-capable",
+      "system-admin"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "1fcb0913-b372-43e2-8b00-b284c7b56c8c",
+    "name": "Button Mapper",
+    "url": "https://buttonmapper.com",
+    "logo": "",
+    "about": "Remap Android hardware buttons to apps and actions",
+    "description": "Button Mapper assigns tap, double-tap, and long-press actions to volume keys, Bixby, and other hardware buttons. Search remap android buttons or flashlight on volume key and this is the usual Play Store answer.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "general-consumer",
+      "accessibility"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "fba7c10e-6859-47ed-9a18-7aec654d33de",
+    "name": "Shizuku",
+    "url": "https://github.com/RikkaApps/Shizuku",
+    "logo": "https://github.com/RikkaApps.png",
+    "about": "Lets normal Android apps call privileged APIs via ADB or root",
+    "description": "Shizuku starts a privileged Java process so other apps can use system APIs without each one asking for root. It is the official bridge behind a large set of Android power-user tools (installers, debloaters, tile apps).",
+    "category": "software",
+    "tags": [
+      "security",
+      "developer",
+      "open-source",
+      "system-admin"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ed51c28b-3ab3-4ecb-a751-a222347c4cf7",
+    "name": "Auto Cursor",
+    "url": "https://autocursor.toneiv.eu",
+    "logo": "https://github.com/toneiv.png",
+    "about": "One-handed pointer for large Android phones",
+    "description": "Auto Cursor puts an on-screen cursor you pull from the edge so you can tap the far side of a large phone with one hand. Search one-handed android or reachability pointer; official site is autocursor.toneiv.eu, not the Cursor IDE.",
+    "category": "software",
+    "tags": [
+      "accessibility",
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "ce736a5c-b4f8-4922-8f66-4c23a96632a3",
+    "name": "Ambient Music Mod",
+    "url": "https://github.com/KieronQuinn/AmbientMusicMod",
+    "logo": "https://github.com/KieronQuinn.png",
+    "about": "Pixel Now Playing music recognition on other Androids",
+    "description": "Ambient Music Mod ports Google Pixel Now Playing so non-Pixel phones can identify music playing around you. Search now playing android or pixel ambient music.",
+    "category": "software",
+    "tags": [
+      "music",
+      "open-source",
+      "google"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ba8839f2-1f07-4993-9318-b2c39793927b",
+    "name": "InstallerX Revived",
+    "url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
+    "logo": "https://github.com/wxxsfxyzm.png",
+    "about": "Expressive Android package installer, the live InstallerX tree",
+    "description": "InstallerX Revived is the maintained continuation of InstallerX for installing APKs, APKS, and related formats with a modern UI, including Shizuku/root hooks. The original InstallerX repo is gone; this is the project people actually ship.",
+    "category": "software",
+    "tags": [
+      "app-installer",
+      "open-source",
+      "system-admin"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "c99772ff-ae94-4b40-b116-e594ee3e846d",
+    "name": "Fold Switcher",
+    "url": "https://github.com/eiyooooo/Fold_Switcher",
+    "logo": "https://github.com/eiyooooo.png",
+    "about": "Force foldable Android devices into specific fold states",
+    "description": "Fold Switcher switches a foldable phone between folded, unfolded, and other display states on demand. Search foldable android emulator state or force unfold when debugging or using desktop-style apps on a foldable.",
+    "category": "software",
+    "tags": [
+      "developer",
+      "open-source",
+      "system-admin"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "4466b45d-7601-40b2-8db3-2fb107d0c23e",
+    "name": "QuickTile Settings",
+    "url": "https://github.com/RBN-Apps/Quick-Tile-Settings",
+    "logo": "https://github.com/RBN-Apps.png",
+    "about": "Quick Settings tiles for Private DNS, USB debugging, and more",
+    "description": "QuickTile Settings adds Android Quick Settings tiles for system toggles such as Private DNS hostnames and USB debugging. Search private dns tile or quick settings android developer tiles.",
+    "category": "software",
+    "tags": [
+      "networking",
+      "developer",
+      "open-source",
+      "wifi"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "33a71aaf-ce87-4e01-8e9f-941f0f3442ff",
+    "name": "Network Switch",
+    "url": "https://github.com/aunchagaonkar/NetworkSwitch",
+    "logo": "https://github.com/aunchagaonkar.png",
+    "about": "One-tap 4G/5G network switching on Android",
+    "description": "Network Switch flips between network generations (4G/5G) without digging through SIM settings. Search switch 5g android or force lte.",
+    "category": "software",
+    "tags": [
+      "networking",
+      "open-source",
+      "wifi"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "0729cc43-36c3-4772-a780-ed971634a0e1",
+    "name": "ShizuTools",
+    "url": "https://github.com/legendsayantan/ShizuTools",
+    "logo": "https://github.com/legendsayantan.png",
+    "about": "Toolkit of Android system utilities powered by Shizuku",
+    "description": "ShizuTools bundles debloat, app volume, downgrade, and other system controls that talk to Android through Shizuku. Search shizuku tools or android debloat without full root.",
+    "category": "software",
+    "tags": [
+      "system-admin",
+      "open-source",
+      "security"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "91f81df3-61d8-4bbe-8749-884ec43615ed",
+    "name": "Buge App Manager",
+    "url": "https://github.com/BugeStudioTeam/Buge-App-Manager",
+    "logo": "https://github.com/BugeStudioTeam.png",
+    "about": "Android app and permission manager that uses Shizuku",
+    "description": "Buge App Manager inspects installed apps, permissions, and related system details with Shizuku privileges. Search android app manager or permission manager shizuku.",
+    "category": "software",
+    "tags": [
+      "system-admin",
+      "security",
+      "open-source"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "67cf2ae4-f116-4815-a49e-e5fb003956ba",
+    "name": "Privacy Flip",
+    "url": "https://f-droid.org/packages/io.github.dorumrr.privacyflip/",
+    "logo": "",
+    "about": "Turns off camera, mic, and radios when the Android screen locks",
+    "description": "Privacy Flip disables camera, microphone, Bluetooth, and similar sensors when you lock the phone and can restore them on unlock. Search disable camera on lock android or privacy sensors.",
+    "category": "software",
+    "tags": [
+      "security",
+      "open-source"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "94419b1f-08c0-4f5b-809d-262639f0fdc4",
+    "name": "Curbox",
+    "url": "https://f-droid.org/packages/neth.iecal.curbox/",
+    "logo": "",
+    "about": "Android app and site blocker with focus modes and overlays",
+    "description": "Curbox blocks or greys out distracting apps and page regions, with schedules, unlock friction, and usage stats. Search android app blocker, focus mode, or hide youtube feed.",
+    "category": "software",
+    "tags": [
+      "focus",
+      "productivity",
+      "open-source",
+      "general-consumer"
+    ],
+    "platform": [
+      "android"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "866945b8-e64e-4adc-8cae-55addc221d7f",
+    "name": "Itsycal",
+    "url": "https://www.mowglii.com/itsycal/",
+    "logo": "",
+    "about": "Tiny Mac menu-bar calendar with Calendar.app events",
+    "description": "Itsycal is a small menu-bar calendar that shows the month and your Mac Calendar events. Search menu bar calendar Mac.",
+    "category": "software",
+    "tags": [
+      "scheduling",
+      "productivity",
+      "offline-capable",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "771b6f4f-3eef-4c2b-8304-36c6bc577deb",
+    "name": "Amphetamine",
+    "url": "https://apps.apple.com/app/amphetamine/id937984704",
+    "logo": "",
+    "about": "Keeps a Mac awake on demand",
+    "description": "Amphetamine prevents sleep with triggers, sessions, and a menu-bar toggle, the usual Caffeine successor. Search keep mac awake or prevent sleep mac.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "offline-capable",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "087545a3-5b6c-4b48-abd5-ee6c0b9cbd38",
+    "name": "Reminders Menubar",
+    "url": "https://github.com/DamascenoRafael/reminders-menubar",
+    "logo": "https://github.com/DamascenoRafael.png",
+    "about": "Apple Reminders in the Mac menu bar",
+    "description": "Reminders Menubar shows and completes Apple Reminders from the menu bar without opening the Reminders app. Search reminders menu bar mac; installable via Homebrew cask.",
+    "category": "software",
+    "tags": [
+      "scheduling",
+      "productivity",
+      "open-source",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "ef981f62-8b7c-4089-b62c-c9b06d6f920b",
+    "name": "CleanMyKeyboard",
+    "url": "https://apps.apple.com/app/cleanmykeyboard/id1621223427",
+    "logo": "",
+    "about": "Locks the Mac keyboard so you can wipe it without typing junk",
+    "description": "CleanMyKeyboard disables key input while you clean the keyboard, then unlocks with a gesture or shortcut. Search clean keyboard mac or disable keys to wipe.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "cd2ba67c-529a-4699-b9c9-718300fba6b9",
+    "name": "DeskMinder",
+    "url": "https://apps.apple.com/app/deskminder/id6445845746",
+    "logo": "",
+    "about": "Sticky reminders that live on the Mac desktop",
+    "description": "DeskMinder pins reminders and notes to the desktop instead of burying them in a list app. Search desktop sticky notes mac or desktop reminders.",
+    "category": "software",
+    "tags": [
+      "scheduling",
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "dbd5f52a-53e8-459f-9407-4676954c9032",
+    "name": "Kofe Flow",
+    "url": "https://apps.apple.com/app/kofe-flow/id6446311843",
+    "logo": "",
+    "about": "Private menu-bar Pomodoro timer for Mac",
+    "description": "Kofe Flow is a menu-bar Pomodoro and focus timer. Search pomodoro mac menu bar or focus timer mac.",
+    "category": "software",
+    "tags": [
+      "focus",
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "5d74d96f-aab2-4a57-8eaf-43f47545c60f",
+    "name": "Wick",
+    "url": "https://trywick.co",
+    "logo": "",
+    "about": "Reading-focus tool that dims the Mac screen around a spotlight",
+    "description": "Wick dims everything except a movable reading area so you can focus on one region of the screen. Search focus reading mac or dim screen spotlight.",
+    "category": "software",
+    "tags": [
+      "focus",
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "46d19e64-6271-4737-ac5b-a1c68b1ca41c",
+    "name": "Alcove",
+    "url": "https://tryalcove.com",
+    "logo": "",
+    "about": "Dynamic Island-style HUD for Mac",
+    "description": "Alcove puts a Dynamic Island-like notch HUD on the Mac for notifications, live activities, and gestures. Search dynamic island mac or mac notch hud.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "2e9b8992-0b4e-414d-aea0-ad8206e90bb5",
+    "name": "Outpost",
+    "url": "https://parachuteapps.com/outpost.html",
+    "logo": "",
+    "about": "Hotkey launcher for dropping files onto apps, folders, and actions",
+    "description": "Outpost summons a palette at the cursor so you can drag files onto pinned apps, folders, or shortcuts without hunting Finder windows. Search mac file launcher or drag-and-drop shelf.",
+    "category": "software",
+    "tags": [
+      "file-manager",
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "093c1a03-aa1d-447d-91dc-2788dd19bb9d",
+    "name": "Dockside",
+    "url": "https://hachipoo.com/dockside-app",
+    "logo": "",
+    "about": "File shelf that sits beside the Mac Dock",
+    "description": "Dockside is a staging shelf next to the Dock for recent downloads, screenshots, and drag-and-drop files. Search mac dock shelf or file staging mac.",
+    "category": "software",
+    "tags": [
+      "file-manager",
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "82df69c7-8c1c-4d98-b8fb-9eaebee3d115",
+    "name": "Pipiri",
+    "url": "https://lowtechguys.com/pipiri/",
+    "logo": "",
+    "about": "Picture-in-picture for any macOS window, not just video",
+    "description": "Pipiri turns any window or region into an always-on-top PiP panel across Spaces, aimed at terminals, agent UIs, dashboards, and videos without native PiP. Official site is lowtechguys.com/pipiri.",
+    "category": "software",
+    "tags": [
+      "picture-in-picture",
+      "window-management",
+      "productivity",
+      "cli"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "paid",
+    "open_source": false
+  },
+  {
+    "id": "406c19cf-48e5-45cb-a33b-603821ccf9a6",
+    "name": "Wisp",
+    "url": "https://github.com/sulemaanhamza/wisp",
+    "logo": "https://github.com/sulemaanhamza.png",
+    "about": "Menu-bar scratchpad for Mac, summon with a hotkey",
+    "description": "Wisp is a dead-simple Mac scratchpad in the menu bar (Option-Space by default) that stores plain markdown and can sync via iCloud or any folder. Search mac scratchpad or menu bar notes; brew install --cask wisp.",
+    "category": "software",
+    "tags": [
+      "note-taking",
+      "writing",
+      "open-source",
+      "offline-capable",
+      "productivity"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "7706a6e9-ec44-4752-b588-f504ff532c99",
+    "name": "Memhogs",
+    "url": "https://github.com/cicerothoma/memhogs",
+    "logo": "https://github.com/cicerothoma.png",
+    "about": "CLI that rolls helper processes up so you see which app owns RAM",
+    "description": "Memhogs is a zero-dependency Go CLI for macOS and Linux that attributes memory to the app that owns helper and child processes. Search which app is using memory or memory hogs cli; NeoHtop is the GUI process monitor.",
+    "category": "software",
+    "tags": [
+      "process-monitor",
+      "cli",
+      "open-source",
+      "system-admin"
+    ],
+    "platform": [
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "f709eb22-e3d3-4cdd-ae33-92d6e24f3c5b",
+    "name": "OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "logo": "https://github.com/diegosouzapw.png",
+    "about": "Free MIT gateway to hundreds of LLM providers, including free tiers",
+    "description": "OmniRoute is a single endpoint over 300+ providers and 1000+ models, with a large free-model pool, aimed at Claude Code, Cline, Codex, and Cursor. Search free claude code models or multi-provider llm gateway; LiteLLM remains the general proxy already listed.",
+    "category": "software",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "open-source",
+      "developer",
+      "dev-tools",
+      "cli"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "7f64d632-5ec9-4653-9e4f-9fcc4a42e14d",
+    "name": "Claudex-Loop",
+    "url": "https://github.com/chaseai-yt/claudex-loop",
+    "logo": "https://github.com/chaseai-yt.png",
+    "about": "Claude Code skill that hardens a plan with Codex as adversary",
+    "description": "Claudex-Loop is a Claude Code skill for four-phase plan hardening: recon, interrogation, Codex adversarial review, then a split where the model that built the work does not grade it. Search claude codex review loop or adversarial plan skill.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "coding-assistant",
+      "developer",
+      "open-source",
+      "anthropic"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "5afafe59-a5b2-4af4-a990-b5646dbb70f2",
+    "name": "MiniMind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "logo": "https://github.com/jingyaogong.png",
+    "about": "Train a tiny LLM from scratch in about two hours",
+    "description": "MiniMind is a teaching codebase for training a ~64M-parameter language model from scratch on a single machine. Search train llm from scratch or small llm tutorial.",
+    "category": "software",
+    "tags": [
+      "education",
+      "ai-powered",
+      "open-source",
+      "developer",
+      "student",
+      "research"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "3f20f1ed-9237-433c-bcaa-6f45e01ab068",
+    "name": "TimesFM",
+    "url": "https://github.com/google-research/timesfm",
+    "logo": "https://github.com/google-research.png",
+    "about": "Google's pretrained time-series foundation model for forecasting",
+    "description": "TimesFM is a time-series foundation model from Google Research for zero-shot and fine-tuned forecasting. Search time series forecasting model or timesfm.",
+    "category": "software",
+    "tags": [
+      "library",
+      "time-series",
+      "research",
+      "google",
+      "academic",
+      "open-source",
+      "ai-powered"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "bc692a78-41a1-489d-b868-98f92ae9f867",
+    "name": "ModelDeck",
+    "url": "https://github.com/timharris707/modeldeck",
+    "logo": "https://github.com/timharris707.png",
+    "about": "Mac menu bar meters for Claude Code and Codex rate limits",
+    "description": "ModelDeck shows percent-left and reset countdowns for Claude Code and Codex CLI accounts in the menu bar. Search claude code usage or codex rate limit meter; CC-Switch is the provider-switcher already listed.",
+    "category": "software",
+    "tags": [
+      "coding-assistant",
+      "productivity",
+      "open-source",
+      "developer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "701da1a4-ce9c-4f19-9d78-ecce6fb5e22b",
+    "name": "Hindsight",
+    "url": "https://github.com/EfficientStreet/hindsight",
+    "logo": "https://github.com/EfficientStreet.png",
+    "about": "Agent skill that saves durable process lessons from a session",
+    "description": "Hindsight reviews a coding-agent session and writes only reusable process lessons into persistent memory, skipping one-off trivia. Search agent session memory skill or coding assistant retrospect.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "coding-assistant",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "1ddbbb86-feff-4901-8845-2351bb47a481",
+    "name": "rta-smriti-brain",
+    "url": "https://github.com/sulabhdubey/rta-smriti-brain",
+    "logo": "https://github.com/sulabhdubey.png",
+    "about": "Local-first project memory for AI coding agents",
+    "description": "rta-smriti-brain is a local, evidence-aware memory layer so coding agents can recall project facts without a hosted brain service. Search coding agent memory or local agent knowledge graph.",
+    "category": "software",
+    "tags": [
+      "coding-assistant",
+      "database",
+      "open-source",
+      "developer",
+      "ai-powered",
+      "offline-capable"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "fa935354-04b7-4327-9550-d174dba5103e",
+    "name": "youtube-subscriptions-ingest",
+    "url": "https://github.com/EfficientStreet/youtube-subscriptions-ingest",
+    "logo": "https://github.com/EfficientStreet.png",
+    "about": "Pulls YouTube subscriptions into a cross-linked knowledge graph",
+    "description": "This ingest pipeline turns YouTube subscription metadata into a linked graph for a second-brain vault. Search youtube subscriptions obsidian, knowledge graph, or second brain youtube.",
+    "category": "software",
+    "tags": [
+      "cli",
+      "open-source",
+      "research",
+      "note-taking"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "653a70cf-444f-46fe-ac1a-00ee413df6a6",
+    "name": "reimagine-it",
+    "url": "https://github.com/Kayforkind/reimagine-it",
+    "logo": "https://github.com/Kayforkind.png",
+    "about": "Restyles existing HTML from the content already in the file",
+    "description": "reimagine-it is a CLI and agent skill that takes HTML in and emits a stronger standalone page using nouns, dates, and colors already in the document, offline, no extra design system. Search restyle html or content-derived design.",
+    "category": "skill",
+    "tags": [
+      "agent-skill",
+      "cli",
+      "design",
+      "website-builder",
+      "open-source",
+      "developer"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "aca7ceb4-3a60-43f1-bda8-7f3a7e8c5b41",
+    "name": "Radiant",
+    "url": "https://github.com/templetongroup/radiant",
+    "logo": "https://github.com/templetongroup.png",
+    "about": "Local Mac UI for chatting with coding agents and watching tool calls",
+    "description": "Radiant is a Mac coding harness with chat across cloud and local models and a live activity feed of tool calls. Search mac coding agent ui or local harness; Orca and DeepSeek Harness cover other shapes of the same job.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "coding-assistant",
+      "developer",
+      "open-source",
+      "dev-tools"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
   }
 ]

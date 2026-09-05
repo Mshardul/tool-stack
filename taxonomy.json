@@ -162,6 +162,26 @@
     "marketplace",
     "mcp",
     "library",
-    "prompt-library"
+    "prompt-library",
+
+    "package-manager",
+    "window-management",
+    "clipboard",
+    "terminal",
+    "screen-recording",
+    "form-builder",
+    "file-manager",
+    "file-automation",
+    "process-monitor",
+    "system-cleaner",
+    "loom-alternative",
+    "typeform-alternative",
+    "grammarly-alternative",
+    "chatgpt-alternative",
+
+    "openai",
+    "time-series",
+    "picture-in-picture",
+    "accessibility"
   ]
 }
