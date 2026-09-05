@@ -6,7 +6,7 @@ Extensive search corpus, not a short "best of" list. Structured JSON for a futur
 
 - `RULES.md` — this file.
 - `taxonomy.json` — controlled vocabulary: categories, tags, pricing values, platform values.
-- `tools.json` — the actual entries. One file. Do not split by OS or form factor; `platform` and tags do that.
+- One `tools.json`. Keep entries sorted by name (`python3 scripts/sort_tools.py`). Do not split by OS or form factor; `platform` and tags do that.
 
 ## Inclusion
 
@@ -50,7 +50,7 @@ Add a tool if someone could search a keyword and reasonably want it in the resul
 - **id**: UUID v4, generated per entry, never reused.
 - **name**: official product name, as branded (e.g. "WolframAlpha" not "Wolfram Alpha"). "ChatGPT" not "ChatGPT Plus".
 - **url**: canonical homepage URL, `https://`, no tracking or affiliate params.
-- **logo**: external hotlink for now (no local hosting yet — revisit when FE app built).
+- **logo**: optional `https://` hotlink. Empty string is allowed — the UI should show a fallback (initials or a placeholder glyph), not a broken image. No local logo hosting yet.
 - **about**: one line. No period at end unless multi-clause. Punchy, not marketing copy.
 - **description**: one paragraph (2–4 sentences). What it does, who it's for, standout trait. Write it so a keyword search could match.
 - **category**: single value, not array. Must exist in `taxonomy.json`. `website` = you visit it. `software` = you install/run it (desktop, mobile, extension, Homebrew, CLI). `ai-tool` = the product *is* an AI app (Cursor, Perplexity, ChatGPT). `skill` = an installable agent skill, skill pack, or prompt pack that runs *inside* an AI app.
@@ -84,6 +84,6 @@ Tag each entry across as many applicable layers as make sense — not just one:
 ## Non-Goals (for now)
 
 - No `added_date` field.
-- No local logo hosting.
+- No local logo hosting. Empty `logo` is fine; the UI supplies a default.
 - No CSV — JSON only (tags/platform need arrays, future fields may nest).
 - No per-platform data files.
