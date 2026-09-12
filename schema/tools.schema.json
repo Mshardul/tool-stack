@@ -214,7 +214,11 @@
             "openai",
             "time-series",
             "picture-in-picture",
-            "accessibility"
+            "accessibility",
+            "wallpaper",
+            "volume-control",
+            "app-launcher",
+            "quick-look"
           ]
         }
       },

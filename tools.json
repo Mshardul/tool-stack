@@ -703,6 +703,30 @@
     "open_source": true
   },
   {
+    "id": "eb758b59-21dc-4d0c-9807-ea378d6e09a5",
+    "name": "Blip",
+    "url": "https://blip.net",
+    "logo": "",
+    "about": "Direct multi-gigabit file transfer between devices without cloud storage or size limits",
+    "description": "Blip sends files and multi-gigabyte folders directly between Mac, Windows, iOS, and Android devices without uploading them to cloud storage or compressing them into archives. It streams transfers in real time, automatically resumes interrupted connections, and encrypts traffic in transit.",
+    "category": "software",
+    "tags": [
+      "file-transfer",
+      "airdrop-alternative",
+      "peer-to-peer",
+      "cross-platform",
+      "productivity"
+    ],
+    "platform": [
+      "mac",
+      "windows",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
     "id": "438f6a22-1cf5-4408-9b59-cac87790504b",
     "name": "blobatar",
     "url": "https://github.com/Alain00/blobatar",
@@ -783,6 +807,26 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "id": "d0cb5dc1-2126-4fa9-a544-d43c81c5ca0c",
+    "name": "Cadran",
+    "url": "https://cadranapp.com",
+    "logo": "",
+    "about": "Customizable clock faces rendered on the macOS desktop wallpaper layer",
+    "description": "Cadran renders analog, digital, and data-driven clock faces directly onto the macOS wallpaper layer behind desktop icons rather than in floating widgets or windows. It includes live weather complications, dynamic sky backgrounds that shift with sunrise and sunset, multi-display support, and native screensaver mode.",
+    "category": "software",
+    "tags": [
+      "wallpaper",
+      "productivity",
+      "general-consumer",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "freemium",
+    "open_source": false
   },
   {
     "id": "0c2dda80-a00e-4e30-a08e-a039f892fbff",
@@ -1763,6 +1807,26 @@
     "open_source": true
   },
   {
+    "id": "9aa32ae3-c9cf-40e5-8f24-0c2570bebdf6",
+    "name": "FineTune",
+    "url": "https://github.com/ronitsingh10/FineTune",
+    "logo": "https://github.com/ronitsingh10.png",
+    "about": "Open-source macOS menu bar app for per-app volume control and audio routing",
+    "description": "FineTune provides independent per-application volume sliders, volume boosting up to 4x, multi-device audio routing, and a 10-band equalizer directly from the macOS menu bar. It serves as a free, open-source alternative to SoundSource for users wanting granular control over individual app audio streams.",
+    "category": "software",
+    "tags": [
+      "volume-control",
+      "productivity",
+      "open-source",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
     "id": "49a71bee-8d84-4d36-880d-b779f698be69",
     "name": "FlightRadar24",
     "url": "https://flightradar24.com",
@@ -1824,6 +1888,26 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "id": "ef68a949-daec-4a34-acec-838318e44688",
+    "name": "Folder Scope",
+    "url": "https://craftisanlabs.com/apps/folderscope",
+    "logo": "",
+    "about": "Quick Look extension to preview folder hierarchies and compressed archives in Finder",
+    "description": "Folder Scope integrates with macOS Quick Look to display the contents of folders and compressed archives like ZIP, RAR, 7Z, and TAR right inside Finder using the spacebar. It eliminates the need to extract archives or open new windows just to inspect directory trees and file listings.",
+    "category": "software",
+    "tags": [
+      "file-manager",
+      "quick-look",
+      "productivity",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": false
   },
   {
     "id": "dce8f6be-9455-484d-bb3c-72380129f4be",
@@ -2655,6 +2739,31 @@
     "open_source": false
   },
   {
+    "id": "8214ac85-7b3a-41ad-ad3b-e09ad804b868",
+    "name": "Keyviz",
+    "url": "https://keyviz.org",
+    "logo": "",
+    "about": "Real-time keystroke and mouse action visualizer for presentations and screencasts",
+    "description": "Keyviz visualizes keyboard shortcuts and mouse clicks on-screen in real time, making it easy for viewers to follow along during presentations, tutorials, and screen recordings. It features customizable keycap styles, animations, mouse indicators, and hotkey filtering to show only relevant combinations.",
+    "category": "software",
+    "tags": [
+      "screen-recording",
+      "productivity",
+      "open-source",
+      "cross-platform",
+      "offline-capable",
+      "developer",
+      "designer"
+    ],
+    "platform": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
     "id": "cbddbd8e-d48c-4198-b469-d0e4fac2a798",
     "name": "Khoj",
     "url": "https://github.com/khoj-ai/khoj",
@@ -2764,6 +2873,27 @@
     ],
     "pricing": "freemium",
     "open_source": true
+  },
+  {
+    "id": "4b9e2edd-3a21-423b-a637-a87e52adec5a",
+    "name": "Launchy",
+    "url": "https://apps.apple.com/app/launchy-app-launcher-switcher/id6739782043",
+    "logo": "",
+    "about": "Radial app launcher and window switcher for macOS",
+    "description": "Launchy displays a radial menu around the mouse cursor or screen center for quick launching and switching between apps, files, and folders. It replaces Command-Tab cycling and Dock hunting with customizable circular palettes, keyboard navigation, and iCloud sync.",
+    "category": "software",
+    "tags": [
+      "app-launcher",
+      "window-management",
+      "productivity",
+      "offline-capable",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "freemium",
+    "open_source": false
   },
   {
     "id": "2a5d1de1-e92c-451b-92f7-dcbc1e2de768",
@@ -4325,7 +4455,8 @@
       "entertainment",
       "productivity",
       "open-source",
-      "offline-capable"
+      "offline-capable",
+      "wallpaper"
     ],
     "platform": [
       "mac"
@@ -4414,6 +4545,27 @@
     ],
     "pricing": "freemium",
     "open_source": false
+  },
+  {
+    "id": "906c9170-7a8d-4df4-affe-12621c7efa4d",
+    "name": "Purge",
+    "url": "https://github.com/jithin-sabu/purge-app",
+    "logo": "https://github.com/jithin-sabu.png",
+    "about": "Open-source Mac cache and junk cleaner that moves files to Trash",
+    "description": "Purge scans and cleans macOS system caches, developer build artifacts, and application junk using an open-source allowlist. It runs from the menu bar and defaults to moving deleted items to the Trash rather than permanently deleting them, ensuring nothing is lost by accident.",
+    "category": "software",
+    "tags": [
+      "system-cleaner",
+      "productivity",
+      "open-source",
+      "system-admin",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
   },
   {
     "id": "c9f6f972-2574-48ef-984f-242448a19ac9",
@@ -5495,6 +5647,26 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "id": "68305daf-8e74-4aec-bf1c-31c5323fc897",
+    "name": "TopShelf",
+    "url": "https://topshelf.apoiolabs.com",
+    "logo": "",
+    "about": "Float websites and mini-apps as always-on-top windows from the Mac menu bar",
+    "description": "TopShelf pins any website, web app, or built-in utility (such as notes, calculator, or pomodoro) into a lightweight always-on-top window that stays visible across full-screen spaces. It lets users keep reference docs, AI chats, and quick tools accessible without window juggling.",
+    "category": "software",
+    "tags": [
+      "picture-in-picture",
+      "productivity",
+      "offline-capable",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "freemium",
+    "open_source": false
   },
   {
     "id": "0e887d98-2942-4402-8220-c0332c304f98",
