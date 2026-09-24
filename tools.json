@@ -5961,6 +5961,27 @@
     "open_source": true
   },
   {
+    "id": "9bcfa7ec-ff00-4379-85ff-ca77560a3829",
+    "name": "YYLO Skills",
+    "url": "https://github.com/yylo-dev/yylo-skills",
+    "logo": "",
+    "about": "Agent skill pack adding Kanban boards, task planning, ledgers, and merge orchestration to coding agents",
+    "description": "YYLO Skills is an open-source pack of seven workflow skills for Claude Code, Codex, and Pi that add Kanban task boards, product-development planning, workflow and artifact ledgers, and merge orchestration to coding agents. Each skill installs by name with npx skills add yylo-dev/yylo-skills, and the pack is maintained by YYLO as the canonical source used by YYLO CLI and YYLO Ledger.",
+    "category": "skill",
+    "tags": [
+      "skill-pack",
+      "coding-assistant",
+      "project-management",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
     "id": "70b25679-bb96-41b1-81ee-edd54e205012",
     "name": "Zapier",
     "url": "https://zapier.com",
