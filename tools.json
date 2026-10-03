@@ -41,6 +41,27 @@
     "open_source": false
   },
   {
+    "id": "ad30a837-bb1a-4dcf-b86f-48f436973e3b",
+    "name": "Abacus.AI",
+    "url": "https://abacus.ai",
+    "logo": "https://abacus.ai/favicon.ico",
+    "about": "Team AI workspace with many models, agents, and app building in one subscription",
+    "description": "Abacus.AI is a ChatLLM workspace that puts a large set of language, image, and video models behind one team subscription, plus agents that can build apps, slides, and always-on bots. It is the search for a single AI seat that covers chat and light software creation, rather than a separate account for each model.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "chatgpt-alternative",
+      "coding-assistant",
+      "productivity",
+      "developer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
     "id": "e1637d33-1cf1-4fb3-a7b8-5eef362e6af1",
     "name": "Activepieces",
     "url": "https://github.com/activepieces/activepieces",
@@ -133,6 +154,26 @@
     ],
     "pricing": "freemium",
     "open_source": true
+  },
+  {
+    "name": "AIApply",
+    "url": "https://aiapply.co",
+    "logo": "https://aiapply.co/favicon.ico",
+    "about": "Writes job applications and submits them for you",
+    "description": "AIApply searches live job listings and submits applications on your behalf, alongside resume and cover-letter help. It is a job-search agent for people who want the applying step handled, rather than a board you browse yourself.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "productivity",
+      "writing",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false,
+    "id": "a0fe0685-8f7e-45b5-bc80-aec84a50acce"
   },
   {
     "id": "7f0f6fcd-c3e9-4cf9-9102-741f2956b2a0",
@@ -703,6 +744,27 @@
     "open_source": true
   },
   {
+    "name": "Blink",
+    "url": "https://blink.new",
+    "logo": "https://blink.new/favicon.ico",
+    "about": "Prompt-to-app builder that ships a hosted app, site, or extension",
+    "description": "Blink builds websites, full-stack apps, mobile apps, and Chrome extensions from a description, including the database, logins, and hosting on your domain. It is its own builder, separate from Lovable and Rork.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "website-builder",
+      "no-code",
+      "coding-assistant",
+      "developer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false,
+    "id": "0b782241-1bef-48d8-8d7f-05cec012fa8c"
+  },
+  {
     "id": "eb758b59-21dc-4d0c-9807-ea378d6e09a5",
     "name": "Blip",
     "url": "https://blip.net",
@@ -744,6 +806,28 @@
     ],
     "platform": [
       "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "3226fd18-0df0-4d4c-a68d-70be73e23cf4",
+    "name": "Boring Notch",
+    "url": "https://theboring.name",
+    "logo": "",
+    "about": "Turns the MacBook notch into media controls, a calendar, and a file shelf",
+    "description": "Boring Notch is an open-source Mac app that expands the menu-bar notch into music controls, a visualizer, calendar and reminders, a HUD replacement, and a drag-and-drop file shelf. It is the Dynamic Island-style utility for a MacBook, installed from the site or a Homebrew cask.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "entertainment",
+      "music",
+      "open-source",
+      "offline-capable",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
     ],
     "pricing": "free",
     "open_source": true
@@ -917,6 +1001,49 @@
       "linux"
     ],
     "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "c5637ae2-7923-4314-9d30-c5b5598952d4",
+    "name": "Capalyze",
+    "url": "https://capalyze.ai",
+    "logo": "https://capalyze.ai/favicon.ico",
+    "about": "Scrape a page into a spreadsheet, then ask questions and chart the result",
+    "description": "Capalyze pulls live data from websites into a spreadsheet, then answers questions about it with tables and charts you can slice and export. It is built by the author of the Univer spreadsheet engine, for people who want scrape, ask, and visualize in one place rather than a general workflow tool.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "data-visualization",
+      "analytics",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "7d4f97c4-d5c1-4d8f-8657-08f4999d9a7f",
+    "name": "Capd",
+    "url": "https://capd.jxd.dev",
+    "logo": "",
+    "about": "Private Mac library for pages, clips, and images, with search, a CLI, and MCP",
+    "description": "Capd is an open-source Mac app for saving web pages, selected text, links, notes, and images, then finding them again with full-text search. A CLI and a read-only MCP server expose the same local library to scripts and AI assistants. It is a capture tool; Cap, already in this catalogue, is a screen recorder.",
+    "category": "software",
+    "tags": [
+      "note-taking",
+      "productivity",
+      "mcp",
+      "cli",
+      "developer",
+      "open-source",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
     "open_source": true
   },
   {
@@ -1122,6 +1249,26 @@
     "open_source": false
   },
   {
+    "id": "8b323c79-841c-429c-aa36-66d50f70572c",
+    "name": "Clicker",
+    "url": "https://github.com/ribren/clicker",
+    "logo": "",
+    "about": "Menu-bar remote for Apple TV, with a Siri Remote layout and now playing",
+    "description": "Clicker is a small open-source Mac menu-bar app that drives an Apple TV: a Siri Remote layout, a searchable app launcher, and a now-playing card. It is for when the physical remote is missing and you want the TV controls on the Mac.",
+    "category": "software",
+    "tags": [
+      "entertainment",
+      "app-launcher",
+      "productivity",
+      "open-source"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
     "id": "89c1bc2b-fad3-4e12-af8a-f01e30752708",
     "name": "ClickUp",
     "url": "https://clickup.com",
@@ -1167,6 +1314,26 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "name": "CodeDesign.ai",
+    "url": "https://codedesign.ai",
+    "logo": "https://codedesign.ai/favicon.ico",
+    "about": "AI website builder that hosts the site and can export it",
+    "description": "CodeDesign.ai generates a website from a prompt, hosts it, and lets you export the result. It is aimed at founders who need a live site before a full product exists. Lovable covers prompt-to-app. CodeDesign stays on the website.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "website-builder",
+      "no-code",
+      "designer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false,
+    "id": "82a498b1-6e65-4637-90b1-813cdc0393af"
   },
   {
     "id": "8903f6e0-5a94-41d6-96bd-daf5a982a703",
@@ -1283,6 +1450,26 @@
     ],
     "pricing": "freemium",
     "open_source": true
+  },
+  {
+    "name": "CoreEQ",
+    "url": "https://github.com/AndreyPudov/core-eq",
+    "logo": "",
+    "about": "System-wide equalizer for Mac, with no audio driver installed",
+    "description": "CoreEQ shapes everything you hear on a Mac \u2014 music, video, calls, and games \u2014 through Apple's Core Audio process tap, so it installs no virtual driver and no kernel extension. It combines an eleven-band graphic EQ with parametric filters, per-device presets, and a menu-bar control. It is Apache-licensed. FineTune, already listed, is the per-app volume and routing app.",
+    "category": "software",
+    "tags": [
+      "audio-editing",
+      "productivity",
+      "open-source",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": true,
+    "id": "38afcb5f-05b8-496a-8167-d8110f772a3b"
   },
   {
     "id": "98775e68-4b41-410e-9fe7-75d2a8cf91df",
@@ -1827,6 +2014,25 @@
     "open_source": true
   },
   {
+    "id": "6e0be64b-00c6-4c39-b821-1ee2561cad88",
+    "name": "Finlens",
+    "url": "https://www.finlens.app",
+    "logo": "https://www.finlens.app/favicon.ico",
+    "about": "AI accounting for founders, with live runway, burn, and categorized transactions",
+    "description": "Finlens is an accounting copilot for startup founders and small finance teams. It tracks runway, burn, and cash flow, categorizes transactions, and keeps reports current, including on top of books you already keep. A free starter plan covers a single user and one bank account, with paid plans above that.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "finance",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
     "id": "49a71bee-8d84-4d36-880d-b779f698be69",
     "name": "FlightRadar24",
     "url": "https://flightradar24.com",
@@ -1991,6 +2197,25 @@
       "web"
     ],
     "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "81aa8213-9614-4f85-ae1f-650c1dc6d78a",
+    "name": "Fyxer",
+    "url": "https://www.fyxer.com",
+    "logo": "https://www.fyxer.com/favicon.ico",
+    "about": "AI inbox assistant that drafts replies and organizes email",
+    "description": "Fyxer connects to your inbox, drafts replies in your voice, and sorts mail so the messages that need you surface first. It is an email assistant for people who live in Gmail or Outlook, not a general chatbot.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
     "open_source": false
   },
   {
@@ -2214,6 +2439,49 @@
     "open_source": true
   },
   {
+    "id": "656a03cd-da88-4a9e-892d-2e51803f9c28",
+    "name": "Granola",
+    "url": "https://www.granola.ai",
+    "logo": "https://www.granola.ai/favicon.ico",
+    "about": "AI meeting notes that stay on your computer instead of joining the call as a bot",
+    "description": "Granola takes notes during meetings on Mac, Windows, and iOS without a bot joining the call. It transcribes, summarizes, and lets you chat across past meetings, with a free plan that keeps a limited history. Otter is the bot-in-the-call alternative already in this catalogue.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "transcription",
+      "note-taking",
+      "productivity"
+    ],
+    "platform": [
+      "mac",
+      "windows",
+      "ios"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "8d1bad56-57e9-4460-941b-937ba74f4941",
+    "name": "Gumloop",
+    "url": "https://www.gumloop.com",
+    "logo": "https://www.gumloop.com/favicon.ico",
+    "about": "No-code canvas for AI workflows aimed at non-developers",
+    "description": "Gumloop lets you build AI workflows on a visual canvas: pull data, run model steps, and send results to the tools a team already uses. A free plan covers a small credit allowance. n8n, already listed, is the engineering workflow engine for the same broad job.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "workflow-automation",
+      "no-code",
+      "productivity",
+      "zapier-alternative"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
     "id": "71122d79-7bb3-421c-8023-76a7ce09a2c5",
     "name": "Halcyon Video",
     "url": "https://github.com/halcyon-video/halcyon",
@@ -2235,6 +2503,25 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "name": "HAPPPY",
+    "url": "https://happpyagent.ai",
+    "logo": "",
+    "about": "Asks employees at a target company for a job referral",
+    "description": "HAPPPY is an AI referral agent for job seekers. You point it at a role, and it finds people inside that company, writes the outreach, and follows up until someone replies. The agent is free until the first positive response, with paid plans after that.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "productivity",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false,
+    "id": "ceb74ffa-6edc-4ce3-9eb4-1cbe9b533473"
   },
   {
     "id": "a8a32628-2c64-440f-993a-6e4a6588ba5b",
@@ -2348,6 +2635,44 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "name": "Hexomatic",
+    "url": "https://hexomatic.com",
+    "logo": "https://hexomatic.com/favicon.ico",
+    "about": "No-code web scraping and workflow automation for research and sales tasks",
+    "description": "Hexomatic scrapes pages and runs ready-made automations for sales, marketing, and research, so a list of sites can become a spreadsheet without a custom script. You use it in the browser. n8n, already listed, is the self-hosted workflow engine. Capalyze is the scrape-then-ask spreadsheet.",
+    "category": "website",
+    "tags": [
+      "workflow-automation",
+      "no-code",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false,
+    "id": "afcfeb0d-49bb-45ae-94bc-8dac3b60b8ed"
+  },
+  {
+    "id": "0e84d168-c184-4dfb-b169-2bfb8cf306a5",
+    "name": "HeyGen",
+    "url": "https://www.heygen.com",
+    "logo": "https://www.heygen.com/favicon.ico",
+    "about": "AI talking-avatar videos from a script, a photo, or a recording of you",
+    "description": "HeyGen turns a script into a video of a presenter: stock avatars, a clone of your face and voice, or translation that keeps the speaker on screen. It is the tool for spokesperson and training videos. Runway, already listed, is the generative film and editing suite.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "video-ai",
+      "video-generation"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
   },
   {
     "id": "701da1a4-ce9c-4f19-9d78-ecce6fb5e22b",
@@ -2544,6 +2869,28 @@
     "open_source": true
   },
   {
+    "name": "iMini",
+    "url": "https://imini.com",
+    "logo": "",
+    "about": "AI workspace for images, video, design, and a creative agent",
+    "description": "iMini is a browser workspace for generating images and video, laying them out on a canvas, and driving the work through a creative agent. One membership reaches a set of commercial models instead of a separate subscription for each. Midjourney and Runway, already listed, are the single-purpose studios.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "image-generation",
+      "video-generation",
+      "video-ai",
+      "designer",
+      "graphic-design"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false,
+    "id": "3cded715-5edb-47f3-9e96-243073094adf"
+  },
+  {
     "id": "34f0135c-4d8b-42ac-859e-5ea3ee0be98e",
     "name": "Immich",
     "url": "https://github.com/immich-app/immich",
@@ -2715,6 +3062,25 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "id": "a0a957de-acb6-4a2c-a273-f8167d9f1eb2",
+    "name": "Jev",
+    "url": "https://typesafe.ai",
+    "logo": "https://typesafe.ai/favicon.ico",
+    "about": "Hosted model that returns a typed yes/no or multiple-choice decision, not prose",
+    "description": "Jev is TypeSafe's hosted System One model. You send a state and a typed question \u2014 a choice, a score, or a yes/no \u2014 and it returns a decision with a probability, fast and cheap, for routing and automation inside software. It does not write text. Laya is the open-weight model for the same kind of decision.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "developer",
+      "dev-tools"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "paid",
+    "open_source": false
   },
   {
     "id": "f99d6a36-f9e4-4b0d-97fc-62ded968359e",
@@ -2896,6 +3262,30 @@
     "open_source": false
   },
   {
+    "id": "aab23cf7-9c1d-43b2-89ed-279792502513",
+    "name": "Laya",
+    "url": "https://www.layaaimodel.com",
+    "logo": "",
+    "about": "Open-weight model for fast typed decisions you can run locally",
+    "description": "Laya is an Apache-licensed decision model from Convai Innovations. Give it text or JSON and a set of labeled options and it returns a choice with a probability in one pass, without generating prose. Run the weights yourself at no license cost, or call the prepaid hosted API. Jev is the closed API for the same job.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "developer",
+      "dev-tools",
+      "library",
+      "open-source"
+    ],
+    "platform": [
+      "web",
+      "mac",
+      "windows",
+      "linux"
+    ],
+    "pricing": "freemium",
+    "open_source": true
+  },
+  {
     "id": "2a5d1de1-e92c-451b-92f7-dcbc1e2de768",
     "name": "Library Genesis (LibGen)",
     "url": "https://libgen.is",
@@ -3052,6 +3442,27 @@
     "open_source": true
   },
   {
+    "id": "12035756-57a5-4e6d-983b-350e8d6bef17",
+    "name": "Lovable",
+    "url": "https://lovable.dev",
+    "logo": "https://lovable.dev/favicon.ico",
+    "about": "Prompt-to-web-app builder that ships a running site with backend and hosting",
+    "description": "Lovable turns a plain-language description into a working web app, including UI, data, and a deployed URL you can iterate on in chat. It is the tool people mean by an AI app builder for the web. Rork, also added here, is the one aimed at shipping mobile apps to the stores.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "website-builder",
+      "no-code",
+      "coding-assistant",
+      "developer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
     "id": "1c2ab18c-2096-4888-bed6-e2cc5ac61527",
     "name": "Lumina",
     "url": "https://github.com/Bino5150/lumina",
@@ -3070,6 +3481,28 @@
       "windows",
       "mac",
       "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "c535d426-f013-4d38-8593-22fe8ab9352a",
+    "name": "M3E Canvas",
+    "url": "https://lnkiai.github.io/m3e-canvas",
+    "logo": "",
+    "about": "Sketch Material 3 screens in the browser and export them as a coding prompt",
+    "description": "M3E Canvas is a free, open-source browser editor for Material 3 Expressive layouts. You place buttons, bars, lists, and fields, link screens, preview the taps, and copy a natural-language prompt for an AI coding tool. The design is a JSON file you can also hand to an agent.",
+    "category": "website",
+    "tags": [
+      "design",
+      "designer",
+      "drawing",
+      "open-source",
+      "browser-only",
+      "no-signup"
+    ],
+    "platform": [
+      "web"
     ],
     "pricing": "free",
     "open_source": true
@@ -3160,6 +3593,27 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "name": "MeDo",
+    "url": "https://medo.dev",
+    "logo": "",
+    "about": "No-code AI platform for building full-stack apps from a prompt",
+    "description": "MeDo is a no-code platform that turns a description into a full-stack app. You build in the browser and hand the result off with a prompt guide the product publishes for coding agents. It is a separate builder from Lovable, Blink, and YouWare.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "website-builder",
+      "no-code",
+      "coding-assistant",
+      "developer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false,
+    "id": "a2b7d1a1-ea1c-4e6d-a567-2ce9ec3098e0"
   },
   {
     "id": "7706a6e9-ec44-4752-b588-f504ff532c99",
@@ -3291,6 +3745,51 @@
     "open_source": true
   },
   {
+    "id": "f61b0ee4-7fb2-42f9-ab2b-16e414aa203d",
+    "name": "Miro",
+    "url": "https://miro.com",
+    "logo": "https://miro.com/favicon.ico",
+    "about": "Collaborative online whiteboard for workshops, diagrams, and planning",
+    "description": "Miro is the team whiteboard: infinite canvas, sticky notes, diagrams, workshops, and comments, in the browser and in desktop and mobile apps. Excalidraw, already listed, is the hand-drawn sketch board. Miro is what a search for a shared team whiteboard should return.",
+    "category": "website",
+    "tags": [
+      "whiteboard",
+      "diagramming",
+      "design",
+      "project-management",
+      "productivity",
+      "designer"
+    ],
+    "platform": [
+      "web",
+      "windows",
+      "mac",
+      "ios",
+      "android"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "3f24e985-6f10-4b59-9ec5-c193a249d096",
+    "name": "Mocku",
+    "url": "https://mocku.com",
+    "logo": "https://mocku.com/favicon.ico",
+    "about": "Device, book, apparel, and packaging mockups from your own artwork",
+    "description": "Mocku places a design onto device frames, books, magazines, clothing, and packaging so you can show a product without a photoshoot. It is a mockup generator for designers and founders who need a presentable image of an app, a cover, or a package.",
+    "category": "website",
+    "tags": [
+      "graphic-design",
+      "design",
+      "designer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
     "id": "bc692a78-41a1-489d-b868-98f92ae9f867",
     "name": "ModelDeck",
     "url": "https://github.com/timharris707/modeldeck",
@@ -3330,6 +3829,26 @@
       "mac"
     ],
     "pricing": "freemium",
+    "open_source": true
+  },
+  {
+    "id": "ede9aff0-b985-44eb-8d1c-10230e0c33a0",
+    "name": "Mojito",
+    "url": "https://mojito.wells.ee",
+    "logo": "",
+    "about": "Type :emoji: shortcodes in any Mac text field",
+    "description": "Mojito is an open-source Mac menu-bar app that expands emoji shortcodes as you type: :tada: becomes the party popper in any text field, with a fuzzy picker, symbols, and GIF search. Apps that already have their own emoji picker, such as Slack, can be excluded.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "general-consumer",
+      "open-source",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
     "open_source": true
   },
   {
@@ -3397,6 +3916,26 @@
     ],
     "pricing": "freemium",
     "open_source": false
+  },
+  {
+    "name": "Mozart AI",
+    "url": "https://mozartai.com",
+    "logo": "https://mozartai.com/favicon.ico",
+    "about": "Generate a song from a text prompt",
+    "description": "Mozart AI is a browser song generator and music maker. You describe what you want and it produces a track. Suno and Udio, already listed, are the other prompt-to-song tools people search by name.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "music",
+      "text-generation",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false,
+    "id": "4558b756-4c1c-4c6c-80c2-22fdff6c5d21"
   },
   {
     "id": "0deaad73-39cd-4ac5-9922-d2b921b71596",
@@ -3778,6 +4317,26 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "id": "424e52a7-1fb7-4955-8456-01136cc25f4a",
+    "name": "One Thing",
+    "url": "https://sindresorhus.com/one-thing",
+    "logo": "",
+    "about": "Puts a single task or sentence in the Mac menu bar",
+    "description": "One Thing, by Sindre Sorhus, shows one line of text in the Mac menu bar so the thing you are supposed to be doing stays visible. The line supports light Markdown, Shortcuts, and drag-and-drop from a todo app. It is free. Wick and Kofe Flow, already listed, are focus timers rather than a menu-bar sentence.",
+    "category": "software",
+    "tags": [
+      "focus",
+      "productivity",
+      "general-consumer",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": false
   },
   {
     "id": "1e0b0b4f-b633-4e84-9377-eb0cd901ca2d",
@@ -4240,6 +4799,29 @@
     "open_source": true
   },
   {
+    "id": "2484e7b4-c9cf-46de-aa48-ec81659cff6c",
+    "name": "Pake",
+    "url": "https://github.com/tw93/Pake",
+    "logo": "",
+    "about": "Turn any webpage into a small desktop app with one command",
+    "description": "Pake packages a URL as a lightweight native window on macOS, Windows, and Linux, using Rust and Tauri so the app is far smaller than an Electron shell. One CLI command sets the name, icon, and window size. It is the tool for keeping a site you live in, such as a docs page or a chat, as its own app.",
+    "category": "software",
+    "tags": [
+      "dev-tools",
+      "developer",
+      "cli",
+      "open-source",
+      "cross-platform"
+    ],
+    "platform": [
+      "mac",
+      "windows",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
     "id": "44612d06-0ef8-4c36-a60b-91872cce32a8",
     "name": "PCPartPicker",
     "url": "https://pcpartpicker.com",
@@ -4679,6 +5261,26 @@
     "open_source": true
   },
   {
+    "name": "QuPi",
+    "url": "https://github.com/KuDoZ007/QP",
+    "logo": "",
+    "about": "Mac menu-bar player for a Plex or Jellyfin library",
+    "description": "QuPi, also called QP or Quick Play, opens a Plex or Jellyfin library from the Mac menu bar. You can search the library, play music inline, watch video in a small floating window, and download titles for offline playback. It needs macOS 27 or later.",
+    "category": "software",
+    "tags": [
+      "entertainment",
+      "music",
+      "picture-in-picture",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": false,
+    "id": "0c177f13-302a-4eda-b6f4-e18ddafb94be"
+  },
+  {
     "id": "aca7ceb4-3a60-43f1-bda8-7f3a7e8c5b41",
     "name": "Radiant",
     "url": "https://github.com/templetongroup/radiant",
@@ -4830,6 +5432,28 @@
     "open_source": false
   },
   {
+    "id": "80ef3f3a-276c-4ac2-a428-f1284ab684dd",
+    "name": "roadmap.sh",
+    "url": "https://roadmap.sh",
+    "logo": "https://roadmap.sh/favicon.ico",
+    "about": "Interactive roadmaps for learning a developer role or a technology",
+    "description": "roadmap.sh is a free, open-source set of community roadmaps: frontend, backend, DevOps, and dozens of other paths, drawn as clickable maps of skills and topics. You can read them in the browser with no account. It is the site a search for a role roadmap should return.",
+    "category": "website",
+    "tags": [
+      "education",
+      "developer",
+      "student",
+      "browser-only",
+      "no-signup",
+      "open-source"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
     "id": "996f7ede-7b57-4b30-b261-c4c2fbddf694",
     "name": "RoomGPT",
     "url": "https://www.roomgpt.io",
@@ -4843,6 +5467,26 @@
       "design",
       "general-consumer",
       "no-signup"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "c684d4d4-1b39-40b0-9ea9-11bd9019d3d8",
+    "name": "Rork",
+    "url": "https://rork.com",
+    "logo": "https://rork.com/favicon.ico",
+    "about": "Prompt an iOS, Android, or web app and publish it to the stores",
+    "description": "Rork is an AI app builder aimed at mobile: describe the app, get a project you can ship to the App Store and Google Play, and iterate in chat. A small free credit allowance exists, with paid plans above it. Lovable covers the same prompt-to-app idea for the web.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "no-code",
+      "coding-assistant",
+      "developer"
     ],
     "platform": [
       "web"
@@ -4869,6 +5513,29 @@
     "platform": [
       "windows",
       "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
+    "id": "d74103eb-fa5e-4a0a-93dd-349a220fd5d3",
+    "name": "Runme",
+    "url": "https://runme.dev",
+    "logo": "https://runme.dev/favicon.ico",
+    "about": "Run a markdown file as an executable runbook from the editor or the terminal",
+    "description": "Runme turns markdown into a runnable runbook: code cells, commands, and notes in one document you execute from VS Code or the CLI. It is open source and aimed at developers who want setup steps and ops procedures to stay next to the prose that explains them.",
+    "category": "software",
+    "tags": [
+      "dev-tools",
+      "documentation",
+      "cli",
+      "developer",
+      "open-source"
+    ],
+    "platform": [
+      "mac",
+      "windows",
       "linux"
     ],
     "pricing": "free",
@@ -5189,6 +5856,25 @@
     "open_source": false
   },
   {
+    "name": "SigmaMind",
+    "url": "https://www.sigmamind.ai",
+    "logo": "",
+    "about": "Voice agents for call centers, on top of the dialer you already run",
+    "description": "SigmaMind places and answers phone calls with AI agents for lead qualification, appointment setting, collections, and support. It connects to an existing dialer or contact-center stack, such as VICIdial, Five9, or Genesys, and bills pay-as-you-go. Vapi, already listed, is the developer API for building phone agents.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "voice-ai",
+      "productivity"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "paid",
+    "open_source": false,
+    "id": "f26201c6-3c53-4464-83a9-0ada3a736439"
+  },
+  {
     "id": "7321347b-1c9a-4edd-ac9c-c67ca227feea",
     "name": "Silex",
     "url": "https://www.silex.me",
@@ -5320,6 +6006,27 @@
     ],
     "pricing": "freemium",
     "open_source": true
+  },
+  {
+    "id": "b2096865-90d2-43e1-b832-a15f8152ed07",
+    "name": "Stitch",
+    "url": "https://stitch.withgoogle.com",
+    "logo": "",
+    "about": "Google's prompt-to-UI tool for generating screens and exporting code",
+    "description": "Stitch, from Google Labs, generates interface screens from a text, image, or voice prompt and exports them toward code or a design tool. It is free to use with a Google account, with monthly generation limits and no paid plan. Lovable, also added here, ships a running hosted app. Stitch is the design.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "design",
+      "designer",
+      "graphic-design",
+      "google"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "free",
+    "open_source": false
   },
   {
     "id": "c9d96536-fd84-4c03-8595-09de3153121d",
@@ -5688,6 +6395,45 @@
     "open_source": false
   },
   {
+    "id": "0d0f3f58-80e9-4b52-b938-41270681623b",
+    "name": "Udio",
+    "url": "https://www.udio.com",
+    "logo": "https://www.udio.com/favicon.ico",
+    "about": "Generate a full song with vocals from a text prompt",
+    "description": "Udio generates songs, including vocals and instrumentals, from a description of genre, mood, and lyrics. It is the other name people search next to Suno, which is already in this catalogue. Like Suno, its training data and outputs have drawn copyright disputes from the music industry.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "music",
+      "text-generation",
+      "general-consumer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false
+  },
+  {
+    "id": "a2c7f1b7-df65-45c7-b871-bbbdcf44ba2f",
+    "name": "Unclack",
+    "url": "https://unclack.app",
+    "logo": "",
+    "about": "Mutes the Mac microphone while you type, then unmutes when you stop",
+    "description": "Unclack is a free Mac utility that mutes the default microphone for as long as you are typing, so a mechanical keyboard does not land in a call, and unmutes when you stop. It uses the system mute control, so it follows whichever mic is selected. It requires macOS Sequoia or later.",
+    "category": "software",
+    "tags": [
+      "productivity",
+      "general-consumer",
+      "offline-capable"
+    ],
+    "platform": [
+      "mac"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
     "id": "f70f5746-6b39-44c4-ad47-be5106e19b95",
     "name": "Unsplash",
     "url": "https://unsplash.com",
@@ -5708,6 +6454,26 @@
       "web"
     ],
     "pricing": "free",
+    "open_source": false
+  },
+  {
+    "id": "35f94b57-fec4-443c-89d8-098f857d0761",
+    "name": "Vapi",
+    "url": "https://vapi.ai",
+    "logo": "https://vapi.ai/favicon.ico",
+    "about": "Developer platform for building phone agents that answer and place calls",
+    "description": "Vapi is an API for voice agents: you define the assistant, connect a phone number, and the platform handles speech, the model, and the call. It is the developer tool for inbound and outbound phone agents. ElevenLabs, already listed, is speech synthesis rather than a call platform.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "voice-ai",
+      "developer",
+      "dev-tools"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
     "open_source": false
   },
   {
@@ -5939,6 +6705,28 @@
     "open_source": false
   },
   {
+    "id": "d5c423a6-9967-4f64-a149-86066a01a43d",
+    "name": "Yank",
+    "url": "https://github.com/The-PatientZero/yank",
+    "logo": "",
+    "about": "Clipboard history for Mac and iPhone, with search, OCR, and iCloud sync",
+    "description": "Yank is a free, open-source clipboard manager: a searchable history on Mac and iPhone, OCR on images, tags, and private iCloud sync. Paste is a shortcut. Maccy, already listed, is the local Mac-only history. Yank is the one that also lives on the phone.",
+    "category": "software",
+    "tags": [
+      "clipboard",
+      "productivity",
+      "open-source",
+      "offline-capable",
+      "general-consumer"
+    ],
+    "platform": [
+      "mac",
+      "ios"
+    ],
+    "pricing": "free",
+    "open_source": true
+  },
+  {
     "id": "fa935354-04b7-4327-9550-d174dba5103e",
     "name": "youtube-subscriptions-ingest",
     "url": "https://github.com/EfficientStreet/youtube-subscriptions-ingest",
@@ -5959,6 +6747,28 @@
     ],
     "pricing": "free",
     "open_source": true
+  },
+  {
+    "name": "YouWare",
+    "url": "https://www.youware.com",
+    "logo": "https://www.youware.com/favicon.ico",
+    "about": "Prompt-to-app builder that also turns a Figma file into a live site",
+    "description": "YouWare generates full-stack apps and websites from a plain-language description, and can turn a Figma design into a live, editable site. A free tier covers the core builders. It is its own product, alongside Lovable and Blink.",
+    "category": "ai-tool",
+    "tags": [
+      "ai-powered",
+      "website-builder",
+      "no-code",
+      "coding-assistant",
+      "developer",
+      "designer"
+    ],
+    "platform": [
+      "web"
+    ],
+    "pricing": "freemium",
+    "open_source": false,
+    "id": "cedbb9cd-dc8d-4514-a396-e7a21a6edcdc"
   },
   {
     "id": "70b25679-bb96-41b1-81ee-edd54e205012",

@@ -1,0 +1,100 @@
+{
+  "note": "Learning resources kept out of tools.json. index.html searches tools.json only and does not load this file.",
+  "entries": [
+    {
+      "id": "a0b7db65-fb2e-4bc8-b5e6-a05e6dc1aa31",
+      "name": "365 Data Science",
+      "url": "https://365datascience.com",
+      "logo": "https://365datascience.com/favicon.ico",
+      "about": "Courses and projects for data science, analytics, and statistics",
+      "description": "365 Data Science is a course platform for data science, statistics, Excel, SQL, Python, and machine learning, with career-style projects alongside the lessons. It is study material, which is why it sits here instead of in the tool catalogue.",
+      "category": "website",
+      "tags": [
+        "education",
+        "student",
+        "general-consumer"
+      ],
+      "platform": [
+        "web"
+      ],
+      "pricing": "freemium",
+      "open_source": false
+    },
+    {
+      "id": "d7a2d4e6-92e7-4cb8-9f0f-d94b78f28571",
+      "name": "AlgoMaster",
+      "url": "https://algomaster.io",
+      "logo": "https://algomaster.io/favicon.ico",
+      "about": "Pattern-based coding and system-design prep for technical interviews",
+      "description": "AlgoMaster teaches coding-interview patterns and system design through visualizations, question sets, and a newsletter. It is a study site for interview prep, not a tool you use to build or operate something.",
+      "category": "website",
+      "tags": [
+        "education",
+        "developer",
+        "student"
+      ],
+      "platform": [
+        "web"
+      ],
+      "pricing": "freemium",
+      "open_source": false
+    },
+    {
+      "id": "9d0b19fb-72e9-4431-a067-36585a3cd45b",
+      "name": "Bosscoder Academy",
+      "url": "https://www.bosscoderacademy.com",
+      "logo": "",
+      "about": "Mentor-led DSA, system design, and interview programs for working engineers",
+      "description": "Bosscoder Academy runs structured upskilling programs for working software engineers: DSA, system design, mock interviews, and placement support, aimed at moving into product companies. A practice ground with coding problems sits alongside the paid programs.",
+      "category": "website",
+      "tags": [
+        "education",
+        "developer",
+        "student"
+      ],
+      "platform": [
+        "web"
+      ],
+      "pricing": "freemium",
+      "open_source": false
+    },
+    {
+      "id": "dae24913-e5d9-47cc-b390-796652812847",
+      "name": "DevOps Interview Questions",
+      "url": "https://github.com/NotHarshhaa/DevOps-Interview-Questions",
+      "logo": "",
+      "about": "A collected question bank for DevOps interviews",
+      "description": "DevOps Interview Questions is an open GitHub list of questions and answers across DevOps topics. It is a study list you read, not a product you run.",
+      "category": "website",
+      "tags": [
+        "education",
+        "developer",
+        "open-source"
+      ],
+      "platform": [
+        "web"
+      ],
+      "pricing": "free",
+      "open_source": true
+    },
+    {
+      "id": "47907eab-7b98-414c-9f75-b3cffaf92166",
+      "name": "LabEx",
+      "url": "https://labex.io",
+      "logo": "https://labex.io/favicon.ico",
+      "about": "Hands-on labs for Linux, DevOps, and cybersecurity",
+      "description": "LabEx is a lab platform where you practice Linux, DevOps, Kubernetes, and cybersecurity inside guided exercises instead of watching a lecture. It is courseware with a terminal, which is why it is filed here rather than as a tool.",
+      "category": "website",
+      "tags": [
+        "education",
+        "developer",
+        "student"
+      ],
+      "platform": [
+        "web"
+      ],
+      "pricing": "freemium",
+      "open_source": false
+    }
+  ]
+}
