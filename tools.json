@@ -156,6 +156,31 @@
     "open_source": true
   },
   {
+    "id": "24297ed9-530d-40b4-91fa-c311e9da2eae",
+    "name": "agent-qa",
+    "url": "https://vostride.com",
+    "logo": "",
+    "about": "Natural-language Web/mobile testing with memidex; FSL-permitted software use is free, model/device costs extra",
+    "description": "agent-qa helps developers and QA teams test Web, Android, and iOS apps from natural-language instructions through a CLI, local dashboard, and MCP. Its memidex engine stores reusable knowledge and procedures, with validated self-improvement from runs. The early-stage tool requires Node.js 24+. Software is free for FSL-1.1-ALv2-permitted uses (competing commercial use is restricted); model and device-service costs are separate.",
+    "category": "ai-tool",
+    "tags": [
+      "dev-tools",
+      "developer",
+      "cli",
+      "ai-powered",
+      "self-hosted",
+      "cross-platform",
+      "mcp",
+      "workflow-automation"
+    ],
+    "platform": [
+      "mac",
+      "linux"
+    ],
+    "pricing": "free",
+    "open_source": false
+  },
+  {
     "name": "AIApply",
     "url": "https://aiapply.co",
     "logo": "https://aiapply.co/favicon.ico",
